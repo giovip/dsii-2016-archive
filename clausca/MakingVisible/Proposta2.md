@@ -24,3 +24,9 @@ Impronte digitali … tracce come risultato visibile di un’azione? Le impronte
 ![3](http://gasparbattha.com/img/work/stamplamp/02.jpg?3)
 
 ![1](http://clipset.20minutos.es/wp-content/uploads/2013/09/the-sensor-takes-a-high-resolution-image-of-your-fingerprint.png?1)
+
+###### Varathit Uthaisri “SURFACE" An Experimental Film from Underneath | https://vimeo.com/4936492
+Surface è un film sperimentale che esplora il viaggio emozionale da una prospettiva urbana underground. Questa “sinfonia urbana” trasforma le azioni umane e gli oggetti di strada in beat che si fondono armoniosamente in una grandiosa composizione audiovisiva. Il film enfatizza inoltre il concetto delle “impronte” quali rappresentazioni astratte dell’identità umana.
+![1](http://www.adaagallery.com/admin/diskfiles/view/11/323426925f5f079d6f502bfbda6ed473/11323426925f5f079d6f502bfbda6ed473.jpeg?1)
+
+![1](https://i.ytimg.com/vi/NH4DPYR2pJI/maxresdefault.jpg?1)
