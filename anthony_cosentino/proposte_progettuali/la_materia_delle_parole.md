@@ -21,7 +21,7 @@ Riferimento.
 #####Caso 2.
 Il suono delle parole viene mostrato attraverso un equalizzatore fisico tridimensionale composto da un telo elastico e "n" motorini in corrispondenza delle varie frequenze. I motorini si sincronizzeranno con queste ultime dando vita ad una superficie in continuo mutamento.
 
-Riferimento.
+Riferimento. When i'm pregnant, Anish Kapoor
 
 ![](https://iamzhangyuan.files.wordpress.com/2011/10/when-i-am-pregnant1.jpg)
 
