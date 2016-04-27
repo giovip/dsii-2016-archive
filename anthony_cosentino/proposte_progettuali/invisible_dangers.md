@@ -27,4 +27,7 @@ CASO 1: Arduino, Provessing, EMF Wave detector, Mini Thermal Receipt Printer
 
 CASO 2: Arduino, Processing, EMF Wave detector, Cilindri trasparenti
 
+###Riferimenti:
+https://www.youtube.com/watch?v=8vkWb15Uudg
+
 
