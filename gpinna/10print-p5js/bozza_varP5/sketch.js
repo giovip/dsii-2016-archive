@@ -40,3 +40,5 @@ function draw() {
     set(0, 0, image);
     index = 0;
   }
+
+}
