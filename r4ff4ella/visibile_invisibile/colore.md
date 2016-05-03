@@ -32,12 +32,14 @@ Per semplicità lavorerò sui soli colori spettrali o puri, (quelli corrisponden
 
 Per seguire un ragionamento coerente è opportuno trasformare i dati in modo che si arrivi infine al colore (perche ogni lunghezza d'onda dello spettro visibile è rappresentabile come un colore, ma non viceversa).
 
-#Risorse
+![](http://i.imgur.com/Vzf0oLg.jpg?1)
+
+###Risorse
 
 Codice Javascript per convertire le lunghezze d'onda dello spettro visibile (range di valori da 380 a 780 nm) in colori RGB [qui ](http://scienceprimer.com/javascript-code-convert-light-wavelength-color). 
 
 
-### rifermenti
+### Rifermenti
 [_TED: I listen to color, Neil Harbisson ](https://www.ted.com/talks/neil_harbisson_i_listen_to_color)
 
 
