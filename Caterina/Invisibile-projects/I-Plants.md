@@ -14,7 +14,7 @@
 
 ###SIMILAR PROJECTS OR TECHNOLOGY
 
-![BOTANICUS INTERACTICUS](http://i.imgur.com/Hr4iskU.jpg?1) ![SINGING PLANT](http://i.imgur.com/CTYFpfh.jpg?1) ![AKOUSMAFLORE](http://i.imgur.com/n6DP6Pf.jpg?1) ![SOUND GARDENING](http://i.imgur.com/bJmEo5L.jpg?1)
+![BOTANICUS INTERACTICUS](http://i.imgur.com/Hr4iskU.jpg?1) ![SINGING PLANT](http://i.imgur.com/CTYFpfh.jpg?1) ![AKOUSMAFLORE](http://i.imgur.com/n6DP6Pf.jpg?1) ![SOUND GARDENING](http://i.imgur.com/bJmEo5L.jpg?2)
 
 
 
