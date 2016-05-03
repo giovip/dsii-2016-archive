@@ -15,11 +15,29 @@ osserva il colore.
 Quello che vorrei proporre è un modo diverso di “sentire” il colore, legato al suo aspetto invisibile, che fa riferimento 
 alla sua natura fisica: l’essere sostanzialmente energia che si propaga come onda elettromagnetica riflessa dagli oggetti.
 
+Per seguire un ragionamento coerente 
 
+Codice Javascript per convertire le lunghezze d'onda dello spettro visibile in colori RGB [qui ](http://scienceprimer.com/javascript-code-convert-light-wavelength-color). 
 
 
 ### rifermenti
 [_TED: I listen to color, Neil Harbisson ](https://www.ted.com/talks/neil_harbisson_i_listen_to_color)
+
+
+installazioni basate sul colore
+
+
+[_Chromosaturation: Interactive Art Installations, Carlos Cruz-Diez](http://theinspirationgrid.com/chromosaturation-interactive-art-installations-by-carlos-cruz-diez/)
+
+
+installazioni basate su fenomeni fisici
+
+
+[_Matière noire / Dark matter ](http://www.scenocosme.com/matiere_noire_en.htm#1)
+
+
+[_Entre fiction et réalité_Ambre Fluide ](http://www.scenocosme.com/fiction_realite_en.htm)
+
 
 
 
