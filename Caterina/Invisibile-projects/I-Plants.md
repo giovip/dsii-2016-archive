@@ -12,6 +12,13 @@
 ###REFERENCE
 ![Reference](http://i.imgur.com/PTkB009.jpg)
 
+###SIMILAR PROJECTS OR TECHNOLOGY
+
+![BOTANICUS INTERACTICUS](http://www.botanicus-interacticus.com/wp-content/themes/alienship/img/lead-img-01.jpg) 
+- _BOTANICUS INTERACTICUS - _, 2012, Disney Reasearch [+](http://www.disneyresearch.com/project/botanicus-interacticus-interactive-plant-technology)
+
+
+
 
 
 ###WHAT IS |
