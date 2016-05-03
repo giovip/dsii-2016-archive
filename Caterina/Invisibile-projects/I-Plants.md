@@ -14,7 +14,7 @@
 
 ###SIMILAR PROJECTS OR TECHNOLOGY
 
-![BOTANICUS INTERACTICUS](http://i.imgur.com/Hr4iskU.jpg?1) ![SINGING PLANT](http://i.imgur.com/L7KcJse.jpg?1) ![AKOUSMAFLORE](http://i.imgur.com/W3dCcoJ.jpg?1)
+![BOTANICUS INTERACTICUS](http://i.imgur.com/Hr4iskU.jpg?1) ![SINGING PLANT](http://i.imgur.com/CTYFpfh.jpg?1) ![AKOUSMAFLORE](http://i.imgur.com/n6DP6Pf.jpg?1)
 
 
 - _BOTANICUS INTERACTICUS - _, 2012, Disney Reasearch [+](http://www.disneyresearch.com/project/botanicus-interacticus-interactive-plant-technology)
