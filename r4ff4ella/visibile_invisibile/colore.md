@@ -9,15 +9,32 @@ da esperienze e riferimenti.
 La sensazione di colore è un'esperienza dovuta alla stimolazione dei fotorecettori dell'occhio (coni visione tricromatica) 
 da parte di una radiazione elettromagnetica visibile (la luce); 
 
-Il colore percepito dipende da diversi fattori quali la sorgente luminosa, chi osserva e il materiale dell’oggetto di cui si 
+Il colore percepito dipende da diversi fattori quali la sorgente luminosa, l'osservatore e il materiale dell’oggetto di cui si 
 osserva il colore.
+
 
 Quello che vorrei proporre è un modo diverso di “sentire” il colore, legato al suo aspetto invisibile, che fa riferimento 
 alla sua natura fisica: l’essere sostanzialmente energia che si propaga come onda elettromagnetica riflessa dagli oggetti.
 
-Per seguire un ragionamento coerente 
 
-Codice Javascript per convertire le lunghezze d'onda dello spettro visibile in colori RGB [qui ](http://scienceprimer.com/javascript-code-convert-light-wavelength-color). 
+
+
+
+## DATI : Energia_Onda_Colore
+
+In generale per radiazione si intende la propagazione di energia tramite onde. Ogni onda è descritta attraverso lunghezza d'onda e frequenza.
+
+Il concetto di energia a cui faccio riferimento è il più generico: l'attitudine a compiere un lavoro, quindi un azione fisica, che comporti l'uso di una certa forza misurabile attraverso sensori e associabile secondo una relazione inversamente proporzionale _(1)_ al range di valori delle lunghezze d'onda dello spettro visibile (da 380 a 780 nm), a cui associare il colore RGB corrispondente.
+
+_(1) La relazione esistente tra l'unghezza d'onda e frequenza è inverzamente proporzionale, quella esistente tra frequenza ed energia dell'onda è direttamente proporzionale, quindi la relazione esistente tra energia di un onda e la sua lunghezza è inversamente proporzionale. Questo vuol dire che maggiore sarà la lunghezza d'onda, minore sarà l'energia condotta dall'onda._
+
+Per semplicità lavorerò sui soli colori spettrali o puri, (quelli corrispondenti alle radiazioni monocromatiche dello spettro visibile, quelli cioè riconducibili ad un unica lunghezza d'onda)
+
+Per seguire un ragionamento coerente è opportuno trasformare i dati in modo che si arrivi infine al colore (perche ogni lunghezza d'onda dello spettro visibile è rappresentabile come un colore, ma non viceversa).
+
+#Risorse
+
+Codice Javascript per convertire le lunghezze d'onda dello spettro visibile (range di valori da 380 a 780 nm) in colori RGB [qui ](http://scienceprimer.com/javascript-code-convert-light-wavelength-color). 
 
 
 ### rifermenti
