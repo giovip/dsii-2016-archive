@@ -4,10 +4,14 @@
 ##I-Plants
 
 ###CONCEPT
+![Brainstorming about plants](http://i.imgur.com/HKTG8SR.jpg?1)
+![Frasi e parole](http://i.imgur.com/zbLipPl.jpg?1)
+
 
 
 ###REFERENCE
-http://imgur.com/PTkB009
+![Reference](http://imgur.com/PTkB009)
+
 
 
 ###WHAT IS |
