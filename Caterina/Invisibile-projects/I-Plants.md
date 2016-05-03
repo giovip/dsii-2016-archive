@@ -14,8 +14,15 @@
 
 ###SIMILAR PROJECTS OR TECHNOLOGY
 
-![BOTANICUS INTERACTICUS](http://www.botanicus-interacticus.com/wp-content/themes/alienship/img/lead-img-01.jpg) 
+![BOTANICUS INTERACTICUS](http://i.imgur.com/Hr4iskU.jpg?1) ![SINGING PLANT](http://i.imgur.com/L7KcJse.jpg?1) ![AKOUSMAFLORE](http://i.imgur.com/W3dCcoJ.jpg?1)
+
+
 - _BOTANICUS INTERACTICUS - _, 2012, Disney Reasearch [+](http://www.disneyresearch.com/project/botanicus-interacticus-interactive-plant-technology)
+- _SINGING PLANT - _, 2012, Madshobye
+[+](http://www.instructables.com/id/Singing-plant-Make-your-plant-sing-with-Arduino-/?ALLSTEPS)
+- _AKOUSMAFLORE - _, 2007, Grégory Lasserre & Anaïs met den Ancxt
+[+](http://www.scenocosme.com/akousmaflore.htm)
+
 
 
 
