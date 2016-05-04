@@ -1,16 +1,16 @@
 # TEMPO
 
 ## 1.TITOLO.
-La trama del tempo (?)
-Il silenzio del tempo (?)
+La trama del tempo (?)  
+Il silenzio del tempo (?)  
 
 ## 2.PAROLE CHIAVE
-_scorrere
-_avvolgere
-_riavvolgere
+_scorrere  
+_avvolgere  
+_riavvolgere  
 _misurare 
-_cancellare
-_STRATIFICARE
+_cancellare  
+_STRATIFICARE  
 _di-vertire (deviare)
 
 
