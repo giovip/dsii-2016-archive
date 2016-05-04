@@ -8,7 +8,7 @@ Il silenzio del tempo (?)
 _scorrere  
 _avvolgere  
 _riavvolgere  
-_misurare 
+_misurare   
 _cancellare  
 _STRATIFICARE  
 _di-vertire (deviare)
