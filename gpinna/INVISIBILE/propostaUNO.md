@@ -13,6 +13,8 @@ _cancellare
 _STRATIFICARE  
 _di-vertire (deviare)
 
+## 3.CONCEPT
+L'idea si basa sul costruire un sistema/installazione per rappresentare/rendere visibile il tempo, che ne evidenzi lo scorrere in modo più fisico e plasmabile. 
 
 ## Riferimenti.
 - [Chrono-Shredder, 2011, Susanna Hertrich] (http://www.susannahertrich.com/art/chronoshredder.shtml)  
