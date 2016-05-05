@@ -20,6 +20,9 @@ esempio un utente entrando in un centro commerciale può visualizzare un tragitt
 potrebbe interessargli. Questo percorso è personalizzato e naturalmente invisibile ma potrebbe essere molto interessante ed utile se 
 venisse reso facilmente visibile.
 
-Nel primo caso il sistema potrebbe funzionare con un semplice codice a barre (o un QR code) e un grande schermo LCD che aiuti a 
-visualizzare la strada da percorrere, mentre nel secondo caso ci sarebbe bisogno di una connessione wireless per individuare gli interessi
-dell'utente (e questo grazie all'aiuto dei social network).
+Nel primo caso il sistema potrebbe funzionare con un semplice codice a barre (o un QR code) e un grande schermo LCD (o teleindicatore a palette) che aiuti a 
+visualizzare la strada da percorrere, mentre nel secondo caso ci sarebbe bisogno di una connessione wireless per individuare gli interessi dell'utente (e questo grazie all'aiuto dei social network).
+
+![](http://i.imgur.com/3Bz3gSv.jpg?1)
+
+Questa rappresentazione può adottare due soluzioni diverse, una usufruisce di uno schermo LCD su cui sono proiettate delle linee che volteggiano senza un ordine preciso, ma non appena viene mostrato il codice al lettore questi elementi si uniscono immediatamente, come se fossero attirate da una calamita, andando ad indicare la strada all'utente. Il secondo caso usufruisce del sistema dei teleindicatori a palette presenti nelle stazioni ferroviarie e negli aeroporti. Un muro ricoperto da questi split flap si attiva appena viene letto il codice, in questo modo le palette si muovono andando a comporre il disegno di una linea che servirà a rendere visibile il tragitto che serve al fruitore.
