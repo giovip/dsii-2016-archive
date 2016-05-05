@@ -1,6 +1,6 @@
 ###  IMPRONTA REALE - IMPRONTA VIRTUALE 
 ####La bolla invisibile del Web
-( _in progress..._)
+
 
 1. Ogni giorno lasciamo nel web tracce di noi, tracce virtuali che non vediamo, tracce che formano nostra identità virtuale.
 Ad ogni movimento nel web produciamo dati, i  motori di ricerca e i social network ci conoscono sempre meglio e grazie alle tracce che lasciamo in rete, sanno cosa ci piace e selezionano i risultati scegliendo solo i più adatti a noi. 
@@ -21,4 +21,4 @@ Un dispositivo “fotografa” un individuo attraverso il suo profilo virtuale (
 2. Immettere dati nel web. I dati una volta entrati nella realtà virtuale finiranno per disperdersi, per evaporare dileguandosi.
 
 
-( _in progress..._)
+
