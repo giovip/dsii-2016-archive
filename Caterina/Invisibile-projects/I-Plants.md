@@ -4,10 +4,33 @@
 ##I-Plants
 
 ###CONCEPT
+![Brainstorming about plants](http://i.imgur.com/HKTG8SR.jpg?1)
+![Frasi e parole](http://i.imgur.com/zbLipPl.jpg?1)
+
 
 
 ###REFERENCE
-http://imgur.com/PTkB009
+![Reference](http://i.imgur.com/PTkB009.jpg)
+
+###SIMILAR PROJECTS OR TECHNOLOGY
+
+![BOTANICUS INTERACTICUS](http://i.imgur.com/Hr4iskU.jpg?1) ![SINGING PLANT](http://i.imgur.com/CTYFpfh.jpg?1)![RÊVOLUTIONS](http://i.imgur.com/9jSRPeZ.jpg?1) ![AKOUSMAFLORE](http://i.imgur.com/n6DP6Pf.jpg?1) ![SOUND GARDENING](http://i.imgur.com/bJmEo5L.jpg?3)
+
+
+
+- _BOTANICUS INTERACTICUS - _, 2012, Disney Reasearch [+](http://www.disneyresearch.com/project/botanicus-interacticus-interactive-plant-technology)
+- _SINGING PLANT - _, 2012, Madshobye
+[+](http://www.instructables.com/id/Singing-plant-Make-your-plant-sing-with-Arduino-/?ALLSTEPS)
+- _RÊVOLUTIONS - _, 2015, Céleste Boursier-Mougenot,
+[+](https://www.youtube.com/watch?v=SIM2EZ5EVw8)
+- _AKOUSMAFLORE - _, 2007, Grégory Lasserre & Anaïs met den Ancxt
+[+](http://www.scenocosme.com/akousmaflore.htm)
+- _SOUND GARDENING - _, 2012, Yuki ANAI, Jack SHAW, Yupeng PAN
+[+](http://sorauta.net/products/sound_gardening)
+
+
+
+
 
 
 ###WHAT IS |
