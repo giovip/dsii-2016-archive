@@ -1,0 +1,27 @@
+float angX, angY, angX2, angY2;
+ 
+void setup() {
+  size(520, 520);
+  background(#FAFACC);
+}
+ 
+void draw() {
+  if (frameCount < 3143) drawCurve();
+}
+ 
+void drawCurve() {
+  float x = width/2 + (50 * sin(angX)) + (200 * sin(angX2));
+  float y = height/2 + (50 * sin(angY)) + (200 * sin(angY2));
+  angX2 += .004;
+  angY2 += .002;
+  angX += .072;
+  angY += .036;
+ 
+  stroke(#40063E, 100);
+  strokeWeight(.2);
+  line(width/2, height/2, x, y);
+ 
+  fill(#40063E);
+  noStroke();
+  ellipse(x, y, 1.5, 1.5);
+}
