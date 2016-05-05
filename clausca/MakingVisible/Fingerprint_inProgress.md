@@ -25,12 +25,10 @@ Possibilità di utilizzare un lettore di impronte come sola periferica di acquis
 ##### Ispirazioni | Immagini evocative <br>
 ![4](https://forensicassurance.com/wordpress/wp-content/uploads/2013/05/iStock_000009287767_Medium-e1369583400498.jpg?4)
 
-###### Gaspar Battha “Stamp Lamp” Berlin, 2012
+###### Gaspar Battha “Stamp Lamp” Berlin, 2012 | https://vimeo.com/61024112
 
 ![2](http://gasparbattha.com/img/work/stamplamp/01.jpg?2)
 ![3](http://gasparbattha.com/img/work/stamplamp/02.jpg?3)
-
-![1](http://clipset.20minutos.es/wp-content/uploads/2013/09/the-sensor-takes-a-high-resolution-image-of-your-fingerprint.png?1)
 
 ###### Varathit Uthaisri “SURFACE" An Experimental Film from Underneath | https://vimeo.com/4936492
 Surface è un film sperimentale che esplora il viaggio emozionale da una prospettiva urbana underground. Questa “sinfonia urbana” trasforma le azioni umane e gli oggetti di strada in beat che si fondono armoniosamente in una grandiosa composizione audiovisiva. Il film enfatizza inoltre il concetto delle “impronte” quali rappresentazioni astratte dell’identità umana.
