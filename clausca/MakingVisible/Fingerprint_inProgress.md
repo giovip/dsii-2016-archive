@@ -22,25 +22,32 @@ Possibilità di utilizzare un lettore di impronte come sola periferica di acquis
 - Impronte digitali … tracce come risultato visibile di un’azione? Le impronte che lasciamo sui luoghi vissuti nel quotidiano. Una radiografia degli spazi più frequentati che mostra le tracce lasciate dall'uomo...impronte come presenze, come fantasmi non visibili ad occhio nudo...un ingrandimento degli spazi vissuti per svelare le innumerevoli tracce che lasciamo. 
 - Ingrandimento sulle impronte per renderne visibili i dettagli e la configurazione. Possibilità di stampare la propria impronta.
 
-##### Ispirazioni | Immagini evocative <br>
-![4](https://forensicassurance.com/wordpress/wp-content/uploads/2013/05/iStock_000009287767_Medium-e1369583400498.jpg?4)
+### RIFERIMENTI <br>
 
-###### Gaspar Battha “Stamp Lamp” Berlin, 2012 | https://vimeo.com/61024112
-
+##### Gaspar Battha “Stamp Lamp” Berlin, 2012 | https://vimeo.com/61024112
 ![2](http://gasparbattha.com/img/work/stamplamp/01.jpg?2)
 ![3](http://gasparbattha.com/img/work/stamplamp/02.jpg?3)
 
-###### Varathit Uthaisri “SURFACE" An Experimental Film from Underneath | https://vimeo.com/4936492
+##### Varathit Uthaisri “SURFACE" An Experimental Film from Underneath | https://vimeo.com/4936492
 Surface è un film sperimentale che esplora il viaggio emozionale da una prospettiva urbana underground. Questa “sinfonia urbana” trasforma le azioni umane e gli oggetti di strada in beat che si fondono armoniosamente in una grandiosa composizione audiovisiva. Il film enfatizza inoltre il concetto delle “impronte” quali rappresentazioni astratte dell’identità umana.
 ![1](https://i.ytimg.com/vi/NH4DPYR2pJI/maxresdefault.jpg?1)
 
-###### Yoon Chung Han "Digiti Sonus", 2012-2013 | https://vimeo.com/51887149
+##### Yoon Chung Han "Digiti Sonus", 2012-2013 | https://vimeo.com/51887149
 Installazione interattiva che trasforma le impronte digitali in suoni.
 ![1](http://zkm.de/media/styles/zkm_popup/public/bild/2015_zkm_infosphaere_yoon-chung-han-und-byeong-jun-han_001.jpg?itok=Vl0D7DJe?1)
 
-###### Rafael Lozano-Hemmer "Pulse Index", 2010 | https://vimeo.com/35662451
+##### Rafael Lozano-Hemmer "Pulse Index", 2010 | https://vimeo.com/35662451
 Installazione interattiva che registra le impronte digitali dei visitatori e al tempo stesso il battito cardiaco. Le impronte appaiono su un grande display pulsando al ritmo del battito.(Microscopio digitale + heart rate sensor)
 
-###### William LeGoullon "Fingerprints of Drinkable Culture " 
+##### William LeGoullon "Fingerprints of Drinkable Culture" 
 Quali tracce stanno dietro le azioni umane? Fotografie realizzate al microscopio, di resti – tanto freschi, quanto secchi – di bevande comuni come il te, la birra o il vino.(Microscopio digitale)[+](http://williamlegoullon.com/fingerprints-of-drinkable-culture/) 
 ![1](http://topphotographyfilms.com/wp-content/uploads/0201/03/Fingerprints-of-Drinkable-Culture.jpg?1)
+
+##### Bartholomäus Traubeck  "Years", 2011 |  https://vimeo.com/30501143
+Years può leggere gli anelli dei tronchi degli alberi e trasformarli in musica.<br> 
+![1](http://www.santorinibiennale.gr/2012/wp-content/uploads/2012/06/years-5.jpg?1)
+Guardando la sezione di un tronco d’albero spiccano questi cerchi concentrici che ricordano moltissimo l’aspetto di un comune vinile, tutti diversi tra loro, come le _impronte digitali_ di ciascun essere umano, che dunque conservano al loro interno la loro storia e il loro vissuto. Attraverso un macchinario particolare composto da un computer, un giradischi modificato, una telecamera e una luce a led, Traubeck unisce il legno alla musica, facendo suonare vinili in legno.<br> Un laser specifico legge i cerchi visibili all’interno del tronco (che di solito indicano l’età e lo stato di salute della pianta) e le sue caratteristiche (forza del tronco, spessore degli anelli, densità e colore del legno) trasformandoli in melodie al pianoforte, grazie a un algoritmo che associa ogni caratteristica a una nota e al corrispondente volume. Il risultato sono sette brani diversi per sette tipi di alberi, poiché ognuno di essi presenta caratteristiche particolari e differenti da tutti gli altri. 
+
+
+
+
