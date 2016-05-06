@@ -2,7 +2,7 @@
 
 ##PROBLEMA
 Le automobili sono il principale mezzo di locomozione in Italia, l’aumento  dal 2004 ad oggi è stato di 4 milioni, in totale circa 37 milioni di auto (610 ogni 1000 abitanti) [Dati ACI](http://www.comuni-italiani.it/statistiche/veicoli.html).
-Quando noi siamo in automobile il tempo che impieghiamo per utilizzarla crea due principali inconvenienti: inquinamento e molto spesso la perdita di tempo per arrivare in un luogo.
+Quando noi siamo in automobile il tempo che impieghiamo per utilizzarla crea due principali inconvenienti: inquinamento e per la maggior parte dei "casi" la perdita di tempo per arrivare in un luogo.
 La maggior parte delle persone non si chiede quanto tempo impiega sul mezzo di trasporto, o lo spazio di percorrenza da una zona all'altra, ne tantomeno quanto sta inquinando l'ambiente o la salute delle persone. 
 
 ##IDEA
