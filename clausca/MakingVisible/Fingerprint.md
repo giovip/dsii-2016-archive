@@ -33,11 +33,13 @@ Surface è un film sperimentale che esplora il viaggio emozionale da una prospet
 ![1](https://i.ytimg.com/vi/NH4DPYR2pJI/maxresdefault.jpg?1)
 
 ##### Rafael Lozano-Hemmer "Pulse Index", 2010 | https://vimeo.com/35662451
-Installazione interattiva che registra le impronte digitali dei visitatori e al tempo stesso il battito cardiaco. Le impronte appaiono su un grande display pulsando al ritmo del battito.(Microscopio digitale + heart rate sensor)
+Installazione interattiva che registra le impronte digitali dei visitatori e al tempo stesso il battito cardiaco. Le impronte appaiono su un grande display pulsando al ritmo del battito. (Microscopio digitale + heart rate sensor)
+
 ![1](https://www.sundance.org/images/filmguide/2013/130006-1.jpg?1)
 
 ##### William LeGoullon "Fingerprints of Drinkable Culture" [+](http://williamlegoullon.com/fingerprints-of-drinkable-culture/) 
 Quali tracce stanno dietro le azioni umane? Fotografie realizzate al microscopio, di resti – tanto freschi, quanto secchi – di bevande comuni come il te, la birra o il vino. (Microscopio digitale)
+
 ![1](http://topphotographyfilms.com/wp-content/uploads/0201/03/Fingerprints-of-Drinkable-Culture.jpg?1)
 
 
@@ -45,6 +47,7 @@ Quali tracce stanno dietro le azioni umane? Fotografie realizzate al microscopio
 
 ##### -Yoon Chung Han "Digiti Sonus", 2012-2013 | https://vimeo.com/51887149
 Installazione interattiva che trasforma le impronte digitali in suoni.
+
 ![1](http://zkm.de/media/styles/zkm_popup/public/bild/2015_zkm_infosphaere_yoon-chung-han-und-byeong-jun-han_001.jpg?itok=Vl0D7DJe?1)
 
 ##### -Yoon Chung Han "Sound Tree Rings", Sound Visualization, (2013) | https://vimeo.com/64589172
@@ -57,6 +60,7 @@ Applicazione iOS. Gli utenti, mediante l'app, possono registrare "momenti sonori
 ##### -Bartholomäus Traubeck  "Years", 2011 |  https://vimeo.com/30501143
 Years può leggere gli anelli dei tronchi degli alberi e trasformarli in musica.<br> 
 Guardando la sezione di un tronco d’albero spiccano questi cerchi concentrici che ricordano moltissimo l’aspetto di un comune vinile, tutti diversi tra loro, come le _impronte digitali_ di ciascun essere umano, che dunque conservano al loro interno la loro storia e il loro vissuto. Attraverso un macchinario particolare composto da un computer, un giradischi modificato, una telecamera e una luce a led, Traubeck unisce il legno alla musica, facendo suonare vinili in legno.<br> Un laser specifico legge i cerchi visibili all’interno del tronco (che di solito indicano l’età e lo stato di salute della pianta) e le sue caratteristiche (forza del tronco, spessore degli anelli, densità e colore del legno) trasformandoli in melodie al pianoforte, grazie a un algoritmo che associa ogni caratteristica a una nota e al corrispondente volume. Il risultato sono sette brani diversi per sette tipi di alberi, poiché ognuno di essi presenta caratteristiche particolari e differenti da tutti gli altri. 
+
 ![1](http://www.santorinibiennale.gr/2012/wp-content/uploads/2012/06/years-5.jpg?1)
 
 
