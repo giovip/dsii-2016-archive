@@ -46,9 +46,13 @@ Installazione interattiva che trasforma le impronte digitali in suoni.
 
 ##### Bartholomäus Traubeck  "Years", 2011 |  https://vimeo.com/30501143
 Years può leggere gli anelli dei tronchi degli alberi e trasformarli in musica.<br> 
-![1](http://www.santorinibiennale.gr/2012/wp-content/uploads/2012/06/years-5.jpg?1)
 Guardando la sezione di un tronco d’albero spiccano questi cerchi concentrici che ricordano moltissimo l’aspetto di un comune vinile, tutti diversi tra loro, come le _impronte digitali_ di ciascun essere umano, che dunque conservano al loro interno la loro storia e il loro vissuto. Attraverso un macchinario particolare composto da un computer, un giradischi modificato, una telecamera e una luce a led, Traubeck unisce il legno alla musica, facendo suonare vinili in legno.<br> Un laser specifico legge i cerchi visibili all’interno del tronco (che di solito indicano l’età e lo stato di salute della pianta) e le sue caratteristiche (forza del tronco, spessore degli anelli, densità e colore del legno) trasformandoli in melodie al pianoforte, grazie a un algoritmo che associa ogni caratteristica a una nota e al corrispondente volume. Il risultato sono sette brani diversi per sette tipi di alberi, poiché ognuno di essi presenta caratteristiche particolari e differenti da tutti gli altri. 
+![1](http://www.santorinibiennale.gr/2012/wp-content/uploads/2012/06/years-5.jpg?1)
 
-
-
+##### Yoon Chung Han "Sound Tree Rings", Sound Visualization, (2013) | https://vimeo.com/64589172
+Applicazione iOS. Gli utenti, mediante l'app, possono registrare "momenti sonori", ovvero suoni che fanno parte del soundscape, paesaggio sonoro in cui siamo immersi nel quotidiano, catturando le proprie esperienze sonore che vengono organizzate sotto forma di spirale temporale. La spirale temporale ricorda gli anelli dei tronchi degli alberi. Il risultato sonoro può essere salvato e stampato su carta o su legno. 
+[+] (http://yoonchunghan.com/portfolio/SoundTreeRings_iOS.html)
+[+](http://yoonchunghan.com/portfolio/treering.html)
+![1](http://payload.cargocollective.com/1/3/100298/1449474/YoonChungHan_TreeRings_01.jpg?1)<br>
+![1](http://yoonchunghan.com/Works/TreeRings/Newyork_01.jpg?1) <br>
 
