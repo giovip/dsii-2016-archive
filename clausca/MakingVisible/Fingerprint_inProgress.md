@@ -36,8 +36,8 @@ Surface è un film sperimentale che esplora il viaggio emozionale da una prospet
 Installazione interattiva che registra le impronte digitali dei visitatori e al tempo stesso il battito cardiaco. Le impronte appaiono su un grande display pulsando al ritmo del battito.(Microscopio digitale + heart rate sensor)
 ![1](https://www.sundance.org/images/filmguide/2013/130006-1.jpg?1)
 
-##### William LeGoullon "Fingerprints of Drinkable Culture" 
-Quali tracce stanno dietro le azioni umane? Fotografie realizzate al microscopio, di resti – tanto freschi, quanto secchi – di bevande comuni come il te, la birra o il vino. (Microscopio digitale)[+](http://williamlegoullon.com/fingerprints-of-drinkable-culture/) 
+##### William LeGoullon "Fingerprints of Drinkable Culture" [+](http://williamlegoullon.com/fingerprints-of-drinkable-culture/) 
+Quali tracce stanno dietro le azioni umane? Fotografie realizzate al microscopio, di resti – tanto freschi, quanto secchi – di bevande comuni come il te, la birra o il vino. (Microscopio digitale)
 ![1](http://topphotographyfilms.com/wp-content/uploads/0201/03/Fingerprints-of-Drinkable-Culture.jpg?1)
 
 
