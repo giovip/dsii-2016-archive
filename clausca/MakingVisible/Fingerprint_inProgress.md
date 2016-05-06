@@ -22,7 +22,7 @@ Possibilità di utilizzare un lettore di impronte come sola periferica di acquis
 - Impronte digitali … tracce come risultato visibile di un’azione? Le impronte che lasciamo sui luoghi vissuti nel quotidiano. Una radiografia degli spazi più frequentati che mostra le tracce lasciate dall'uomo...impronte come presenze, come fantasmi non visibili ad occhio nudo...un ingrandimento degli spazi vissuti per svelare le innumerevoli tracce che lasciamo. 
 - Ingrandimento sulle impronte per renderne visibili i dettagli e la configurazione. Possibilità di stampare la propria impronta.
 
-### RIFERIMENTI <br>
+### ISPIRAZIONI <br>
 
 ##### Gaspar Battha “Stamp Lamp” Berlin, 2012 | https://vimeo.com/61024112
 ![2](http://gasparbattha.com/img/work/stamplamp/01.jpg?2)
@@ -40,19 +40,22 @@ Installazione interattiva che registra le impronte digitali dei visitatori e al 
 Quali tracce stanno dietro le azioni umane? Fotografie realizzate al microscopio, di resti – tanto freschi, quanto secchi – di bevande comuni come il te, la birra o il vino. (Microscopio digitale)[+](http://williamlegoullon.com/fingerprints-of-drinkable-culture/) 
 ![1](http://topphotographyfilms.com/wp-content/uploads/0201/03/Fingerprints-of-Drinkable-Culture.jpg?1)
 
-##### Yoon Chung Han "Digiti Sonus", 2012-2013 | https://vimeo.com/51887149
+
+### RIFERIMENTI PER IL PROGETTO <br>
+
+##### -Yoon Chung Han "Digiti Sonus", 2012-2013 | https://vimeo.com/51887149
 Installazione interattiva che trasforma le impronte digitali in suoni.
 ![1](http://zkm.de/media/styles/zkm_popup/public/bild/2015_zkm_infosphaere_yoon-chung-han-und-byeong-jun-han_001.jpg?itok=Vl0D7DJe?1)
 
-##### Bartholomäus Traubeck  "Years", 2011 |  https://vimeo.com/30501143
+##### -Bartholomäus Traubeck  "Years", 2011 |  https://vimeo.com/30501143
 Years può leggere gli anelli dei tronchi degli alberi e trasformarli in musica.<br> 
 Guardando la sezione di un tronco d’albero spiccano questi cerchi concentrici che ricordano moltissimo l’aspetto di un comune vinile, tutti diversi tra loro, come le _impronte digitali_ di ciascun essere umano, che dunque conservano al loro interno la loro storia e il loro vissuto. Attraverso un macchinario particolare composto da un computer, un giradischi modificato, una telecamera e una luce a led, Traubeck unisce il legno alla musica, facendo suonare vinili in legno.<br> Un laser specifico legge i cerchi visibili all’interno del tronco (che di solito indicano l’età e lo stato di salute della pianta) e le sue caratteristiche (forza del tronco, spessore degli anelli, densità e colore del legno) trasformandoli in melodie al pianoforte, grazie a un algoritmo che associa ogni caratteristica a una nota e al corrispondente volume. Il risultato sono sette brani diversi per sette tipi di alberi, poiché ognuno di essi presenta caratteristiche particolari e differenti da tutti gli altri. 
 ![1](http://www.santorinibiennale.gr/2012/wp-content/uploads/2012/06/years-5.jpg?1)
 
-##### Yoon Chung Han "Sound Tree Rings", Sound Visualization, (2013) | https://vimeo.com/64589172
-Applicazione iOS. Gli utenti, mediante l'app, possono registrare "momenti sonori", ovvero suoni che fanno parte del soundscape, paesaggio sonoro in cui siamo immersi nel quotidiano, catturando le proprie esperienze sonore che vengono organizzate sotto forma di spirale temporale. La spirale temporale ricorda gli anelli dei tronchi degli alberi. Il risultato sonoro può essere salvato e stampato su carta o su legno. 
+##### -Yoon Chung Han "Sound Tree Rings", Sound Visualization, (2013) | https://vimeo.com/64589172
 [+] (http://yoonchunghan.com/portfolio/SoundTreeRings_iOS.html)
 [+](http://yoonchunghan.com/portfolio/treering.html)
+Applicazione iOS. Gli utenti, mediante l'app, possono registrare "momenti sonori", ovvero suoni che fanno parte del soundscape, paesaggio sonoro in cui siamo immersi nel quotidiano, catturando le proprie esperienze sonore che vengono organizzate sotto forma di spirale temporale. La spirale temporale ricorda gli anelli dei tronchi degli alberi. Il risultato sonoro può essere salvato e stampato su carta o su legno. 
 ![1](http://payload.cargocollective.com/1/3/100298/1449474/YoonChungHan_TreeRings_01.jpg?1)<br>
 ![1](http://yoonchunghan.com/Works/TreeRings/Newyork_01.jpg?1) <br>
 
