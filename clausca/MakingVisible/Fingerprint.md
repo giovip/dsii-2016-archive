@@ -68,6 +68,25 @@ _Componenti tecniche includono Arduino, PS Eye (Playstation Eye Camera), un moto
 
  "I examine the image for (obviously) year rings, and if one is detected, it is analyzed for its thickness, darkness, and growth factor," the German artist writes. Those parameters determine the groove’s rhythm, tone strength and length, and pitch. After being analyzed and reshaped, the signal is mapped onto a piano scale and output as sound.<br>
  _Dettagli tecnici_ [+](http://kunst-und-raederwerk.net)
+ 
+ 
+### CONCEPT | Impronte sonore
+Impronte digitali come paesaggio fatto da curve, solchi, creste, un luogo unico, personale, intimo, che varia da individuo a individuo.  Ragionando sul concetto di paesaggio "sonoro" e più nel dettaglio di "impronte sonore" che in riferimento al Soundscape (paesaggio sonoro) del compositore Murray Schafer identificano i suoni caratteristici di un'area, oggetti sonori unici specifici di un determinato luogo, sarebbe interessante traslare il concetto di impronta sonora sulle impronte digitali. Ogni impronta digitale avrebbe una propria composizione sonora, una propria melodia.
+
+Ipotesi: attribuire alle caratteristiche dell'impronta dei suoni.<br>
+Dati: caratteristiche dell'impronta digitale. 
+- Una volta acquisita l'immagine ingrandita (in bianco e nero) dell'impronta, questa verrebbe stampata ad alta risoluzione su un supporto cartaceo (o cos'altro?). L'ingrandimento sulle impronte è necessario per renderne visibili i dettagli e la configurazione. Si potrebbe utilizzare un microscopio digitale per catturare l'immagine.
+- L'immagine stampata verrebbe letta da un giradischi (modificato), secondo il principio di lettura di un disco (per riprodurre un disco, lo si pone su un piatto rotante fatto girare a velocità costante e predefinita...si appoggia sul disco inciso la puntina di lettura che segue il solco del disco). 
+- Al posto della puntina vi sarà un lettore ottico in grado di leggere le linee e gli spazi tra una linea e l'altra (le linee saranno nere, gli spazi vuoti in bianco o viceversa). Questi verranno tradotti in suoni, grazie a un algoritmo che associa ogni caratteristica (linea e spazio vuoto tra le linee) a una nota. Ogni impronta avrà una differente composizione sonora, poichè tutte le impronte hanno diverse configurazioni.
+
+
+
+
+
+
+
+
+
 
 
 
