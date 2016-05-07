@@ -59,9 +59,13 @@ Applicazione iOS. Gli utenti, mediante l'app, possono registrare "momenti sonori
 
 ##### -Bartholomäus Traubeck  "Years", 2011 |  https://vimeo.com/30501143
 Years può leggere gli anelli dei tronchi degli alberi e trasformarli in musica.<br> 
-Guardando la sezione di un tronco d’albero spiccano questi cerchi concentrici che ricordano moltissimo l’aspetto di un comune vinile, tutti diversi tra loro, come le _impronte digitali_ di ciascun essere umano, che dunque conservano al loro interno la loro storia e il loro vissuto. Attraverso un macchinario particolare composto da un computer, un giradischi modificato, una telecamera e una luce a led, Traubeck unisce il legno alla musica, facendo suonare vinili in legno.<br> Un laser specifico legge i cerchi visibili all’interno del tronco (che di solito indicano l’età e lo stato di salute della pianta) e le sue caratteristiche (forza del tronco, spessore degli anelli, densità e colore del legno) trasformandoli in melodie al pianoforte, grazie a un algoritmo che associa ogni caratteristica a una nota e al corrispondente volume. Il risultato sono sette brani diversi per sette tipi di alberi, poiché ognuno di essi presenta caratteristiche particolari e differenti da tutti gli altri. 
+Guardando la sezione di un tronco d’albero spiccano questi cerchi concentrici che ricordano moltissimo l’aspetto di un comune vinile, tutti diversi tra loro, come le _impronte digitali_ di ciascun essere umano, che dunque conservano al loro interno la loro storia e il loro vissuto. Attraverso un macchinario particolare composto da un computer, un giradischi modificato, una telecamera e una luce a led, Traubeck unisce il legno alla musica, facendo suonare vinili in legno.<br> Un laser specifico legge i cerchi visibili all’interno del tronco (che di solito indicano l’età e lo stato di salute della pianta) e le sue caratteristiche (forza del tronco, spessore degli anelli, densità e colore del legno) trasformandoli in melodie al pianoforte, grazie a un algoritmo che associa ogni caratteristica a una nota e al corrispondente volume. Il risultato sono sette brani diversi per sette tipi di alberi, poiché ognuno di essi presenta caratteristiche particolari e differenti da tutti gli altri.  
+_Componenti tecniche includono Arduino, PS Eye (Playstation Eye Camera), un motore passo-passo per spostare il braccio, il software vvvv e Ableton Live._
 
 ![1](http://www.santorinibiennale.gr/2012/wp-content/uploads/2012/06/years-5.jpg?1)
+
+ "I examine the image for (obviously) year rings, and if one is detected, it is analyzed for its thickness, darkness, and growth factor," the German artist writes. Those parameters determine the groove’s rhythm, tone strength and length, and pitch. After being analyzed and reshaped, the signal is mapped onto a piano scale and output as sound.<br>
+ _Dettagli tecnici_ [+](http://kunst-und-raederwerk.net)
 
 
 
