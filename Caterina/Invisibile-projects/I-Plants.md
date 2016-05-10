@@ -31,18 +31,19 @@
 
 ###ARDUINO PROJECTS REFERENCES
 ####SINGING PLANT
-- Arduino SweepingCapSense  [+](https://github.com/KingWalrus/SweepingCapSense)
-- Processing Code AdvancedTouchSensing [+](https://github.com/Illutron/AdvancedTouchSensing)
-
+- [Arduino SweepingCapSense](https://github.com/KingWalrus/SweepingCapSense)
+- [Processing Code AdvancedTouchSensing](https://github.com/Illutron/AdvancedTouchSensing)
 Alternative interface 
-- Arduino Code [+](https://www.dropbox.com/sh/jxkno1vgka7yisf/MZe8m3G4br)
-- Come usare Genuino Interface [+](http://www.instructables.com/id/Guino-Dashboard-for-your-Arduino/)
+- [Arduino Code](https://www.dropbox.com/sh/jxkno1vgka7yisf/MZe8m3G4br)
+- [Come usare Genuino Interface](http://www.instructables.com/id/Guino-Dashboard-for-your-Arduino/)
 Riferimenti usati per CULTIVATING FREQUENCIES [+](http://www.nime.org/proceedings/2014/nime2014_515.pdf)
 
-####
+####PLANTOID ROBOT PROJECT
+- [Riferimenti e codici](http://borsaci06.com/plantoid_project.htm)
 
-
-
+####CAPACITIVE SENSE FLOATING BATTERY POWERED PLANT TOUCH 
+- [video funzionamento](https://www.youtube.com/watch?v=YpCyQFfrp54)
+- [Codice](http://pastebin.com/M19LLQRv)
 
 
 
@@ -62,6 +63,6 @@ Riferimenti usati per CULTIVATING FREQUENCIES [+](http://www.nime.org/proceeding
 *- Altre possibili aree di interesse del progetto potrebbero per assurdo arrivare a pensare I plants come un PLANTOIDE, un androide capace di muoversi autonomamente, o con tempi di reazione inferiori rispetto al normale, che avverte la presenza umana o degli animali e a seconda del tipo di relazione avvicinarsi o allontanarsi da essi.* 
 *- Un’altra possibilità è quella di creare un’ambiente più ampio, come una piccola foresta, dove ogni pianta è dotata di questi trasmutatori di impulsi che ci permettono così di vedere realmente come la natura percepisce il mondo circostante e noi stessi quando ci rapportiamo con essa.*
 
-*-In vista di un output digitale-visivo i dati della pianta possono essere convertiti in un sistema di generazione di parole, frasi, musica, collegando il sistema ad una libreria di codice che richiama dalla rete diverse informazioni a seconda dei punti in cui viene toccata o dagli stimoli ambientali, provenienti da altri sensori, a cui la pianta è sottoposta. Ad esempio collegandola ad un display vengono mostrate sullo schermo delle parole riferite alla musica che viene ascoltata in quel momento, combinata ai cambiamenti di impulsi emessi dalla pianta che evidenzia solo determinate parole del testo e le rimanda sullo schermo, oppure dalla temperatura dell'ambiente e dalla percezione di calore (es. una tazza di thè posta vicino alla pianta, oppure una mano più calda o fredda che la sfiora) emettere informazioni o interagire. Un altro esempio potrebbe di rappresentazione generativa di parole potrebbe essere collegata alle varie parti della pianta ad esempio sfiorando le foglie apicali vengono richiamate sullo schermo parole inerenti alla scienza (poichè ipoteticamente stiamo interagendo in maniera più interessata) o con dei movimenti casuali sulle foglie richiamate parole o riferimenti artistici (coerentemente con lo stato d'animo incerto e pensieroso dell'utente).*
+*- In vista di un output digitale-visivo i dati della pianta possono essere convertiti in un sistema di generazione di parole, frasi, musica, collegando il sistema ad una libreria di codice che richiama dalla rete diverse informazioni a seconda dei punti in cui viene toccata o dagli stimoli ambientali, provenienti da altri sensori, a cui la pianta è sottoposta. Ad esempio collegandola ad un display vengono mostrate sullo schermo delle parole riferite alla musica che viene ascoltata in quel momento, combinata ai cambiamenti di impulsi emessi dalla pianta che evidenzia solo determinate parole del testo e le rimanda sullo schermo, oppure dalla temperatura dell'ambiente e dalla percezione di calore (es. una tazza di thè posta vicino alla pianta, oppure una mano più calda o fredda che la sfiora) emettere informazioni o interagire. Un altro esempio potrebbe di rappresentazione generativa di parole potrebbe essere collegata alle varie parti della pianta ad esempio sfiorando le foglie apicali vengono richiamate sullo schermo parole inerenti alla scienza (poichè ipoteticamente stiamo interagendo in maniera più interessata) o con dei movimenti casuali sulle foglie richiamate parole o riferimenti artistici (coerentemente con lo stato d'animo incerto e pensieroso dell'utente).*
 
-*Un possibile output della pianta può essere sicuramente quello di trasformarla in uno strumento musicale vivente- pensando ad una pianta dotata di un fusto principale e tante appendici queste potrebbero essere stimolate come forssero delle corde di uno strumento e generare ognuna un suono, alcune parti come il fusto potrebbero fare da "pedaliera" così da aggiungere effetti alle singole note.* 
+*- Un possibile output della pianta può essere sicuramente quello di trasformarla in uno strumento musicale vivente- pensando ad una pianta dotata di un fusto principale e tante appendici queste potrebbero essere stimolate come forssero delle corde di uno strumento e generare ognuna un suono, alcune parti come il fusto potrebbero fare da "pedaliera" così da aggiungere effetti alle singole note.* 
