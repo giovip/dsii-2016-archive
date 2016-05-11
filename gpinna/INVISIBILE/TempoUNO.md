@@ -44,5 +44,5 @@ possibile configurazione2](http://i.imgur.com/Lghm3R6.jpg)
 [+](http://www.susannahertrich.com/art/chronoshredder.shtml)
 - _Oblique clock, 2010, Tristan Zimmermann
 [+](http://mocoloco.com/oblique-clock-by-tristan-zimmermann/)
-- [Timekeepers, 2008, Corinne Quin]
+- _Timekeepers, 2008, Corinne Quin
 [+](http://www.bromptondesigndistrict.com/event/t-i-m-e-k-e-e-p-e-r)
