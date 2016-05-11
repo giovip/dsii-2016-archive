@@ -35,8 +35,8 @@ Si tratterebbe di un rullo di carta che si svolge grazie a un piccolo motore, su
 ![schemi possibile configurazione1](http://i.imgur.com/WCQ0H38.jpg) ![schemi possibile configurazione2](http://i.imgur.com/Lghm3R6.jpg)
 
 ## 7. COMPOMENTI.
-N1_MOTORE CHE RUOTA E FA SCORRERE LA CARTA
-N2 + N3_MOTORE CHE PERMETTE CON DEI SEMPLICI MOVIMENTI A ZIG ZAG PERMETTE ALLA MATITA DI SCRIVERE E ALLA GOMMA DI CANCELLARE.
+**N1** MOTORE CHE RUOTA E FA SCORRERE LA CARTA.  
+**N2 + N3** MOTORE CHE PERMETTE CON DEI SEMPLICI MOVIMENTI A ZIG ZAG PERMETTE ALLA MATITA DI SCRIVERE E ALLA GOMMA DI CANCELLARE.
 
 
 ## RIFERIMENTI.
