@@ -18,4 +18,4 @@ Due ipotesi di estrapolazione dei dati:
 Visitatore/utente parte della scena. Si ragiona sulla oppressione creata dal giudizio. Sorta di **bolla** in cui si possa entrare dentro e comprima sempre di più il **corpo**, con la velocità alla quale vengono rilevati i termini considerati dispregiativi. La bolla si attacca al corpo finché, per toglierla, sarà necessario strapparla.
 
 ## Output fisico 2
-Rievocare i segni, seppur interiori, lasciati da ogni forma di discriminazione, in particolar modo dall’omofobia. Visitatore/utente davanti a schermo nel quale vengono visualizzati i dati. Mentre guarda lo schermo, per ogni parola, questo viene in qualche modo **marchiato** (vengono sparate palline di inchiostro facilmente smacchiabile?).
+Rievocare i **segni**, seppur interiori, lasciati da ogni forma di discriminazione, in particolar modo dall’omofobia. Visitatore/utente davanti a schermo nel quale vengono visualizzati i dati. Mentre guarda lo schermo, per ogni parola, questo viene in qualche modo **marchiato** (vengono sparate palline di inchiostro facilmente smacchiabile?).
