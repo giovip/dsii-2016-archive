@@ -55,9 +55,9 @@ Ragionare sul censurare le parole d’odio. Una voce parla, racconta, elenca agg
 
 ## Ispirazioni/Riferimenti
 
-#### [_Hate Map_]
+#### _Hate Map_
 Sorta di mappa dello hate speech (incitamento all’odio) sviluppata nell’aprile 2013 da studenti della Humboldt State University (California). Utilizzando come punto di partenza Twitter, gli studenti hanno selezionato manualmente i contenuti che contenessero parole dispregiative quali dyke, fag, nigger, cripple, owetback, etc. Il campione era di 150 mila tweet pubblicati negli Stati Uniti da giugno 2012 ad aprile 2013.
-![http://i.imgur.com/WrnHpY7.png?1)](http://users.humboldt.edu/mstephens/hate/hate_map.html#)
+![(http://i.imgur.com/WrnHpY7.png?1)](http://users.humboldt.edu/mstephens/hate/hate_map.html#)
 
 ### _Projections, Jenny Holzer_
 Presentate per la prima volta a Firenze nel 1996, in queste opere le frasi luminose formano lunghi testi che scorrono sulle superfici urbane, assumendo inediti connotati di grande suggestione visiva.
