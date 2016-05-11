@@ -41,7 +41,7 @@ Si tratterebbe di un rullo di carta che si svolge grazie a un piccolo motore, su
 
 ## RIFERIMENTI.
 
-- _Gregor, 2010, Patrick Frey
+- **_Gregor, 2010, Patrick Frey**
 [+](http://www.patrick-frey.com/portfolio/product-design-calendar-gregor-details/)
 - _Chrono-Shredder, 2011, Susanna Hertrich
 [+](http://www.susannahertrich.com/art/chronoshredder.shtml)  
