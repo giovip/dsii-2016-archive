@@ -44,9 +44,10 @@ possibile configurazione2](http://i.imgur.com/Lghm3R6.jpg)
 - [Now, 2011,Albin karlsson]
 
 
-[+](http://www.susannahertrich.com/art/chronoshredder.shtml)
+
 - _Chrono-Shredder, 2011, Susanna Hertrich
-[+](http://www.patrick-frey.com/portfolio/product-design-calendar-gregor-details/)
+[+](http://www.susannahertrich.com/art/chronoshredder.shtml)
 - _Gregor, 2010, Patrick Frey
-[+](http://mocoloco.com/oblique-clock-by-tristan-zimmermann/)
+[+](http://www.patrick-frey.com/portfolio/product-design-calendar-gregor-details/)
 - _Oblique clock, 2010, Tristan Zimmermann
+[+](http://mocoloco.com/oblique-clock-by-tristan-zimmermann/)
