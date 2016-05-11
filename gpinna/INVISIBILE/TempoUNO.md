@@ -45,3 +45,5 @@ Si tratterebbe di un rullo di carta che si svolge grazie a un piccolo motore, su
 [+](http://mocoloco.com/oblique-clock-by-tristan-zimmermann/)
 - _Timekeepers, 2008, Corinne Quin
 [+](http://www.bromptondesigndistrict.com/event/t-i-m-e-k-e-e-p-e-r)
+- _Meltingme, 2005, Rossella Emanuele
+[+](http://www.rossellaemanuele.com/project_pages/meltingme.htm)
