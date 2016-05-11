@@ -2,8 +2,9 @@
 
 ## 1. TITOLO.
 Vedere il tempo (?)  
-La trama del tempo (?)  
-Il silenzio del tempo (?)  
+Cancellare il tempo (?)
+_Oppure un titolo più criptico/metaforico 
+che non rimandi immendiamemte al tema._
 
 ## 2. PAROLE CHIAVE.
 _scorrere  
