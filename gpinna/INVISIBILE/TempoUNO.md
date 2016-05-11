@@ -45,9 +45,13 @@ Si tratterebbe di un rullo di carta che si svolge grazie a un piccolo motore, su
 [+](http://www.patrick-frey.com/portfolio/product-design-calendar-gregor-details/)
 - _Chrono-Shredder, 2011, Susanna Hertrich
 [+](http://www.susannahertrich.com/art/chronoshredder.shtml)
+Idea del cancellare, distruggere, modificare il tempo.
 - _Oblique clock, 2010, Tristan Zimmermann
 [+](http://mocoloco.com/oblique-clock-by-tristan-zimmermann/)
+Idea del visualizzare il tempo decostruendolo.
 - _Timekeepers, 2008, Corinne Quin
 [+](http://www.bromptondesigndistrict.com/event/t-i-m-e-k-e-e-p-e-r)
+Idea del avvolgere e svolgere.
 - _Meltingme, 2005, Rossella Emanuele
 [+](http://www.rossellaemanuele.com/project_pages/meltingme.htm)
+Idea del lasciare tracce che mutano lentamente.
