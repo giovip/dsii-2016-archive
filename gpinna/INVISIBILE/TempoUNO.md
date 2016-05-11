@@ -45,4 +45,4 @@ possibile configurazione2](http://i.imgur.com/Lghm3R6.jpg)
 - _Oblique clock, 2010, Tristan Zimmermann
 [+](http://mocoloco.com/oblique-clock-by-tristan-zimmermann/)
 - [Timekeepers, 2008, Corinne Quin]
-- [Now, 2011,Albin karlsson]
+[+](http://www.bromptondesigndistrict.com/event/t-i-m-e-k-e-e-p-e-r)
