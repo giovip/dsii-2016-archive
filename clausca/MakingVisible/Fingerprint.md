@@ -81,7 +81,7 @@ Dati: caratteristiche dell'impronta digitale.
 
 
 
-
+![1](http://i.imgur.com/g7Cxnsh.png?1)
 
 
 
