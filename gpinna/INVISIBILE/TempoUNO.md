@@ -31,7 +31,8 @@ L'obiettivo è dunque quello di rendere il tempo tangibile e visibile pur nel su
 ## 6. DETTAGLI TECNICI.
 Si tratterebbe di un rullo di carta che si svolge grazie a un piccolo motore, sul foglio verrà impresso a matita un tratto che rappresenta la variazione di un dato ics (?). Tale segno sarà cancellato, perché considerato non più "valido", da una gomma che si muuoverà oscillando sotto/di fianco alla mattita e il suo tracciato.
 
-![schema possibile funzionamento](http://imgur.com/GZbWv8h)
+![schema possibile funzionamento](http://i.imgur.com/GZbWv8h.jpg)
+
 
 ## Riferimenti.
 - [Chrono-Shredder, 2011, Susanna Hertrich] (http://www.susannahertrich.com/art/chronoshredder.shtml)  
