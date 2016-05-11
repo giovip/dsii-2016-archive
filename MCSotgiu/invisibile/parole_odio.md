@@ -47,7 +47,7 @@ Le parole possono essere tradotte in codice binario (ogni lettera corrisponderà
 Tre amplificazioni prodotte da: la voce, il codice binario, le proiezioni.
 
 
--	C. Voce 02
+-	C. Beeeep - installazione
 Ragionare sul censurare le parole d’odio. Una voce parla, racconta, elenca aggettivi “positivi”, nel momento in cui viene rilevata una parola d’odio viene riprodotto un “bip” di censura. Quanti “bip” si sentiranno?
 
 
@@ -57,11 +57,11 @@ Ragionare sul censurare le parole d’odio. Una voce parla, racconta, elenca agg
 
 #### _Hate Map_
 Sorta di mappa dello hate speech (incitamento all’odio) sviluppata nell’aprile 2013 da studenti della Humboldt State University (California). Utilizzando come punto di partenza Twitter, gli studenti hanno selezionato manualmente i contenuti che contenessero parole dispregiative quali dyke, fag, nigger, cripple, owetback, etc. Il campione era di 150 mila tweet pubblicati negli Stati Uniti da giugno 2012 ad aprile 2013.
-![(http://i.imgur.com/WrnHpY7.png?1)](http://users.humboldt.edu/mstephens/hate/hate_map.html#)
+![(http://users.humboldt.edu/mstephens/hate/hate_map.html#)](http://i.imgur.com/WrnHpY7.png?1)
 
 ### _Projections, Jenny Holzer_
 Presentate per la prima volta a Firenze nel 1996, in queste opere le frasi luminose formano lunghi testi che scorrono sulle superfici urbane, assumendo inediti connotati di grande suggestione visiva.
-![(http://projects.jennyholzer.com/projections)](http://i.imgur.com/QzNpYaA.jpg)
+![(http://projects.jennyholzer.com/projections)](http://i.imgur.com/g9FoOD1.jpg?1)
 
 ### _Weapon of Choice_
 Il progetto fotografico consiste nel creare una rappresentazione visiva del danno emozionale che le parole possono creare.
