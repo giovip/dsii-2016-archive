@@ -21,7 +21,7 @@ L'idea si basa sul costruire un sistema/installazione per rappresentare/rendere 
 
 ## 4. POSSIBILI DATI.
 1_ variazioni quotazioni in borsa.  
-2_ treni partiti.  
+2_ treni partiti quindi persi.  
 3_ voli cancellati. 
 
 ## 5. DESCRIZIONE.
