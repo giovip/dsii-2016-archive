@@ -1,9 +1,8 @@
-## parole d’odio
+## PAROLE D'ODIO
 
-Discriminare:
-
->1. Distinguere, separare, fare una differenza: _la storia ... non può d. i fatti in buoni e cattivi_ (B. Croce). 
->2. Adottare in singoli casi o verso singole persone o gruppi di persone un comportamento diverso da quello stabilito per la generalità, o che comunque rivela una disparità di giudizio e di trattamento; anche con uso assol.: _per me siete tutti uguali, non discrimino_ (ma più com. _non faccio discriminazione_). In partic., nel linguaggio giur.: 
+>_Discriminare:_
+>_1. Distinguere, separare, fare una differenza: _la storia ... non può d. i fatti in buoni e cattivi_ (B. Croce). _
+>_2. Adottare in singoli casi o verso singole persone o gruppi di persone un comportamento diverso da quello stabilito per la generalità, o che comunque rivela una disparità di giudizio e di trattamento; anche con uso assol.: _per me siete tutti uguali, non discrimino_ (ma più com. _non faccio discriminazione_)._
 
 
 La discriminazione consiste in un trattamento non paritario attuato nei confronti di un individuo o un gruppo di individui in virtù della loro appartenenza ad una particolare categoria.
@@ -16,10 +15,10 @@ Le parole hanno un senso profondo nella nostra vita. Anche quelle che pronunciam
 
 Possiamo dividere le parole secondo quattro categorie, ognuna esempio di una forma di discriminazione:
 
--	RAZZISMO (clandestino, extracomunitario, vu cumprà, nomade, negro, zingaro, musogiallo)
--	OMOFOBIA (frocio, checca, culattone, pompinaro, bocchinaro, rottinculo, lesbicona)
--	MISOGINIA (vacca, mignotta, bagascia, bagassa, ciucciacazzi, cicciona, puttana, troia, zoccola)
--	DISABILITà (mongoloide, storpio, cerebroleso, spastico, handicappato)
+-	RAZZISMO 
+-	OMOFOBIA 
+-	MISOGINIA 
+-	DISABILITà 
 
 
 ## Obiettivo
@@ -56,11 +55,14 @@ Ragionare sul censurare le parole d’odio. Una voce parla, racconta, elenca agg
 
 ## Ispirazioni/Riferimenti
 
-#### [_Hate Map_](http://users.humboldt.edu/mstephens/hate/hate_map.html#
-sorta di mappa dello hate speech (incitamento all’odio) sviluppata nell’aprile 2013 da studenti della Humboldt State University (California). Utilizzando come punto di partenza Twitter, gli studenti hanno selezionato manualmente i contenuti che contenessero parole dispregiative quali dyke, fag, nigger, cripple, owetback, etc. Il campione era di 150 mila tweet pubblicati negli Stati Uniti da giugno 2012 ad aprile 2013.
+#### [_Hate Map_]
+Sorta di mappa dello hate speech (incitamento all’odio) sviluppata nell’aprile 2013 da studenti della Humboldt State University (California). Utilizzando come punto di partenza Twitter, gli studenti hanno selezionato manualmente i contenuti che contenessero parole dispregiative quali dyke, fag, nigger, cripple, owetback, etc. Il campione era di 150 mila tweet pubblicati negli Stati Uniti da giugno 2012 ad aprile 2013.
+![http://i.imgur.com/WrnHpY7.png?1)](http://users.humboldt.edu/mstephens/hate/hate_map.html#)
 
-###[_Projections, Jenny Holzer_](http://projects.jennyholzer.com/projections): presentate per la prima volta a Firenze nel 1996, in queste opere le frasi luminose formano lunghi testi che scorrono sulle superfici urbane, assumendo inediti connotati di grande suggestione visiva.
-![](http://i.imgur.com/QzNpYaA.jpg)
-### [_Weapon of Choice_]( http://hurtwords.com/)
+### _Projections, Jenny Holzer_
+Presentate per la prima volta a Firenze nel 1996, in queste opere le frasi luminose formano lunghi testi che scorrono sulle superfici urbane, assumendo inediti connotati di grande suggestione visiva.
+![(http://projects.jennyholzer.com/projections)](http://i.imgur.com/QzNpYaA.jpg)
+
+### _Weapon of Choice_
 Il progetto fotografico consiste nel creare una rappresentazione visiva del danno emozionale che le parole possono creare.
-![]( http://i.imgur.com/1TxRUGr.jpg)
+![( http://hurtwords.com/)]( http://i.imgur.com/1TxRUGr.jpg)
