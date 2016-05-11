@@ -32,7 +32,7 @@ L'obiettivo è dunque quello di rendere il tempo tangibile e visibile pur nel su
 ## 6. DETTAGLI TECNICI.
 Si tratterebbe di un rullo di carta che si svolge grazie a un piccolo motore, sul foglio verrà impresso a matita un tratto che rappresenta la variazione di un dato ics (?). Tale segno sarà cancellato, perché considerato non più "valido", da una gomma che si muuoverà oscillando sotto/di fianco alla mattita e il suo tracciato.
 
-![schemi possibile configurazione1](http://i.imgur.com/WCQ0H38.jpg) ![schemi 
+![schemi possibile configurazione1](http://i.imgur.com/WCQ0H38.jpg)  ![schemi 
 possibile configurazione2](http://i.imgur.com/Lghm3R6.jpg)
 
 
