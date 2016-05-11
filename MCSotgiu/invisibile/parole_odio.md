@@ -18,7 +18,7 @@ Possiamo dividere le parole secondo quattro categorie, ognuna esempio di una for
 -	RAZZISMO 
 -	OMOFOBIA 
 -	MISOGINIA 
--	DISABILITà 
+-	DISABILITÀ 
 
 
 ## Obiettivo
