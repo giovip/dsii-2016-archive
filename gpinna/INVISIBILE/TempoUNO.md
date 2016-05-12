@@ -38,6 +38,9 @@ Si tratterebbe di un rullo di carta che si svolge grazie a un piccolo motore, su
 **N1** MOTORE CHE RUOTA E FA SCORRERE LA CARTA.  
 **N2 + N3** MOTORE CHE PERMETTE CON DEI SEMPLICI MOVIMENTI A ZIG ZAG PERMETTE ALLA MATITA DI SCRIVERE E ALLA GOMMA DI CANCELLARE.
 
+## 8.POSSIBILI TECNOOGIE.
+_Easy Driver
+_[Servo motore] (http://www.schmalzhaus.com/EasyDriver/Examples/EasyDriverExamples.html)
 
 ## RIFERIMENTI.
 
