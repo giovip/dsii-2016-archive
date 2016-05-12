@@ -43,10 +43,33 @@ Codice Javascript per convertire le lunghezze d'onda dello spettro visibile (ran
 [_TED: I listen to color, Neil Harbisson ](https://www.ted.com/talks/neil_harbisson_i_listen_to_color)
 
 
-installazioni basate sul colore
+installazioni basate sul colore_percezione/spazio
 
+
+[_Multiple shadow house 2010_, Olafur eliasson ](http://olafureliasson.net/archive/artwork/WEK100053/multiple-shadow-house)
+
+![](http://i.imgur.com/tvVl4iS.jpg)
+
+
+In questa installazione, Olafur Eliasson dimostra le interazioni tra luce e ombra . L'aspetto multi-colore di questo lavoro aggiunge meraviglia al nostro mondo naturale . In definitiva, ciò che rende questo lavoro affascinante è che si tratta di un'esperienza che si concentra su una forza della natura che diamo per scontato: la luce.
+
+
+
+[_Blue red  and yellow, Ann Veronica Janssens](http://www.ornotmagazine.it/project/rendere-visibile-linvisibile-ann-veronica-janssens/)
+
+
+![](http://i.imgur.com/n2IpUqy.jpg?1)
+
+Artista Ann Veronica Janssens costruisce sculture sensoriali delle pareti in policarbonato coperte da film trasparenti piene di densa nebbia. Le sue opere sono concepite come "esperienze spazio-temporali ". Lo spettatore le vive, si immerge in tale esperienza di luce e colore e vede modificare la propria percezione dello spazio e del tempo attraverso le sensazioni indotte indotte dalla nebbia colorata
 
 [_Chromosaturation: Interactive Art Installations, Carlos Cruz-Diez](http://theinspirationgrid.com/chromosaturation-interactive-art-installations-by-carlos-cruz-diez/)
+
+![](http://www.designboom.com/wp-content/uploads/2012/11/carlos02.jpg)
+
+![](https://lightartblog.files.wordpress.com/2013/05/carlos-cruz-diez-chromosaturation.jpg)
+
+ 
+
 
 
 installazioni basate su fenomeni fisici
