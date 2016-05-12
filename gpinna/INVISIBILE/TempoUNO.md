@@ -62,6 +62,6 @@ _Idea del lasciare tracce che mutano lentamente._
 [+](http://juliusvonbismarck.com/bank/index.php?/projects/clockwork/)  
 _Idea del rapprentare il tempo e un suo preciso aspetto, in chiave simbolica e provocatoria._
 - **_Perpetual Storytelling Apparatus, 2008, Julius Von Bismark**
-[+](http://juliusvonbismarck.com/bank/index.php?/projects/perpetual-storytellin-apparatus/)
+[+](http://juliusvonbismarck.com/bank/index.php?/projects/perpetual-storytellin-apparatus/)  
 _Meccanismo che disegna all'infinito sul un rotolo di carta_
 
