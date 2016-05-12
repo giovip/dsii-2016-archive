@@ -73,7 +73,7 @@ _Componenti tecniche includono Arduino, PS Eye (Playstation Eye Camera), un moto
 ##### -Kate Cragoe Mayfield, "Identity map" | http://katecragoemayfield.com/identity-map-a2
 A map based on the different fingerprint patterns people have. "I drew each square over an enlarged fingerprint to achieve the swirling layouts of cities, villages, fields and industrial sites".
 
-![1](http://i.imgur.com/ytds2eL.jpg?1?)
+![1](http://i.imgur.com/9kWLikh.jpg?1)
  
  
 ### CONCEPT 
@@ -92,6 +92,8 @@ Immaginando di poter rilevare l'impronta in tempo reale e che questa venga visua
 Una immersione nel paesaggio della propria intimità, un camminarci dentro e sentirne la configurazione...le creste (minuzie di tipo terminazione, biforcazione) come sentieri che si biforcano, si interrompono..qui sotto, le caratteristiche del ridge pattern.
 
 ![1](http://i.imgur.com/g7Cxnsh.png?1)
+
+
 
 
 
