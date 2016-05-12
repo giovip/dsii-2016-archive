@@ -79,11 +79,12 @@ Dati: caratteristiche dell'impronta digitale.
 - L'immagine stampata verrebbe letta da un giradischi (modificato), secondo il principio di lettura di un disco (per riprodurre un disco, lo si pone su un piatto rotante fatto girare a velocità costante e predefinita...si appoggia sul disco inciso la puntina di lettura che segue il solco del disco). 
 - Al posto della puntina vi sarà un lettore ottico in grado di leggere le linee e gli spazi tra una linea e l'altra (le linee saranno nere, gli spazi vuoti in bianco o viceversa). Questi verranno tradotti in suoni, grazie a un algoritmo che associa ogni caratteristica (linea e spazio vuoto tra le linee) a una nota. Ogni impronta avrà una differente composizione sonora, poichè tutte le impronte hanno diverse configurazioni.
 
-
-
 ![1](http://i.imgur.com/g7Cxnsh.png?1)
 
+##### -Kate Cragoe Mayfield, "Identity map" | http://katecragoemayfield.com/identity-map-a2
+A map based on the different fingerprint patterns people have. "I drew each square over an enlarged fingerprint to achieve the swirling layouts of cities, villages, fields and industrial sites".
 
+![1](http://i.imgur.com/ytds2eL.jpg?1?)
 
 
 
