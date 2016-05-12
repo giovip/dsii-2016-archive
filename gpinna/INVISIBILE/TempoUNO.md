@@ -51,7 +51,7 @@ _Idea del cancellare, distruggere, modificare il tempo._
 _Idea del visualizzare il tempo decostruendolo._
 - **_Timekeepers, 2008, Corinne Quin**
 [+](http://www.bromptondesigndistrict.com/event/t-i-m-e-k-e-e-p-e-r)  
-_Idea del avvolgere e svolgere all'infinito._
+_Idea dell'avvolgere e svolgere all'infinito._
 - **_Meltingme, 2005, Rossella Emanuele**
 [+](http://www.rossellaemanuele.com/project_pages/meltingme.htm)  
 _Idea del lasciare tracce che mutano lentamente._
