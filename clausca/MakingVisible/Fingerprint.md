@@ -86,7 +86,7 @@ Dati: caratteristiche dell'impronta digitale.
 
 #### IMPRONTA COME PAESAGGIO <br>
 
-![1](http://i.imgur.com/K5KRjlQ.jpg1)
+![1](http://i.imgur.com/G6b0Pij.jpg1)
 
 Impronta come paesaggio intimo, luogo personale e unico. Ragionare sul concetto di esplorazione e del fare esperienza della propria identità espressa nell'unicità dell'impronta.
 Immaginando di poter rilevare l'impronta in tempo reale e che questa venga visualizzata su uno schermo con un importante ingrandimento tale da metterne in evidenza le singolarità, pensavo alla possibilità di esplorare il paesaggio dell'impronta, di poterci "navigare" e interagire come se ci fosse un contatto diretto con essa. L'idea è di "sentire" il ridge pattern delle impronte, associando ad ogni caratteristica fisica dell'impronta (creste, discontinuità delle creste, valli) una diversa sensazione/feedback tattile (?) così da sentire il paesaggio che abbiamo impresso sulla pelle...quindi un'esplorazione che contente di sentirne la configurazione con sensazioni tattili differenti in funzione delle caratteristiche dell'impronta.
