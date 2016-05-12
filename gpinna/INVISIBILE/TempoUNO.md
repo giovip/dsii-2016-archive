@@ -58,3 +58,7 @@ _Idea dell'avvolgere e svolgere all'infinito._
 - **_Meltingme, 2005, Rossella Emanuele**
 [+](http://www.rossellaemanuele.com/project_pages/meltingme.htm)  
 _Idea del lasciare tracce che mutano lentamente._
+- **_Clockwork, 2014-2015, Julius Von Bismark**
+[+](http://juliusvonbismarck.com/bank/index.php?/projects/clockwork/)  
+_Idea del rapprentare il tempo e un suo preciso aspetto, in chiave simbolica e provocatoria._
+
