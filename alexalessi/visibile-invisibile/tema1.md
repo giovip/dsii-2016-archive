@@ -7,6 +7,9 @@ Treccani, Dizionario di filosofia (2009). Oggi il l'amicizia non è più conside
 tale ad un rapporto superfluo, di vista, di conoscenza, talvolta utilizzato nei socialnetwork per indicare un qualsiasi 
 rapporto tra due persone, cose, animali, identità astratte e irreali. 
 
+"Il legame fra amici dà luogo ad una necessità non fisica, bensì spirituale o libera;(...) l'origine dell'amicizia non deriva nè dalla corporeità, nè dall'appartenenza ad un determinato gruppo sociale, bensì dalla partecipazione della stessa natura umana."
+"L'amico è scelto come persona che ci è cara, cioè come la persona che vogliamo rendere partecipe di noi stessi
+
 Spesso lamentiamo delle tante amicizie "virtuali" di persone che nemmeno conosciamo, ne abbiamo mai visto ne sentito parlare.
 Perchè non riportare il termine alle sue vere radici, al suo vero principio e quindi ristabilire il contatto tra le persone e, in un certo
 senso ridimensionare dando una nuova misura tre i rapporti intrapersonali?
