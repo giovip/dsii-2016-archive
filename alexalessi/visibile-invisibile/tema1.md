@@ -9,7 +9,7 @@ rapporto tra due persone, cose, animali, identità astratte e irreali.
 
 "Il legame fra amici dà luogo ad una necessità non fisica, bensì spirituale o libera;(...) l'origine dell'amicizia non deriva nè dalla corporeità, nè dall'appartenenza ad un determinato gruppo sociale, bensì dalla partecipazione della stessa natura umana."
 "L'amico è scelto come persona che ci è cara, cioè come la persona che vogliamo rendere partecipe di noi stessi"
-#Antonio Malo, pp 89-103, M. D'Avenia,C. Vigna, L'amicizia come necessità essenziale delle persone, La necessità dell'amicizia, Armando Editore, Roma 2009.
+#####Antonio Malo, pp 89-103, M. D'Avenia,C. Vigna, L'amicizia come necessità essenziale delle persone, La necessità dell'amicizia, Armando Editore, Roma 2009.
 
 Spesso lamentiamo delle tante amicizie "virtuali" di persone che nemmeno conosciamo, ne abbiamo mai visto ne sentito parlare.
 Perchè non riportare il termine alle sue vere radici, al suo vero principio e quindi ristabilire il contatto tra le persone e, in un certo
