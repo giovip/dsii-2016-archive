@@ -31,7 +31,7 @@ L'obiettivo è dunque quello di rendere il tempo tangibile e visibile pur nel su
 Questo evidenziando, rispetto a un dato flusso di informazioni, il suo rapido e puntuale modificarsi.
 
 ## 6. DETTAGLI TECNICI.
-Si tratterebbe di un rullo di carta che si svolge grazie a un piccolo motore, sul foglio verrà impresso a matita un tratto che rappresenta la variazione di un dato ics (?). Tale segno sarà cancellato, perché considerato non più "valido", da una gomma che si muuoverà oscillando sotto/di fianco alla mattita e il suo tracciato.
+Si tratterebbe di un rullo di carta che si svolge grazie a un piccolo motore, sul foglio verrà impresso a matita un tratto che rappresenta la variazione di un dato ics (?). Tale segno sarà cancellato, perché considerato non più "valido", da una gomma che si muoverà oscillando sotto/di fianco alla mattita e il suo tracciato.
 
 ![schemi possibile configurazione1](http://i.imgur.com/WCQ0H38.jpg) ![schemi possibile configurazione2](http://i.imgur.com/Lghm3R6.jpg)
 
@@ -41,7 +41,7 @@ Si tratterebbe di un rullo di carta che si svolge grazie a un piccolo motore, su
 
 ## 8. POSSIBILI TECNOLOGIE.
 [Easy Driver] (http://www.schmalzhaus.com/EasyDriver/Examples/EasyDriverExamples.html)   _(per far scorrere rotolo di carta)_  
-_[Servo motore] 
+_[Servo motore] (https://learn.adafruit.com/adafruit-arduino-lesson-13-dc-motors/arduino-code)
 
 ## RIFERIMENTI.
 
