@@ -42,7 +42,8 @@ Si tratterebbe di un rullo di carta che si svolge grazie a un piccolo motore, su
 ## 8. POSSIBILI TECNOLOGIE.
 _(per far scorrere rotolo di carta)_  
 **Easy Driver**
-[+] (http://www.schmalzhaus.com/EasyDriver/Examples/EasyDriverExamples.html) oppure  
+[+] (http://www.schmalzhaus.com/EasyDriver/Examples/EasyDriverExamples.html)  
+oppure  
 **Servo motore**
 [+] (https://learn.adafruit.com/adafruit-arduino-lesson-13-dc-motors/arduino-code)
 [+] (https://learn.adafruit.com/adafruit-arduino-lesson-14-servo-motors/arduino-code-for-sweep)
