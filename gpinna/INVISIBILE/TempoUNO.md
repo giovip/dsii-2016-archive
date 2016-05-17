@@ -44,7 +44,7 @@ _(per far scorrere rotolo di carta)_
 **Easy Driver**
 [+] (http://www.schmalzhaus.com/EasyDriver/Examples/EasyDriverExamples.html) oppure  
 **Servo motore**
-[+] (https://learn.adafruit.com/adafruit-arduino-lesson-13-dc-motors/arduino-code) oppure  
+[+] (https://learn.adafruit.com/adafruit-arduino-lesson-13-dc-motors/arduino-code)  
 [+] (https://learn.adafruit.com/adafruit-arduino-lesson-14-servo-motors/arduino-code-for-sweep)
 
 ## RIFERIMENTI.
