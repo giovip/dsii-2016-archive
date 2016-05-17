@@ -27,7 +27,8 @@ L'idea si basa sul costruire un sistema/installazione per rappresentare/rendere 
 
 ## 5. DESCRIZIONE.
 Il progetto si concentra sul concetto di tempo, principalmente su quello che Netwon definiva tempo relativo, ovvero la misura sensibile e soggettiva della durata. Attraverso un prodotto installativo verrano evidenziati gli aspetti relati alla ciclicità del tempo, al suo continuo mutare ed evoleversi per tornare a essere se stesso o diventare qualcos'altro.
-L'obiettivo è dunque quello di rendere il tempo tangibile e visibile pur nel suo incessante e incurante fluire.
+L'obiettivo è dunque quello di rendere il tempo tangibile e visibile pur nel suo incessante e incurante fluire. 
+Questo evidenziando, rispetto a un dato flusso di informazioni, il suo rapido e puntuale modificarsi.
 
 ## 6. DETTAGLI TECNICI.
 Si tratterebbe di un rullo di carta che si svolge grazie a un piccolo motore, sul foglio verrà impresso a matita un tratto che rappresenta la variazione di un dato ics (?). Tale segno sarà cancellato, perché considerato non più "valido", da una gomma che si muuoverà oscillando sotto/di fianco alla mattita e il suo tracciato.
