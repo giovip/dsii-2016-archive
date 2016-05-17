@@ -40,8 +40,9 @@ Si tratterebbe di un rullo di carta che si svolge grazie a un piccolo motore, su
 **N2 + N3** MOTORE CHE PERMETTE CON DEI SEMPLICI MOVIMENTI A ZIG ZAG PERMETTE ALLA MATITA DI SCRIVERE E ALLA GOMMA DI CANCELLARE.
 
 ## 8. POSSIBILI TECNOLOGIE.
-[Easy Driver] (http://www.schmalzhaus.com/EasyDriver/Examples/EasyDriverExamples.html)   _(per far scorrere rotolo di carta)_  
-_[Servo motore] (https://learn.adafruit.com/adafruit-arduino-lesson-13-dc-motors/arduino-code)
+_(per far scorrere rotolo di carta)_  
+[Easy Driver] (http://www.schmalzhaus.com/EasyDriver/Examples/EasyDriverExamples.html)     
+[Servo motore] (https://learn.adafruit.com/adafruit-arduino-lesson-13-dc-motors/arduino-code)
 
 ## RIFERIMENTI.
 
