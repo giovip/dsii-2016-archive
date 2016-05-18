@@ -90,9 +90,25 @@ Al posto della puntina vi sarà un lettore ottico in grado di leggere le linee e
 Impronta come paesaggio intimo, luogo personale e unico. Ragionare sul concetto di esplorazione e del fare esperienza della propria identità espressa nell'unicità dell'impronta.
 Immaginando di poter rilevare l'impronta in tempo reale e che questa venga visualizzata su uno schermo con un importante ingrandimento tale da metterne in evidenza le singolarità, pensavo alla possibilità di esplorare il paesaggio dell'impronta, di poterci "navigare" e interagire come se ci fosse un contatto diretto con essa. L'idea è di "sentire" il ridge pattern delle impronte, associando ad ogni caratteristica fisica dell'impronta (creste, discontinuità delle creste, valli) una diversa sensazione/feedback tattile (?) così da sentire il paesaggio che abbiamo impresso sulla pelle...quindi un'esplorazione che contente di sentirne la configurazione con sensazioni tattili differenti in funzione delle caratteristiche dell'impronta.
 Una immersione nel paesaggio della propria intimità, un camminarci dentro e sentirne la configurazione...le creste (minuzie di tipo terminazione, biforcazione) come sentieri che si biforcano, si interrompono..qui sotto, le caratteristiche del ridge pattern.
-
 ![1](http://i.imgur.com/g7Cxnsh.png?1)
+#### Heightmap
+Le heightmap sono delle immagini in scala di grigi usate per elaborare la conformità e l'altezza di un terreno, dove le parti più chiare rappresentano i punti più alti mentre quelle più scure i punti più bassi. 
+Bitmap monocromatico in cui l'intensità di bianco rappresenta l'altezza massima, le parti in nero le altezze minime, quelle in grigio effetti intermedi. Una heightmap può essere usata per generare velocemente ambienti 3D (nel campo della grafica 3D esse sono molto utili poiché permettono, in pochi passaggi, di creare un terreno realistico e dettagliato). L'immagine in scala di grigi potrà essere importata in un  motore grafico (come Unreal Engine, CryEngine, Unity etc. ) per generare un terreno/paesaggio.
+#### Heightmap di un'impronta. Prova su Unity 3D
+_How to generate a Unity 3D Terrain from height map image_<br>
+Strumenti utilizzati: immagine in scala di grigi modificata su Photoshop, Unity 3D.
+L'immagine dell'impronta può essere catturata mediante scanner o microscopio. 
+Va poi convertita in scala di grigi e salvata in formato raw (Photoshop raw format *.RAW ).
+L'immagine è stata importata in Unity 3D generando un terreno tridimensionale che tiene conto dei valori di bianco e di nero. 
 
+![1](http://i.imgur.com/a7vYuRq.png?1)  ![1](http://i.imgur.com/eWdQFpy.png?1)
+![3](http://i.imgur.com/UW3azCo.png?3)  ![1](http://i.imgur.com/ZhubdAp.png?1)
+
+#####  Diana Lange “Nature of Code” | https://www.flickr.com/photos/dianalange/albums/72157629331606961 
+Modelling done with Processing using noise & random walk to generate a terrain. Rendering done with Cinema 4D.
+![1](http://farm8.static.flickr.com/7043/6830970430_a9eaa64cdb_m.jpg) ![1](http://farm8.static.flickr.com/7060/6830970694_5d006a378d_m.jpg)
+![1](http://farm8.static.flickr.com/7047/6977098471_253d2665d4_m.jpg)
+![1](http://i.imgur.com/Sh82fcR.jpg?1) ![1](http://i.imgur.com/dJPNgM2.jpg?1)
 
 
 
