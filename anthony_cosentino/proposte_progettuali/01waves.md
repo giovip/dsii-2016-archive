@@ -23,8 +23,10 @@ Telefoni cellulari 1,2 - 2,2 MHz;<br>
 Microonde 2,4 GHz;<br>
 WiFi 5 GHz;<br>
 
-PROCESSING elabora e converte il dato acquisito in codice binario rappresentandolo successivamente con un insieme di linee bianche e nere (barcode) in continuo mutamento. 
-La sonorizzazione avviene grazie ad un suono MIDI precedentemente creato con Logic x che ai vari segnali acceso/spento verrà di conseguenza eseguito o stoppato. (WIP)
+PROCESSING elabora e converte il dato acquisito in codice binario rappresentandolo successivamente come un insieme di linee bianche e nere (barcode). Le linee b/n vengono definite secondo un ordine acceso/spento, che sono alla base del funzionamento di tutti gli elementi visivi e sonori. 
+Visivo: L'installazione è composta da 32 "bacchette" di legno dotate di led, ognuna delle quali risponderà al segnale acceso/spento fornito da processing, generando visivamente un codice a barre che scorre da sinistra verso destra e una volta posizionatosi sull'intera superficie rimane impresso per 15/30 secondi.
+
+Sonoro: Con l'utilizzo della libreria Minim, avvalendomi in particolar modo della funzione player, ho realizzato un codice con il quale istruisco processing: bianco riproduce il file .mp3 (creato con Logic), nero mette in pausa. (Work in progress)  
 
 ####Nota:
 Nella conversione da decimale a binario, maggiore è il valore decimale maggiore sarà il numero di cifre che compongono il codice binario:<br>
