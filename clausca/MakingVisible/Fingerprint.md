@@ -111,6 +111,8 @@ Modelling done with Processing using noise & random walk to generate a terrain. 
 ![1](http://farm8.static.flickr.com/7047/6977098471_253d2665d4_m.jpg)
 ![1](http://i.imgur.com/Sh82fcR.jpg?1) ![1](http://i.imgur.com/dJPNgM2.jpg?1)
 
+Ipotesi: generare un paesaggio tridimensionale della propria impronta. Comunicazione tra Processing e programma 3D
+
 
 
 
