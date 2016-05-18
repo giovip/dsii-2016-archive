@@ -86,7 +86,7 @@ Al posto della puntina vi sarà un lettore ottico in grado di leggere le linee e
 
 #### IMPRONTA COME PAESAGGIO <br>
 
-![1](http://i.imgur.com/gpFzWNF.jpg1)
+![1](http://i.imgur.com/gpFzWNF.jpg1)<br>
 Impronta come paesaggio intimo, luogo personale e unico. Ragionare sul concetto di esplorazione e del fare esperienza della propria identità espressa nell'unicità dell'impronta.
 Immaginando di poter rilevare l'impronta in tempo reale e che questa venga visualizzata su uno schermo con un importante ingrandimento tale da metterne in evidenza le singolarità, pensavo alla possibilità di esplorare il paesaggio dell'impronta, di poterci "navigare" e interagire come se ci fosse un contatto diretto con essa. L'idea è di "sentire" il ridge pattern delle impronte, associando ad ogni caratteristica fisica dell'impronta (creste, discontinuità delle creste, valli) una diversa sensazione/feedback tattile (?) così da sentire il paesaggio che abbiamo impresso sulla pelle...quindi un'esplorazione che contente di sentirne la configurazione con sensazioni tattili differenti in funzione delle caratteristiche dell'impronta.
 Una immersione nel paesaggio della propria intimità, un camminarci dentro e sentirne la configurazione...le creste (minuzie di tipo terminazione, biforcazione) come sentieri che si biforcano, si interrompono..qui sotto, le caratteristiche del ridge pattern.
@@ -105,6 +105,7 @@ L'immagine è stata importata in Unity 3D generando un terreno tridimensionale c
 ![3](http://i.imgur.com/UW3azCo.png?3)  ![1](http://i.imgur.com/ZhubdAp.png?1)
 
 #####  Diana Lange “Nature of Code” | https://www.flickr.com/photos/dianalange/albums/72157629331606961 
+[+](http://www.diana-lange.de/portfolio/generative/nature_of_code/nature.html)[+](http://www.openprocessing.org/sketch/52738)
 Modelling done with Processing using noise & random walk to generate a terrain. Rendering done with Cinema 4D.
 ![1](http://farm8.static.flickr.com/7043/6830970430_a9eaa64cdb_m.jpg) ![1](http://farm8.static.flickr.com/7060/6830970694_5d006a378d_m.jpg)
 ![1](http://farm8.static.flickr.com/7047/6977098471_253d2665d4_m.jpg)
