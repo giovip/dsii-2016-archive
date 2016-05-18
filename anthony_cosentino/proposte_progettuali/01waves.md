@@ -3,9 +3,15 @@
 ##[01] Waves
 
 ###Concept
-Dispositivo/installazione audio-visiva che utilizza come dati di partenza, le frequenze dei campi elettromagnetici (Hertz).
-I campi elettromagnetici sono presenti ovunque nel nostro ambiente, ma sono invisibili all’occhio umano. Alcuni di questi sono prodotti dall’accumulo nell’atmosfera di cariche elettriche in occasione dei temporali, altri invece sono generati da sorgenti artificiali di grandi dimensioni come antenne televisive, impianti radiofonici, stazioni radio per la telefonia mobile, e in maniera minore negli spazi in cui viviamo, da televisori, elettrodomestici, dispositivi digitali.
-L’idea di progetto è quella di rendere visibile il vasto sistema di dati che circonda la nostra quotidianità, rappresentandolo e rendendolo tangibile visivamente e acusticamente attraverso il linguaggio  degli elaboratori elettronici: il sistema numerico binario.
+Installazione audio-visiva che utilizza come dati di partenza, le frequenze dei campi elettromagnetici (Hertz). 
+Navighiamo in un mare di onde, senza vederle né toccarle. I campi elettromagnetici sono presenti ovunque nel nostro ambiente, ma sono invisibili all’occhio umano. Alcuni di questi sono prodotti dall’accumulo nell’atmosfera di cariche elettriche in occasione dei temporali, altri invece sono generati da sorgenti artificiali di grandi dimensioni come antenne televisive, impianti radiofonici, stazioni radio per la telefonia mobile, e in maniera minore negli spazi in cui viviamo, da televisori, elettrodomestici, dispositivi digitali, ma ancor più interessante è la capacità di spostare, attraverso queste, milioni di dati tra vari dispositivi, potremmo in qualche modo definirle “autostrade dei dati”, sono il mezzo indispensabile atto all’invio e la ricezione continua di dati in forma digitalizzata.
+
+Lo scambio di tali informazioni avviene grazie ad un processo di codifica DIGITALE – ANALOGICO – DIGITALE. 
+Il dato – codice binario – viene convertito in onda elettromagnetica – analogica – per giungere al ricevente nuovamente sotto forma di codice binario.
+Da qui l’idea di rendere visibile tale fenomeno attraverso il linguaggio dei calcolatori e di avvalermi del processo inverso ANALOGICO – DIGITALE – ANALOGICO per mettere in scena un’installazione audiovisiva.
+Onda elettromagnetica – codifica binaria – visualizzazione e sonorizzazione.
+Il progetto vuole essere un “tributo” a un processo e un linguaggio che caratterizzano la vita e le abitudini delle popolazioni occidentali.
+
 
 ###Funzionamento
 Il dato viene acquisito tramite ARDUINO ed è definito dalla frequenza del campo elettromagnetico in un range di valori che va da 30 Hz a 30 GHz.
@@ -18,13 +24,7 @@ Microonde 2,4 GHz;<br>
 WiFi 5 GHz;<br>
 
 PROCESSING elabora e converte il dato acquisito in codice binario rappresentandolo successivamente con un insieme di linee bianche e nere (barcode) in continuo mutamento. 
-
-###Varianti
- In una prima ipotesi, dopo essere stato rilevato ed elaborato all'interno di un'area specifica, il dato viene stampato su supporto cartaceo simile ad uno scontrino.
-
-![](http://i.imgur.com/UPRVlnD.jpg)
-
-Per incentivare l'utente all'interazione, ho pensato ad un ulteriore elemento (scanner) che consenta di leggere il supporto stampato traducendo le linee in musica attraverso opportuna mappatura midi, la durata di una nota dipenderà dallo spessore delle linee. 
+La sonorizzazione avviene grazie ad un suono MIDI precedentemente creato con Logic x che ai vari segnali acceso/spento verrà di conseguenza eseguito o stoppato. (WIP)
 
 ####Nota:
 Nella conversione da decimale a binario, maggiore è il valore decimale maggiore sarà il numero di cifre che compongono il codice binario:<br>
