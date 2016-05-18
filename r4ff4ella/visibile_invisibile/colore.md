@@ -68,6 +68,14 @@ Artista Ann Veronica Janssens costruisce sculture sensoriali delle pareti in pol
 
 ![](https://lightartblog.files.wordpress.com/2013/05/carlos-cruz-diez-chromosaturation.jpg)
 
+
+installazioni 
+
+[_))))) repetition at my distance, Gabey Tjon a Tham ](http://www.gabeytjonatham.com/repetition-at-my-distance/)
+
+![](http://api.ning.com/files/DtcI2O2Ry7D3hNzVRfuxiWLslfVoR1kyz2*Yrxsdgt84ECyV7S42MddYXJbDN6XQzdPWRgnUg2zqprX8ONvTy1eF5fUAze1A/1082112328.jpeg)
+
+
  
 
 
@@ -79,6 +87,12 @@ installazioni basate su fenomeni fisici
 
 
 [_Entre fiction et réalité_Ambre Fluide ](http://www.scenocosme.com/fiction_realite_en.htm)
+
+
+
+
+
+
 
 
 
