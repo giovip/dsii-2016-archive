@@ -75,7 +75,9 @@ installazioni
 
 ![](http://api.ning.com/files/DtcI2O2Ry7D3hNzVRfuxiWLslfVoR1kyz2*Yrxsdgt84ECyV7S42MddYXJbDN6XQzdPWRgnUg2zqprX8ONvTy1eF5fUAze1A/1082112328.jpeg)
 
+[_Sound of light, plastique fantastique + Marco Barotti](http://www.designboom.com/architecture/marco-barotti-plastique-fantastique-sound-of-light-urban-lights-ruhr-2014-germany-10-29-2014/)
 
+![](http://www.designboom.com/wp-content/uploads/2014/10/marco-barotti-plastique-fantastique-sound-of-light-urban-lights-ruhr-2014-germany-designboom-09.jpg)
  
 
 
