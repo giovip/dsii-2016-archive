@@ -35,7 +35,7 @@ Perchè non riportare il termine alle sue vere radici, al suo vero principio e q
 ![](http://i.imgur.com/wwe34je.jpg)
 
 Sarebbe interessante analizzare questo legame invisibile tra le persone e renderlo noto a noi stessi
-attraverso una "mappa dei rapporti" dove gli utenti possono ragionare sui veri legami che li accostano a persone diverse.
+attraverso una "mappa dei rapporti", una sorta di solar system, dove gli utenti possono ragionare sui veri legami che li accostano alle persone
 
 La mappa sarà interattiva e tridimensionale in modo da poter visualizzare da ogni punto di vista i vari collegamenti tra le persone capendo il tipo di rapporto che abbiamo con loro.
 Le orbite potranno essere le distanze dei rapporti, da una sfera più intima all'estrema conoscenza di vista (ancora da definire esattamente). I livelli di conoscenza potrebbero essere dettati dal tempo che spendo con una determinata persona, esattamente come: 
