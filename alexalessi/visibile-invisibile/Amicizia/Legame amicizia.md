@@ -22,8 +22,7 @@ _ONLINE-OFFLINE_
 
 Parks e Roberts (2002; [+](https://medium.com/@jenkienzle/how-do-you-meet-someone-online-ec38d729a083#.vcajcj6iq) ) hanno confrontato lo sviluppo di amicizie on-line ed offline su Moos (Multi-User Dimensions, Object Oriented) scoprendo che le amicizie on-line presentano la stessa quantità e profondità di informazioni come le amicizie off-line. Il vantaggio di quelle on-line è la velocità, mentre lo svantaggio, la vicinanza.
 
-
-
+[](http://i.imgur.com/lsCu8xw.jpg)
 
 
 
