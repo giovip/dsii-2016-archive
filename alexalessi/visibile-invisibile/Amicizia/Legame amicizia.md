@@ -64,3 +64,8 @@ Listen to Wikipedia [+](http://listen.hatnote.com/#it)
 Facebook report WolframAlpha [+](http://www.wolframalpha.com/input/?i=facebook+report#_=_)
 
 Better friendships through mapping technology [+](https://medium.com/@vtcraghead/better-friendships-through-mapping-technology-294c292f41c5#.smctcdffk)
+
+
+_WHAT IF_
+Potrebbe essere interessante studiare le strutture "molecolari" dei legami "chimici" fra le persone, ma come visto da [questo](http://blog.stephenwolfram.com/2013/04/data-science-of-the-facebook-world/) studio viene fuori che le differenze di età possono provocare una variazione delle strutture-legami tra le persone.
+
