@@ -38,7 +38,7 @@ Perchè non riportare il termine alle sue vere radici, al suo vero principio e q
 Sarebbe interessante analizzare questo legame invisibile tra le persone e renderlo noto a noi stessi
 attraverso una "mappa dei rapporti", una sorta di solar system, dove gli utenti possono ragionare sui veri legami che li accostano alle persone
 
-La mappa sarà interattiva e tridimensionale in modo da poter visualizzare da ogni punto di vista i vari collegamenti tra le persone capendo il tipo di rapporto che abbiamo con loro.
+La mappa sarà interattiva e bidimensionale. Sarà navigabile e cliccabile (ad esempio sulle sfere rappresentanti le persone) in modo da poter visualizzare i vari collegamenti tra le persone capendo il tipo di rapporto che abbiamo con loro.
 Le orbite potranno essere le distanze dei rapporti, da una sfera più intima all'estrema conoscenza di vista (ancora da definire esattamente), ma che potrebbero essere così suddivisi:
 <br>
 - 1. Pre conoscenti: Conosciamo solo il loro nome, ma non ci si conosce.
