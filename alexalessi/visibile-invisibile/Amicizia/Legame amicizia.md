@@ -39,11 +39,31 @@ Sarebbe interessante analizzare questo legame invisibile tra le persone e render
 attraverso una "mappa dei rapporti", una sorta di solar system, dove gli utenti possono ragionare sui veri legami che li accostano alle persone
 
 La mappa sarà interattiva e tridimensionale in modo da poter visualizzare da ogni punto di vista i vari collegamenti tra le persone capendo il tipo di rapporto che abbiamo con loro.
-Le orbite potranno essere le distanze dei rapporti, da una sfera più intima all'estrema conoscenza di vista (ancora da definire esattamente). I livelli di conoscenza potrebbero essere dettati dal tempo che spendo con una determinata persona, esattamente come: 
+Le orbite potranno essere le distanze dei rapporti, da una sfera più intima all'estrema conoscenza di vista (ancora da definire esattamente), ma che potrebbero essere così suddivisi:
+<br>
+- 1. Pre conoscenti: Conosciamo solo il loro nome, ma non ci si conosce.
+<br>
+- 2. Ex amici: Persone con cui eravamo amici ma non abbiamo più rapporti ne vorremo averne con essi.
+<br>
+- 3. Conoscenti di 2° livello: Persone con cui parliamo qualche volta, un vicino, un compaesano, un compagno di scuola o un collega;  conoscenza limitata.
+<br>
+- 4. Conoscenti di 1° livello: Persone con cui condividiamo delle attività o con cui siamo in un gruppo, ci parliamo ma non si hanno molti rapporti fuori dal contesto di incontro legato all'attività.
+<br>
+- 5. Pre Amici: Possono essere vecchi amici, anche d'infanzia (possiamo anche non vedere da tanto tempo) che hanno o che condividono esperienze con noi, hanno interessi a noi comuni, sono ovviamente a proprio agio e si divertono con noi, vorremo iniziare una vera e propria amicizia con loro, sentiamo la necessità di vederli di tanto in tanto in luoghi comuni o per fare attività.
+<br>
+- 6. Amici: valgono le stesse cose dei pre amici, in più sono interessati alla tua vita e al tuo meglio, dedica tempo a te, conoscono la tua famiglia.
+<br>
+- 7. Parenti: Persone con cui abbiamo un legame sanguigno che prescinde dall'amicizia, possiamo conoscerlo o meno, è un rapporto a se stante.
+<br>
+- 8. Noi
+
+
+I livelli di conoscenza potrebbero essere dettati dal tempo che spendo con una determinata persona, esattamente come: 
 
 - Tempo online: Chat Facebook/Wathsapp.
 - Tempo offline: Quando sto con una determinata persona o con un gruppo di amici, tramite GPS (?)
 - Tempo rete cellulare: Chiamate e messaggi 
+
 
 
 
