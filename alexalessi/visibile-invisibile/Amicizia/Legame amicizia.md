@@ -39,12 +39,18 @@ attraverso una "mappa dei rapporti" dove gli utenti possono ragionare sui veri l
 
 La mappa sarà interattiva e tridimensionale in modo da poter visualizzare da ogni punto di vista i vari collegamenti tra le persone capendo il tipo di rapporto che abbiamo con loro.
 Le orbite potranno essere le distanze dei rapporti, da una sfera più intima all'estrema conoscenza di vista (ancora da definire esattamente). I livelli di conoscenza potrebbero essere dettati dal tempo che spendo con una determinata persona, esattamente come: 
-- Tempo online: Chat Facebook, Wathsapp, (con una determinata persona)
+
+- Tempo online: Chat Facebook/Wathsapp.
 - Tempo offline: Quando sto con una determinata persona o con un gruppo di amici, tramite GPS (?)
 - Tempo rete cellulare: Chiamate e messaggi 
 
+
+
+
 Da analizzare: 
 The open graph protocol [+] (http://ogp.me/)
+
+
 
 
 _REFERENZE_
