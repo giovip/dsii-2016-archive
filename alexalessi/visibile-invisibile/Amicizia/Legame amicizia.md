@@ -58,15 +58,20 @@ Le orbite potranno essere le distanze dei rapporti, da una sfera più intima all
 - 8. Noi
 
 
-I livelli di conoscenza potrebbero essere dettati dal tempo che spendo con una determinata persona, esattamente come: 
+I livelli di conoscenza potrebbero essere dettati dal tipo di tempo che spendo con una determinata persona:
 
-- Tempo online: Chat Facebook/Wathsapp.
-- Tempo offline: Quando sto con una determinata persona o con un gruppo di amici, tramite GPS (?)
-- Tempo rete cellulare: Chiamate e messaggi 
+<br>
+- Tempo online: Prendo i dati da chat Facebook/Wathsapp. Tramite le chiamate e messaggi che effettuo o ricevo da una persona, vado ad influire con il tempo con cui sto con quella persona e quindi sul tipo di rapporto che ho.
 
+- Tempo offline: Quando sto con una determinata persona o con un gruppo di amici, tramite GPS (?) riconosco dove sono esattamente nello spazio, se nella medesimo prossimità ritrovo una persona che conosco mi arriverà un messaggio (sei con Luca?) confermando avvio un timer che va ad influire sulla mia mappa dei rapporti aumentando il tempo con cui sto con quella persona, poi sarò io a fermare il tempo.
 
+<br>
 
+|   Tempo online   |   Tempo offline   |
+| ----------------:|  ----------------:|
+| Vocale - Scritto |Vocale - Posizione |
 
+<br>
 
 Da analizzare: 
 The open graph protocol [+] (http://ogp.me/)
