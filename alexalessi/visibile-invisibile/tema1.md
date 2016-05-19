@@ -16,3 +16,4 @@ attraverso una "mappa-radar dei rapporti" dove gli utenti possono ragionare sui 
 hanno iniziato ad avere rapporti con loro e quando sono uscite dalla propria vita, l'età delle persone che frequentiamo o seguiamo, 
 ristabilire rapporti e iniziarne nuovi, sapere dove sono i conoscenti, gli amici, i cari e tutte le categorie di rapporti, sottolineando il legame tra essi.
 Questo potrebbe aiutare a capire, a conoscere noi ed il legame con gli altri, che è effettivamente nascosto.
+
