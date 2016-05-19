@@ -70,19 +70,50 @@ _Componenti tecniche includono Arduino, PS Eye (Playstation Eye Camera), un moto
  _Dettagli tecnici_ [+](http://kunst-und-raederwerk.net)
  
  
-### CONCEPT | Impronte sonore
-Impronte digitali come paesaggio fatto da curve, solchi, creste, un luogo unico, personale, intimo, che varia da individuo a individuo.  Ragionando sul concetto di paesaggio "sonoro" e più nel dettaglio di "impronte sonore" che in riferimento al Soundscape (paesaggio sonoro) del compositore Murray Schafer identificano i suoni caratteristici di un'area, oggetti sonori unici specifici di un determinato luogo, sarebbe interessante traslare il concetto di impronta sonora sulle impronte digitali. Ogni impronta digitale avrebbe una propria composizione sonora, una propria melodia.
+##### -Kate Cragoe Mayfield, "Identity map" | http://katecragoemayfield.com/identity-map-a2
+A map based on the different fingerprint patterns people have. "I drew each square over an enlarged fingerprint to achieve the swirling layouts of cities, villages, fields and industrial sites".
 
+![1](http://i.imgur.com/9kWLikh.jpg?1)
+ 
+ 
+### CONCEPT 
+1. Impronte digitali come paesaggio fatto da curve, solchi, creste, un luogo unico, personale, intimo, che varia da individuo a individuo.  Ragionando sul concetto di paesaggio "sonoro" e più nel dettaglio di "impronte sonore" che in riferimento al Soundscape (paesaggio sonoro) del compositore Murray Schafer identificano i suoni caratteristici di un'area, oggetti sonori unici specifici di un determinato luogo, sarebbe interessante traslare il concetto di impronta sonora sulle impronte digitali. Ogni impronta digitale avrebbe una propria composizione sonora, una propria melodia.
 Ipotesi: attribuire alle caratteristiche dell'impronta dei suoni.<br>
 Dati: caratteristiche dell'impronta digitale. 
-- Una volta acquisita l'immagine ingrandita (in bianco e nero) dell'impronta, questa verrebbe stampata ad alta risoluzione su un supporto cartaceo (o cos'altro?). L'ingrandimento sulle impronte è necessario per renderne visibili i dettagli e la configurazione. Si potrebbe utilizzare un microscopio digitale per catturare l'immagine.
-- L'immagine stampata verrebbe letta da un giradischi (modificato), secondo il principio di lettura di un disco (per riprodurre un disco, lo si pone su un piatto rotante fatto girare a velocità costante e predefinita...si appoggia sul disco inciso la puntina di lettura che segue il solco del disco). 
-- Al posto della puntina vi sarà un lettore ottico in grado di leggere le linee e gli spazi tra una linea e l'altra (le linee saranno nere, gli spazi vuoti in bianco o viceversa). Questi verranno tradotti in suoni, grazie a un algoritmo che associa ogni caratteristica (linea e spazio vuoto tra le linee) a una nota. Ogni impronta avrà una differente composizione sonora, poichè tutte le impronte hanno diverse configurazioni.
+Una volta acquisita l'immagine ingrandita (in bianco e nero) dell'impronta, questa verrebbe stampata ad alta risoluzione su un supporto cartaceo (o cos'altro?). L'ingrandimento sulle impronte è necessario per renderne visibili i dettagli e la configurazione. Si potrebbe utilizzare un microscopio digitale per catturare l'immagine.
+L'immagine stampata verrebbe letta da un giradischi (modificato), secondo il principio di lettura di un disco (per riprodurre un disco, lo si pone su un piatto rotante fatto girare a velocità costante e predefinita...si appoggia sul disco inciso la puntina di lettura che segue il solco del disco). 
+Al posto della puntina vi sarà un lettore ottico in grado di leggere le linee e gli spazi tra una linea e l'altra (le linee saranno nere, gli spazi vuoti in bianco o viceversa). Questi verranno tradotti in suoni, grazie a un algoritmo che associa ogni caratteristica (linea e spazio vuoto tra le linee) a una nota. Ogni impronta avrà una differente composizione sonora, poichè tutte le impronte hanno diverse configurazioni.
 
+#### IMPRONTA COME PAESAGGIO <br>
 
+![1](http://i.imgur.com/gpFzWNF.jpg1)<br>
+2. _Impronta come paesaggio intimo, luogo personale e unico. Ragionare sul concetto di esplorazione e del fare esperienza della propria identità espressa nell'unicità dell'impronta._
+Immaginando di poter rilevare l'impronta in tempo reale e che questa venga visualizzata su uno schermo con un importante ingrandimento tale da metterne in evidenza le singolarità, pensavo alla possibilità di esplorare il paesaggio dell'impronta, di poterci "navigare" e interagire come se ci fosse un contatto diretto con essa. L'idea è di "sentire" il ridge pattern delle impronte, associando ad ogni caratteristica fisica dell'impronta (creste, discontinuità delle creste, valli) una diversa sensazione/feedback tattile (?) così da sentire il paesaggio che abbiamo impresso sulla pelle...quindi un'esplorazione che contente di sentirne la configurazione con sensazioni tattili differenti in funzione delle caratteristiche dell'impronta.
+Una immersione nel paesaggio della propria intimità, un camminarci dentro e sentirne la configurazione...le creste (minuzie di tipo terminazione, biforcazione) come sentieri che si biforcano, si interrompono..qui sotto, le caratteristiche del ridge pattern.
+![1](http://i.imgur.com/g7Cxnsh.png?1)
+#### Heightmap
+Le heightmap sono delle immagini in scala di grigi usate per elaborare la conformità e l'altezza di un terreno, dove le parti più chiare rappresentano i punti più alti mentre quelle più scure i punti più bassi. 
+Bitmap monocromatico in cui l'intensità di bianco rappresenta l'altezza massima, le parti in nero le altezze minime, quelle in grigio effetti intermedi. Una heightmap può essere usata per generare velocemente ambienti 3D (nel campo della grafica 3D esse sono molto utili poiché permettono, in pochi passaggi, di creare un terreno realistico e dettagliato). L'immagine in scala di grigi potrà essere importata in un  motore grafico (come Unreal Engine, CryEngine, Unity etc. ) per generare un terreno/paesaggio.
+#### Heightmap di un'impronta. Prova su Unity 3D
+_How to generate a Unity 3D Terrain from height map image_<br>
+Strumenti utilizzati: immagine in scala di grigi modificata su Photoshop, Unity 3D.
+L'immagine dell'impronta può essere catturata mediante scanner o microscopio. 
+Va poi convertita in scala di grigi e salvata in formato raw (Photoshop raw format *.RAW ).
+L'immagine è stata importata in Unity 3D generando un terreno tridimensionale che tiene conto dei valori di bianco e di nero. 
 
+![1](http://i.imgur.com/a7vYuRq.png?1)  ![1](http://i.imgur.com/eWdQFpy.png?1)
+![3](http://i.imgur.com/UW3azCo.png?3)  ![1](http://i.imgur.com/ZhubdAp.png?1)
 
+#####  Diana Lange “Nature of Code” | https://www.flickr.com/photos/dianalange/albums/72157629331606961 
+[+](http://www.diana-lange.de/portfolio/generative/nature_of_code/nature.html)[+](http://www.openprocessing.org/sketch/52738)[+](http://diana-lange.de/content/files/diana_lange_nature_of_code_dokumentation_web.pdf)
+Modelling done with Processing using noise & random walk to generate a terrain. Rendering done with Cinema 4D.
+![1](http://farm8.static.flickr.com/7043/6830970430_a9eaa64cdb_m.jpg) ![1](http://farm8.static.flickr.com/7060/6830970694_5d006a378d_m.jpg)
+![1](http://farm8.static.flickr.com/7047/6977098471_253d2665d4_m.jpg)
+![1](http://i.imgur.com/Sh82fcR.jpg?1) ![1](http://i.imgur.com/dJPNgM2.jpg?1)
 
+Ipotesi: 3D ANIMATED VISUALIZATION. Generare un paesaggio tridimensionale della propria impronta. Comunicazione tra Processing e programma 3D. Realtime 3D rendering.<br>
+Acquisita l'impronta con il lettore ottico, viene inviata a Processing per elaborare una visualizzazione 3D di questa che sarà renderizzata in tempo reale. L'output sarà la visualizzazione su schermo di un "terreno" generato a partire dalla scala di grigi dell'immagine. (Ogni impronta rilevata avrà una configurazione differente).
+E se l'immagine visualizzata venisse anche stampata (pensavo ad un piccolo formato, 8x8 cm)? I visitatori potrebbero così portarsi un "ricordo" dell'esperienza, un oggetto unico e personale.
 
 
 
