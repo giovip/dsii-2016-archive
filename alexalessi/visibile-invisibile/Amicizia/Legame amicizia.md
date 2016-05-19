@@ -1,6 +1,6 @@
 ##Amicizia, legame nascosto
 
-_IL LEGAME INTERPERSONALE_
+_LEGAME INTERPERSONALE_
 
 La definizione di una persona come un amico ha spesso poco rapporto con la frequenza con cui effettivamente si vede quella persona (Rubin, 1985). Di conseguenza, non esiste ancora una definizione generalmente accettata di amicizia. Ancora, molti studiosi stanno cercato di dare una tale definizione.
 
@@ -27,25 +27,34 @@ Parks e Roberts (2002; [+](https://medium.com/@jenkienzle/how-do-you-meet-someon
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
+_IDEA_
 
 Spesso lamentiamo delle tante amicizie "virtuali" di persone che nemmeno conosciamo, ne abbiamo mai visto ne sentito parlare.
-Perchè non riportare il termine alle sue vere radici, al suo vero principio e quindi ristabilire il contatto tra le persone e, in un certo
-senso ridimensionare dando una nuova misura tre i rapporti intrapersonali?
+Perchè non riportare il termine alle sue vere radici, al suo vero principio e quindi ristabilire il contatto tra le persone e, in un certo senso ridimensionare dando una nuova misura tre i rapporti intrapersonali?
 
-Sarebbe interessante analizzare questo legame invisibile tra le persone e renderlo noto a noi stessi e a chi vogliamo
-attraverso una "mappa-radar dei rapporti" dove gli utenti possono ragionare sui veri legami che li accostano a persone diverse, quando effetivamente
-hanno iniziato ad avere rapporti con loro e quando sono uscite dalla propria vita, l'età delle persone che frequentiamo o seguiamo, 
-ristabilire rapporti e iniziarne nuovi, sapere dove sono i conoscenti, gli amici, i cari e tutte le categorie di rapporti, sottolineando il legame tra essi.
-Questo potrebbe aiutare a capire, a conoscere noi ed il legame con gli altri, che è effettivamente nascosto.
+![](http://i.imgur.com/wwe34je.jpg)
+
+Sarebbe interessante analizzare questo legame invisibile tra le persone e renderlo noto a noi stessi
+attraverso una "mappa dei rapporti" dove gli utenti possono ragionare sui veri legami che li accostano a persone diverse.
+
+La mappa sarà interattiva e tridimensionale in modo da poter visualizzare da ogni punto di vista i vari collegamenti tra le persone capendo il tipo di rapporto che abbiamo con loro.
+Le orbite potranno essere le distanze dei rapporti, da una sfera più intima all'estrema conoscenza di vista (ancora da definire esattamente). I livelli di conoscenza potrebbero essere dettati dal tempo che spendo con una determinata persona, esattamente come: 
+- Tempo online: Chat Facebook, Wathsapp, (con una determinata persona)
+- Tempo offline: Quando sto con una determinata persona o con un gruppo di amici, tramite GPS (?)
+- Tempo rete cellulare: Chiamate e messaggi 
+
+Da analizzare: 
+The open graph protocol [+] (http://ogp.me/)
+
+
+_REFERENZE_
+
+Best Friends – Casting in wax 451 connections on Facebook [Objects] [+](http://www.creativeapplications.net/objects/best-friends-objects/)
+
+The 2009 Feltron report [+](http://feltron.com/FAR09.html)
+
+Listen to Wikipedia [+](http://listen.hatnote.com/#it)
+
+Facebook report WolframAlpha [+](http://www.wolframalpha.com/input/?i=facebook+report#_=_)
+
+Better friendships through mapping technology [+](https://medium.com/@vtcraghead/better-friendships-through-mapping-technology-294c292f41c5#.smctcdffk)
