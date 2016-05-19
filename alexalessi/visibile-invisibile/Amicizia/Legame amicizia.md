@@ -74,8 +74,10 @@ I livelli di conoscenza potrebbero essere dettati dal tipo di tempo che spendo c
 <br>
 
 Da analizzare: 
+<br>
 The open graph protocol [+] (http://ogp.me/)
-
+<br>
+How to use API [+](http://www.poynter.org/2011/how-to-use-apis-from-google-facebook-twitter-to-find-data-ideas/141786/)
 
 
 <br>
