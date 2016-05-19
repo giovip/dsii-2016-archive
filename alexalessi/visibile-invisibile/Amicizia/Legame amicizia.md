@@ -73,6 +73,10 @@ I livelli di conoscenza potrebbero essere dettati dal tipo di tempo che spendo c
 
 <br>
 
+
+![](http://i.imgur.com/DDxTx1N.jpg)
+
+
 Da analizzare: 
 <br>
 The open graph protocol [+] (http://ogp.me/)
