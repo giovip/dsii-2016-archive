@@ -87,7 +87,7 @@ Al posto della puntina vi sarà un lettore ottico in grado di leggere le linee e
 #### IMPRONTA COME PAESAGGIO <br>
 
 ![1](http://i.imgur.com/gpFzWNF.jpg1)<br>
-Impronta come paesaggio intimo, luogo personale e unico. Ragionare sul concetto di esplorazione e del fare esperienza della propria identità espressa nell'unicità dell'impronta.
+2. _Impronta come paesaggio intimo, luogo personale e unico. Ragionare sul concetto di esplorazione e del fare esperienza della propria identità espressa nell'unicità dell'impronta._
 Immaginando di poter rilevare l'impronta in tempo reale e che questa venga visualizzata su uno schermo con un importante ingrandimento tale da metterne in evidenza le singolarità, pensavo alla possibilità di esplorare il paesaggio dell'impronta, di poterci "navigare" e interagire come se ci fosse un contatto diretto con essa. L'idea è di "sentire" il ridge pattern delle impronte, associando ad ogni caratteristica fisica dell'impronta (creste, discontinuità delle creste, valli) una diversa sensazione/feedback tattile (?) così da sentire il paesaggio che abbiamo impresso sulla pelle...quindi un'esplorazione che contente di sentirne la configurazione con sensazioni tattili differenti in funzione delle caratteristiche dell'impronta.
 Una immersione nel paesaggio della propria intimità, un camminarci dentro e sentirne la configurazione...le creste (minuzie di tipo terminazione, biforcazione) come sentieri che si biforcano, si interrompono..qui sotto, le caratteristiche del ridge pattern.
 ![1](http://i.imgur.com/g7Cxnsh.png?1)
@@ -111,8 +111,9 @@ Modelling done with Processing using noise & random walk to generate a terrain. 
 ![1](http://farm8.static.flickr.com/7047/6977098471_253d2665d4_m.jpg)
 ![1](http://i.imgur.com/Sh82fcR.jpg?1) ![1](http://i.imgur.com/dJPNgM2.jpg?1)
 
-Ipotesi: generare un paesaggio tridimensionale della propria impronta. Comunicazione tra Processing e programma 3D
-
+Ipotesi: 3D ANIMATED VISUALIZATION. Generare un paesaggio tridimensionale della propria impronta. Comunicazione tra Processing e programma 3D. Realtime 3D rendering.<br>
+Acquisita l'impronta con il lettore ottico, viene inviata a Processing per elaborare una visualizzazione 3D di questa che sarà renderizzata in tempo reale. L'output sarà la visualizzazione su schermo di un "terreno" generato a partire dalla scala di grigio dell'immagine. (Ogni impronta rilevata avrà una configurazione differente).
+E se l'immagine visualizzata venisse anche stampata (pensavo ad un piccolo formato, 8x8 cm)? I visitatori potrebbero così portarsi un "ricordo" dell'esperienza, un oggetto unico e personale.
 
 
 
