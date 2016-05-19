@@ -112,7 +112,7 @@ Modelling done with Processing using noise & random walk to generate a terrain. 
 ![1](http://i.imgur.com/Sh82fcR.jpg?1) ![1](http://i.imgur.com/dJPNgM2.jpg?1)
 
 Ipotesi: 3D ANIMATED VISUALIZATION. Generare un paesaggio tridimensionale della propria impronta. Comunicazione tra Processing e programma 3D. Realtime 3D rendering.<br>
-Acquisita l'impronta con il lettore ottico, viene inviata a Processing per elaborare una visualizzazione 3D di questa che sarà renderizzata in tempo reale. L'output sarà la visualizzazione su schermo di un "terreno" generato a partire dalla scala di grigio dell'immagine. (Ogni impronta rilevata avrà una configurazione differente).
+Acquisita l'impronta con il lettore ottico, viene inviata a Processing per elaborare una visualizzazione 3D di questa che sarà renderizzata in tempo reale. L'output sarà la visualizzazione su schermo di un "terreno" generato a partire dalla scala di grigi dell'immagine. (Ogni impronta rilevata avrà una configurazione differente).
 E se l'immagine visualizzata venisse anche stampata (pensavo ad un piccolo formato, 8x8 cm)? I visitatori potrebbero così portarsi un "ricordo" dell'esperienza, un oggetto unico e personale.
 
 
