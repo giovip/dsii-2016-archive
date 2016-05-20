@@ -100,5 +100,5 @@ Better friendships through mapping technology [+](https://medium.com/@vtcraghead
 <br>
 _WHAT IF_
 
-Potrebbe essere interessante studiare le strutture "molecolari" dei legami "chimici" fra le persone, ma come visto da [questo](http://blog.stephenwolfram.com/2013/04/data-science-of-the-facebook-world/) studio viene fuori che le differenze di età possono provocare una variazione delle strutture-legami tra le persone.
+Potrebbe essere interessante studiare le strutture "molecolari" dei legami "chimici" fra le persone, ma come visto da [questo](http://blog.stephenwolfram.com/2013/04/data-science-of-the-facebook-world/) studio viene fuori che le differenze di età possono provocare una variazione delle strutture-legami tra le persone. [+](http://blog.stephenwolfram.com/2013/04/data-science-of-the-facebook-world/)
 
