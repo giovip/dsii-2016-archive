@@ -84,6 +84,8 @@ Facebook chat API
 [+](http://www.programmableweb.com/api/facebook)
 [+](https://pypi.python.org/pypi/fbchat/)
 <br>
+Temboo Facebook library [+](https://temboo.com/library/Library/Facebook/)
+<br>
 The open graph protocol [+] (http://ogp.me/)
 <br>
 How to use API [+](http://www.poynter.org/2011/how-to-use-apis-from-google-facebook-twitter-to-find-data-ideas/141786/)
