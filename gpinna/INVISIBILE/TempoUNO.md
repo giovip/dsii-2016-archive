@@ -55,9 +55,6 @@ _Servo motore
 - **_Chrono-Shredder, 2011, Susanna Hertrich**
 [+](http://www.susannahertrich.com/art/chronoshredder.shtml)  
 _Idea del cancellare, distruggere, modificare il tempo._
-- **_Oblique clock, 2010, Tristan Zimmermann**
-[+](http://mocoloco.com/oblique-clock-by-tristan-zimmermann/)  
-_Idea del visualizzare il tempo decostruendolo._
 - **_Timekeepers, 2008, Corinne Quin**
 [+](http://www.bromptondesigndistrict.com/event/t-i-m-e-k-e-e-p-e-r)  
 _Idea dell'avvolgere e svolgere all'infinito._
