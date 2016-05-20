@@ -84,25 +84,25 @@ Facebook chat API
 [+](http://www.programmableweb.com/api/facebook)
 [+](https://pypi.python.org/pypi/fbchat/)
 <br>
-Temboo Facebook library [+](https://temboo.com/library/Library/Facebook/)
+[Temboo Facebook library](https://temboo.com/library/Library/Facebook/)
 <br>
-The open graph protocol [+] (http://ogp.me/)
+[The open graph protocol] (http://ogp.me/)
 <br>
-How to use API [+](http://www.poynter.org/2011/how-to-use-apis-from-google-facebook-twitter-to-find-data-ideas/141786/)
+[How to use API](http://www.poynter.org/2011/how-to-use-apis-from-google-facebook-twitter-to-find-data-ideas/141786/)
 
 
 <br>
 _REFERENZE_
 
-Best Friends – Casting in wax 451 connections on Facebook [Objects] [+](http://www.creativeapplications.net/objects/best-friends-objects/)
+[Best Friends – Casting in wax 451 connections on Facebook](http://www.creativeapplications.net/objects/best-friends-objects/)
 
-The 2009 Feltron report [+](http://feltron.com/FAR09.html)
+[The 2009 Feltron report](http://feltron.com/FAR09.html)
 
-Listen to Wikipedia [+](http://listen.hatnote.com/#it)
+[Listen to Wikipedia](http://listen.hatnote.com/#it)
 
-Facebook report WolframAlpha [+](http://www.wolframalpha.com/input/?i=facebook+report#_=_)
+[Facebook report WolframAlpha](http://www.wolframalpha.com/input/?i=facebook+report#_=_)
 
-Better friendships through mapping technology [+](https://medium.com/@vtcraghead/better-friendships-through-mapping-technology-294c292f41c5#.smctcdffk)
+[Better friendships through mapping technology](https://medium.com/@vtcraghead/better-friendships-through-mapping-technology-294c292f41c5#.smctcdffk)
 
 <br>
 _WHAT IF_
