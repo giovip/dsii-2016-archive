@@ -72,7 +72,7 @@ I livelli di conoscenza potrebbero essere dettati dal tipo di tempo che spendo c
 | Vocale - Scritto |Vocale - Posizione |
 
 <br>
-
+[Tabella dati](https://docs.google.com/spreadsheets/d/15BEVns9VaB1pbMuelLiAM7L87BRKUUK_V2XgXDnBmro/edit#gid=0)
 
 ![](http://i.imgur.com/DDxTx1N.jpg)
 
