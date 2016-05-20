@@ -79,6 +79,11 @@ I livelli di conoscenza potrebbero essere dettati dal tipo di tempo che spendo c
 
 Da analizzare: 
 <br>
+Facebook chat API 
+[+](https://github.com/Schmavery/facebook-chat-api)
+[+](http://www.programmableweb.com/api/facebook)
+[+](https://pypi.python.org/pypi/fbchat/)
+<br>
 The open graph protocol [+] (http://ogp.me/)
 <br>
 How to use API [+](http://www.poynter.org/2011/how-to-use-apis-from-google-facebook-twitter-to-find-data-ideas/141786/)
