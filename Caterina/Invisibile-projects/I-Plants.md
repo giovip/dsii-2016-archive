@@ -45,6 +45,14 @@ Riferimenti usati per CULTIVATING FREQUENCIES [+](http://www.nime.org/proceeding
 - [video funzionamento](https://www.youtube.com/watch?v=YpCyQFfrp54)
 - [Codice](http://pastebin.com/M19LLQRv)
 
+###VISUAL INSPIRATION
+![RECURSION FLOWER PROCESSING](http://www.diana-lange.de/portfolio/generative/nature_of_code/img/ast_07.jpg) ![LINE GENERATIVE SOLAAS](http://i.imgur.com/9LAifst.png?1) ![SOUND GENERATIVE PROCESSING](http://i.imgur.com/jmL9ukv.png?2)
+
+- [Recursion flower](http://www.diana-lange.de/portfolio/generative/nature_of_code/nature.html#navi)
+- [Linear landscapes](https://www.flickr.com/photos/solaas/sets/72157624193851901)
+- [Sound generative beats](https://vimeo.com/24133373)
+
+
 
 
 ###WHAT IS |
