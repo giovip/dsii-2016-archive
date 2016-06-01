@@ -24,6 +24,8 @@
 
 
 
+
+
 ###REFERENCE
 ![Reference](http://i.imgur.com/PTkB009.jpg)
 
@@ -90,7 +92,7 @@ Riferimenti usati per CULTIVATING FREQUENCIES [+](http://www.nime.org/proceeding
 
 *- Un possibile output della pianta può essere sicuramente quello di trasformarla in uno strumento musicale vivente- pensando ad una pianta dotata di un fusto principale e tante appendici queste potrebbero essere stimolate come forssero delle corde di uno strumento e generare ognuna un suono, alcune parti come il fusto potrebbero fare da "pedaliera" così da aggiungere effetti alle singole note.* 
 
-
+![Visual concept](http://i.imgur.com/WRus7qJ.jpg?1)
 
 ###OUTPUT FINALE
 *Il progetto finale prevede quindi la realizzazione un sistema che simuli il processo di ricezione e trasmissione di impulsi delle piante agli agenti esterni, creando un prototipo arduino che rilevi similmente gli impulsi elettrici degli esseri viventi. I dati vengono quindi analizzati e trasformati in un grafico che ne mostri le variazioni.*   
