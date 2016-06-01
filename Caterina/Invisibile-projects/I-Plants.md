@@ -6,6 +6,8 @@
 ###CONCEPT
 ![Brainstorming about plants](http://i.imgur.com/HKTG8SR.jpg?1)
 ![Frasi e parole](http://i.imgur.com/zbLipPl.jpg?1)
+*Le piante sono esseri viventi e come tali si muovono, comunicano, si adattano all'ambiente in cui vengono inseriti e rispondono a seconda delle situazioni. Gli studi su questi aspetti della flora terrestre sono da tempo studiati attraverso registrazioni dilatate nel tempo per rilevare i micro-movimenti che ogni giorno compiono, ma anche attraverso esperimenti sulla sensibilità delle piante a determinati eventi collegandole ad un poligrafo (macchina della verità)e analizzando le oscillazioni che vengono provocate da diverse situazioni come lo sfradicamento o uccisione di un simile, o il semplice avvicinamento di un predatore.*
+*Il concept di questo progetto è quindi di esplorare il modo vivere delle piante e riuscire a mostrare alcuni aspetti del loro modo di comunicare, che nonostante sia ricco di input e output realmente percepibili, non viene percepito dall'essere umano perchè su differenti piani temporali o su frequenze diverse da quelle udibili.*
 
 
 
