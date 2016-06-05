@@ -1,5 +1,5 @@
 ##Museo dell'acqua di Siena, 2010, Studio Azzurro & Mizar 
-
+![2](http://www.newitalianblood.com/progetti/images/7771.jpg?2)
 ###What is
 Museo multimediale realizzato nei locali della Fonte di Pescaia, dedicato alla storia del sistema dei bottini e delle fonti che portavano l’acqua nella città di Siena.
 
