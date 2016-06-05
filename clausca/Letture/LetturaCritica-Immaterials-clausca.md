@@ -1,5 +1,6 @@
 ##Immaterials: Light painting WiFi, 2012, Timo Arnall, Jørn Knutsen and Einar Sneve Martinussen
 
+![2](http://www.elasticspace.com/wp-content/uploads/2012/05/Immaterials-Wifi.jpg?2)
 ### What is
 Un progetto che rende visibili le reti wi-fi urbane e la potenza dei segnali wireless sotto forma di un dipinto luminoso.
 
