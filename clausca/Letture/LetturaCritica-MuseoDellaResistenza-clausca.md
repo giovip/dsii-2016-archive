@@ -1,4 +1,5 @@
 ##Museo audiovisivo della Resistenza, 2000, Studio Azzurro
+![2](http://storage.aicod.it/portale/aptmassacarraraagturismo/view/1000/IMG_3099.jpg?2)
 
 ###What is
 Museo audiovisivo dedicato al periodo storico della Resistenza italiana nel territorio della Lunigiana, del quale raccoglie, conserva e rende accessibile la memoria storica. 
