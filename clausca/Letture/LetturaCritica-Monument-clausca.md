@@ -1,5 +1,7 @@
 ##Monument, 2006, Caleb Larsen
 
+![1](http://i1.wp.com/caleblarsen.com/wordpress/wp-content/uploads/2013/01/CalebLarsen_02.jpg?1)
+
 ###What is
 È un'installazione che utilizza la caduta di palline di plastica gialle (100 mila palline in tutto) da un contenitore per simboleggiare il numero di persone vittime di omicidi in tempo reale. Le palline dal diametro di 6mm, sono quelle utilizzate per le pistole ad aria compressa. 
 
