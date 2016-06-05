@@ -1,4 +1,5 @@
 ## Museo della mente, 2008, Studio Azzurro
+![2](http://www.arshake.com/wp-content/uploads/2014/03/listituzione-chiusa-1024x682.jpg?2)
 
 ###What is
 Museo creato all’interno dell’ex-ospedale psichiatrico Santa Maria della Pietà di Roma dedicato alla storia e ai sistemi di cura del disagio mentale, che racconta le memorie del manicomio ripercorrendo la storia dell’ospedale.
