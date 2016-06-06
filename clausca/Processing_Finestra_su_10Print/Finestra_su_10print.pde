@@ -1,9 +1,8 @@
-// Processing variation of 10Print by clausca 
+// Processing variation 3 of 10Print by clausca : "Finestra su 10PRINT"
 // 2016 © clausca, Daniele @Fupete and the course DSII2016 @UniRSM  
 // github.com/fupete — github.com/dsii-2016-unirsm
 // Educational purposes, MIT License, 2016, San Marino
 
-//"Finestra su 10PRINT"
 //Disegna il labirinto di 10 print all'interno di un quadrato in espansione che segue lo stesso principio di ripetizione
 //Il quadrato è una finestra in prospettiva centrale con vista sul labirinto di 10 print.
 
