@@ -3,10 +3,10 @@
 // github.com/fupete — github.com/dsii-2016-unirsm
 // Educational purposes, MIT License, 2016, San Marino
 // Help:
-//Load font Commodore-64-Rounded-48.vlw
-//Mouse Pressed
-//Key Pressed 'n' noLoop, saveFrame
-//Key Pressed 'l' Loop
+// Load font Commodore-64-Rounded-48.vlw
+// Mouse Pressed
+// Key Pressed 'n' noLoop, saveFrame
+// Key Pressed 'l' Loop
 
 int x = 0; 
 int y = 0;  
