@@ -1,4 +1,4 @@
-// Processing variation of 10Print by clausca 
+// Processing variation 2 of 10Print by clausca 
 // 2016 © clausca, Daniele @Fupete and the course DSII2016 @UniRSM  
 // github.com/fupete — github.com/dsii-2016-unirsm
 // Educational purposes, MIT License, 2016, San Marino
