@@ -3,8 +3,8 @@
 // github.com/fupete — github.com/dsii-2016-unirsm
 // Educational purposes, MIT License, 2016, San Marino
 
-//Disegna il labirinto di 10 print all'interno di un quadrato in espansione che segue lo stesso principio di ripetizione
-//Il quadrato è una finestra in prospettiva centrale con vista sul labirinto di 10 print.
+// Disegna il labirinto di 10 print all'interno di un quadrato in espansione che segue lo stesso principio di ripetizione
+// Il quadrato è una finestra in prospettiva centrale con vista sul labirinto di 10 print.
 
 
 int x = 620;
