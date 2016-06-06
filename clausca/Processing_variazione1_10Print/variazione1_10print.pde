@@ -3,9 +3,9 @@
 // github.com/fupete — github.com/dsii-2016-unirsm
 // Educational purposes, MIT License, 2016, San Marino
 // Help:
-//Mouse Pressed
-//Key Pressed 'n' noLoop, saveFrame
-//Key Pressed 'l' Loop
+// Mouse Pressed
+// Key Pressed 'n' noLoop, saveFrame
+// Key Pressed 'l' Loop
 
 int x = 0; 
 int y = 0;  
