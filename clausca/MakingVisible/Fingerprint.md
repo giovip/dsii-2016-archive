@@ -111,6 +111,13 @@ Modelling done with Processing using noise & random walk to generate a terrain. 
 ![1](http://farm8.static.flickr.com/7047/6977098471_253d2665d4_m.jpg)
 ![1](http://i.imgur.com/Sh82fcR.jpg?1) ![1](http://i.imgur.com/dJPNgM2.jpg?1)
 
-Ipotesi: 3D ANIMATED VISUALIZATION. Generare un paesaggio tridimensionale della propria impronta. Comunicazione tra Processing e programma 3D. Realtime 3D rendering.<br>
-Acquisita l'impronta con il lettore ottico, viene inviata a Processing per elaborare una visualizzazione 3D di questa che sarà renderizzata in tempo reale. L'output sarà la visualizzazione su schermo di un "terreno" generato a partire dalla scala di grigi dell'immagine. (Ogni impronta rilevata avrà una configurazione differente).
-E se l'immagine visualizzata venisse anche stampata (pensavo ad un piccolo formato, 8x8 cm)? I visitatori potrebbero così portarsi un "ricordo" dell'esperienza, un oggetto unico e personale.
+###PROGETTO 
+####Fingerprint 3D animated visualization <br>
+Generare un paesaggio tridimensionale della propria impronta.<br>
+Acquisita l'impronta, viene inviata a Processing per elaborare una visualizzazione 3D in wireframe mesh e shading.  L'output sarà la visualizzazione su schermo di un "terreno" generato a partire dalla scala di grigi dell'immagine. (Ogni impronta rilevata avrà una configurazione differente).
+####Procedimento <br>
+Acquisizione impronta, scannerizzazione e importazione immagine in Processing.<br>
+Processing: a partire dalla heightmap di un'impronta (una heightmap è un'immagine che usa il colore dei pixel per prendere dati relativi alle altezze), costruisco una mesh (maglia) composta da quadrilateri/triangoli formati da vertici. Per ciascun pixel dell'immagine creo un vertice la cui altezza è basata sul colore dei pixel: il colore nero rappresenterà l'altezza minima, il bianco l'altezza massima. Si verrà a creare un paesaggio tridimensionale che metterà in evidenza la configurazione dell'impronta digitale fatta da un'alternanza di creste e valli. L'utente potrà così esplorare "da vicino" la sua impronta scoprendo il territorio della propria intimità.
+
+![4](http://i.imgur.com/j7gzbuH.jpg?4) ![1](http://i.imgur.com/rR7l6WI.jpg?1)
+![2](http://i.imgur.com/ez9jGnj.jpg?2)
