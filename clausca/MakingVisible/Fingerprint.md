@@ -118,4 +118,4 @@ Acquisizione impronta, scannerizzazione e importazione immagine in Processing.<b
 Processing: a partire dalla heightmap di un'impronta (una heightmap è un'immagine che usa il colore dei pixel per prendere dati relativi alle altezze), costruisco una mesh (maglia) composta da quadrilateri/triangoli formati da vertici. Per ciascun pixel dell'immagine creo un vertice la cui altezza è basata sul colore dei pixel: il colore nero rappresenterà l'altezza minima, il bianco l'altezza massima. Si verrà a creare un paesaggio tridimensionale che metterà in evidenza la configurazione dell'impronta digitale fatta da un'alternanza di creste e valli. L'utente potrà così esplorare "da vicino" la sua impronta scoprendo il territorio della propria intimità.
 
 ![1](http://i.imgur.com/9NtAQGj.png?1) ![2](http://i.imgur.com/T4lVxIp.png?2)
-![5](http://i.imgur.com/ydaPerr.jpg?5)
+![1](http://i.imgur.com/Hw0wcYs.jpg?1)
