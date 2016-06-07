@@ -1,4 +1,11 @@
-//Claus_bozza variazione 10print 
+// Processing draft_variation1 of 10Print by clausca 
+// 2016 © clausca, Daniele @Fupete and the course DSII2016 @UniRSM  
+// github.com/fupete — github.com/dsii-2016-unirsm
+// Educational purposes, MIT License, 2016, San Marino
+// Help:
+// Mouse Pressed
+// Key Pressed 'n' noLoop, saveFrame
+// Key Pressed 'l' Loop
 
 int x = 0; 
 int y = 0;  

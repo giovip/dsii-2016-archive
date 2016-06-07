@@ -75,23 +75,21 @@ A map based on the different fingerprint patterns people have. "I drew each squa
 
 ![1](http://i.imgur.com/9kWLikh.jpg?1)
  
- 
+
 ### CONCEPT 
 1. Impronte digitali come paesaggio fatto da curve, solchi, creste, un luogo unico, personale, intimo, che varia da individuo a individuo.  Ragionando sul concetto di paesaggio "sonoro" e più nel dettaglio di "impronte sonore" che in riferimento al Soundscape (paesaggio sonoro) del compositore Murray Schafer identificano i suoni caratteristici di un'area, oggetti sonori unici specifici di un determinato luogo, sarebbe interessante traslare il concetto di impronta sonora sulle impronte digitali. Ogni impronta digitale avrebbe una propria composizione sonora, una propria melodia.
 Ipotesi: attribuire alle caratteristiche dell'impronta dei suoni.<br>
 Dati: caratteristiche dell'impronta digitale. 
 Una volta acquisita l'immagine ingrandita (in bianco e nero) dell'impronta, questa verrebbe stampata ad alta risoluzione su un supporto cartaceo (o cos'altro?). L'ingrandimento sulle impronte è necessario per renderne visibili i dettagli e la configurazione. Si potrebbe utilizzare un microscopio digitale per catturare l'immagine.
-L'immagine stampata verrebbe letta da un giradischi (modificato), secondo il principio di lettura di un disco (per riprodurre un disco, lo si pone su un piatto rotante fatto girare a velocità costante e predefinita...si appoggia sul disco inciso la puntina di lettura che segue il solco del disco). 
-Al posto della puntina vi sarà un lettore ottico in grado di leggere le linee e gli spazi tra una linea e l'altra (le linee saranno nere, gli spazi vuoti in bianco o viceversa). Questi verranno tradotti in suoni, grazie a un algoritmo che associa ogni caratteristica (linea e spazio vuoto tra le linee) a una nota. Ogni impronta avrà una differente composizione sonora, poichè tutte le impronte hanno diverse configurazioni.
 
 #### IMPRONTA COME PAESAGGIO <br>
 
 ![1](http://i.imgur.com/gpFzWNF.jpg1)<br>
 2. _Impronta come paesaggio intimo, luogo personale e unico. Ragionare sul concetto di esplorazione e del fare esperienza della propria identità espressa nell'unicità dell'impronta._
-Immaginando di poter rilevare l'impronta in tempo reale e che questa venga visualizzata su uno schermo con un importante ingrandimento tale da metterne in evidenza le singolarità, pensavo alla possibilità di esplorare il paesaggio dell'impronta, di poterci "navigare" e interagire come se ci fosse un contatto diretto con essa. L'idea è di "sentire" il ridge pattern delle impronte, associando ad ogni caratteristica fisica dell'impronta (creste, discontinuità delle creste, valli) una diversa sensazione/feedback tattile (?) così da sentire il paesaggio che abbiamo impresso sulla pelle...quindi un'esplorazione che contente di sentirne la configurazione con sensazioni tattili differenti in funzione delle caratteristiche dell'impronta.
+Immaginando di poter rilevare l'impronta in tempo reale e che questa venga visualizzata su uno schermo con un importante ingrandimento tale da metterne in evidenza le singolarità, pensavo alla possibilità di esplorare il paesaggio dell'impronta, di poterci "navigare" e interagire come se ci fosse un contatto diretto con essa.
 Una immersione nel paesaggio della propria intimità, un camminarci dentro e sentirne la configurazione...le creste (minuzie di tipo terminazione, biforcazione) come sentieri che si biforcano, si interrompono..qui sotto, le caratteristiche del ridge pattern.
 ![1](http://i.imgur.com/g7Cxnsh.png?1)
-#### Heightmap
+#### Heightmap per generare un paesaggio
 Le heightmap sono delle immagini in scala di grigi usate per elaborare la conformità e l'altezza di un terreno, dove le parti più chiare rappresentano i punti più alti mentre quelle più scure i punti più bassi. 
 Bitmap monocromatico in cui l'intensità di bianco rappresenta l'altezza massima, le parti in nero le altezze minime, quelle in grigio effetti intermedi. Una heightmap può essere usata per generare velocemente ambienti 3D (nel campo della grafica 3D esse sono molto utili poiché permettono, in pochi passaggi, di creare un terreno realistico e dettagliato). L'immagine in scala di grigi potrà essere importata in un  motore grafico (come Unreal Engine, CryEngine, Unity etc. ) per generare un terreno/paesaggio.
 #### Heightmap di un'impronta. Prova su Unity 3D
@@ -111,13 +109,19 @@ Modelling done with Processing using noise & random walk to generate a terrain. 
 ![1](http://farm8.static.flickr.com/7047/6977098471_253d2665d4_m.jpg)
 ![1](http://i.imgur.com/Sh82fcR.jpg?1) ![1](http://i.imgur.com/dJPNgM2.jpg?1)
 
-Ipotesi: 3D ANIMATED VISUALIZATION. Generare un paesaggio tridimensionale della propria impronta. Comunicazione tra Processing e programma 3D. Realtime 3D rendering.<br>
-Acquisita l'impronta con il lettore ottico, viene inviata a Processing per elaborare una visualizzazione 3D di questa che sarà renderizzata in tempo reale. L'output sarà la visualizzazione su schermo di un "terreno" generato a partire dalla scala di grigi dell'immagine. (Ogni impronta rilevata avrà una configurazione differente).
-E se l'immagine visualizzata venisse anche stampata (pensavo ad un piccolo formato, 8x8 cm)? I visitatori potrebbero così portarsi un "ricordo" dell'esperienza, un oggetto unico e personale.
+###PROGETTO 
+####Fingerprint 3D animated visualization <br>
+Generare un paesaggio tridimensionale della propria impronta.<br>
+Acquisita l'impronta, viene inviata a Processing per elaborare una visualizzazione 3D in wireframe mesh e shading.  L'output sarà la visualizzazione su schermo di un "terreno" generato a partire dalla scala di grigi dell'immagine. (Ogni impronta rilevata avrà una configurazione differente).
+####Procedimento <br>
+Acquisizione impronta, scannerizzazione e importazione immagine in Processing.<br>
+Processing: a partire dalla heightmap di un'impronta (una heightmap è un'immagine che usa il colore dei pixel per prendere dati relativi alle altezze), costruisco una mesh (maglia) composta da quadrilateri/triangoli formati da vertici. Per ciascun pixel dell'immagine creo un vertice la cui altezza è basata sul colore dei pixel: il colore nero rappresenterà l'altezza minima, il bianco l'altezza massima. Si verrà a creare un paesaggio tridimensionale che metterà in evidenza la configurazione dell'impronta digitale fatta da un'alternanza di creste e valli. L'utente potrà così esplorare "da vicino" la sua impronta scoprendo il territorio della propria intimità.<br>
+Da Processing è possibile esportare il 3D in formato .obj e importarlo in qualsiasi programma di editing di immagini 3D. 
+Importazione modello in Sketchfab (piattaforma di pubblicazione online che permette di caricare e condividere i modelli 3D) e di renderizzarli in tempo reale. <br> _Vedi i modelli su Sketchfab_ [+](https://skfb.ly/P6BS) [+](https://skfb.ly/OS97) <br>
+![1](http://i.imgur.com/9NtAQGj.png?1) ![2](http://i.imgur.com/T4lVxIp.png?2)
+![1](http://i.imgur.com/Hw0wcYs.jpg?1)
 
-
-
-
-
-
+####Ipotesi installazione <br>
+Le impronte digitali rilevate potrebbero essere inserite all'interno di vetrini (come quelli utilizzati in microscopia per collocarvici sopra il campione da osservare) riportanti un'etichetta con il codice da digitare (mediante tastierino numerico usb) per visualizzare a schermo il paesaggio dell'impronta corrispondente. L'utente potrebbe interagire con il paesaggio virtuale mediante Leap Motion.
+![1](http://i.imgur.com/DTfS2QS.jpg?1)
 
