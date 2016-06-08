@@ -26,6 +26,7 @@ function mouseClicked() {
   return false;
 }
 
+
 function mouseMoved() {
 
 if (index >= windowWidth/w) {
