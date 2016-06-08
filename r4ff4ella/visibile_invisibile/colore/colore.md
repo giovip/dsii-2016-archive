@@ -46,15 +46,23 @@ I dati necessari all’installazione saranno raccolti real time, attraverso un s
 Quindi ad ogni lunghezza d’onda corrisponderà un colore dello spazio RGB.
 I dati verranno quindi trasformati attraverso un algoritmo, realizzato  a partire da un codice FORTRAN. In linea di massima questo algoritmo trasforma valori di lunghezze d’onda in codici colore CIE XYZ in codici colore RGB.
 
+##STATO DEI LAVORI
 
+###Prototipo software 
 
+Processing : funzionante la parte relativa ai valori RGB, da implementare la parte reativa alla proiezione dell’onda.
+Arduino : funzionante ma probabilmente da migliorare.
 
+###Prototipo Hardware
 
-![](http://i.imgur.com/Vzf0oLg.jpg?1)
-
+ Arduino 1 + sensore piezoelettrico + Led RGB + circuiti + breadboard
+ 
+ 
 ###Risorse
 
 Codice Javascript per convertire le lunghezze d'onda dello spettro visibile (range di valori da 380 a 780 nm) in colori RGB [qui ](http://scienceprimer.com/javascript-code-convert-light-wavelength-color). 
+
+Codice FORTRAN per valori indicativi RGB per lunghezze d'onda visibili [qui ](http://www.physics.sfasu.edu/astro/color/spectra.html). 
 
 
 ### Rifermenti
@@ -107,6 +115,10 @@ installazioni basate su fenomeni fisici
 
 
 [_Entre fiction et réalité_Ambre Fluide ](http://www.scenocosme.com/fiction_realite_en.htm)
+
+##vecchie immagini
+
+![](http://i.imgur.com/Vzf0oLg.jpg?1)
 
 
 
