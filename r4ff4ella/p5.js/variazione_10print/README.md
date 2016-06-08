@@ -1,4 +1,6 @@
-# 10 Print wall | [launch / open](dsii-2016-archive/r4ff4ella/p5.js/variazione_10print)
+# 10 Print wall | [launch / open](r4ff4ell4/dsii-2016-archive/tree/master/r4ff4ella/p5.js/variazione_10print)
+
+
 
 
 La variazione proposta mantiene il tema della generazione del labirinto, costruzione apparentemente casuale e ne accentua tale caratteristica 
