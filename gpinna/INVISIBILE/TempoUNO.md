@@ -34,6 +34,7 @@ Questo evidenziando, rispetto a un dato flusso di informazioni, il suo rapido e 
 Si tratterebbe di un rullo di carta che si svolge grazie a (due?) un motore DC. Sul foglio verrà impresso, grazie al movimento angolare di un micro servo motore, una serie di tratti a matita che rappresentano la variazione delle quotazioni in borsa relative al petrolio. Tale segno sarà cancellato, perché considerato non più "valido", da una gomma che si muoverà oscillando sotto al sostegno che indirizza la mattita e il suo tracciato, sempre sfruttando l'oscillazione di un micro servo motore.
 
 ![schemi possibile configurazione1](http://i.imgur.com/WCQ0H38.jpg) ![schemi possibile configurazione2](http://i.imgur.com/Lghm3R6.jpg)
+![schemi possibile configurazione3](http://i.imgur.com/VQ3p3db.jpg)
 
 ## 7. COMPOMENTI.
 **N1** MOTORE/I DC CHE RUOTA E FA SCORRERE LA CARTA.  
