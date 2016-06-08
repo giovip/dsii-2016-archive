@@ -9,22 +9,22 @@ void setup() {
  char val; 
 
 void loop() {
-  //LEGGE I DATI DA PROCESSING E ACCENDE IL LED CON UN DATO COLORE
-while (Serial.available()) { // If data is available to read,
- val = Serial.read(); // read it and store it in val
+  //LEGGE I DATI DA PROCESSING E ACCENDE IL LED CON UN DATO COLORE RGB
+while (Serial.available()) { 
+ val = Serial.read(); 
  }
- if (val == 'R') { // If H was received
- digitalWrite(9, HIGH); // turn the LED on
+ if (val == 'R') { // 
+ digitalWrite(9, HIGH); 
   digitalWrite(10, LOW);
    digitalWrite(11, LOW);
  } 
 if (val == 'G') { 
- digitalWrite(8, LOW); // turn the LED on
+ digitalWrite(8, LOW); 
   digitalWrite(10, HIGH);
    digitalWrite(11, LOW);
  }
  if (val == 'B') { 
- digitalWrite(8, LOW); // turn the LED on
+ digitalWrite(8, LOW); 
   digitalWrite(10, LOW);
    digitalWrite(11, HIGH);
  }
