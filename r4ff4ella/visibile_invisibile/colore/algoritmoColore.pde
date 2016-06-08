@@ -52,8 +52,6 @@ void draw() {
 // PER IL FUNZIONAMENTO DELLO SKETCH SENZA SENSORE
 //  float valoreOnda = map(mouseX, 0, width, minL, maxL); 
 
-
-
   timer++;
   if(timer>4){
   // DEFINISCE VALORE ONDA:MAPPA I VALORI LETTI DAL SENSORE SU UN RANGE DA minL A maxL
