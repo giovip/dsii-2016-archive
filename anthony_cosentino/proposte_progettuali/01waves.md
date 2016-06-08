@@ -31,7 +31,7 @@ Per l’acquisizione del dato è stato utile il progetto delle due designer ital
 Sound On Intuition By Pieter-Jan Pieters (https://vimeo.com/51611669)<br>
 The Transfinite By Ryoji Ikeda (https://www.youtube.com/watch?v=omDK2Cm2mwo)<br>
 
-####Progetto
+###Progetto
 In breve
 Il dato viene acquisito tramite ARDUINO UNO ed è definito, come spiegato precedentemente, dalla frequenza del campo elettromagnetico in un range di valori che va da 30 Hz a 10 GHz (range che comprende i dispositivi di uso comune).
 
@@ -67,4 +67,6 @@ Scelta dei suoni
 Per la parte sonora ho dato sfogo alla mia immaginazione pensando ai dati come ad auto che transitano a velocità sulle grandi strade di una città, ai rumori che esse generano e alle difficoltà che incontrano nel loro percorso, congestioni, semafori etc.
 Ho utilizzando quindi suoni del paesaggio urbano, auto che sfrecciano, clacson, come metafora del traffico e transito dei dati sull’autostrada delle onde elettromagnetiche, filtrati con degli effetti sonori che fungano da “collante” con i suoni in background rievocando nell’immaginazione dello spettatore uno paesaggio digitale.
 
+###Sviluppi futuri
 
+Work in Progress
