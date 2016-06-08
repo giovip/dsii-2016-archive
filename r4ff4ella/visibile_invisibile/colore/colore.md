@@ -40,11 +40,18 @@ Il visitatore pizzicherà la corda, che vibrando, più o meno intensamente, prod
 L’intento è  quello di far percepire il colore al di la della sensazione cromatica,  avvicinandolo alla sua oggetività fisica: una certa forza produce un energia misurabile e determina un colore.
 
 
+![](http://i.imgur.com/IsNvUCi.png)
+
 ##DATI E FUNZIONAMENTO
 Per seguire un ragionamento coerente è opportuno trasformare i dati in modo che si arrivi infine al colore (perche ogni lunghezza d’onda dello spettro visibile è rappresentabile come un colore, ma non viceversa).
 I dati necessari all’installazione saranno raccolti real time, attraverso un sensore piezoelettrico, che rileverà l’intensità della vibrazione di una corda; questa potra essere pizzicata più o meno intensamente.  Verranno stimati dei valori minimi e massimi, che questo dato può assumere, in modo da definire un range che verrà mappato, secondo una relazione inversamente proporzionale, su quello dei valori delle lunghezze d’onda dello spettro visibile.
 Quindi ad ogni lunghezza d’onda corrisponderà un colore dello spazio RGB.
 I dati verranno quindi trasformati attraverso un algoritmo, realizzato  a partire da un codice FORTRAN. In linea di massima questo algoritmo trasforma valori di lunghezze d’onda in codici colore CIE XYZ in codici colore RGB.
+
+
+![](http://i.imgur.com/dfwQL2J.png)
+
+
 
 ##STATO DEI LAVORI
 
