@@ -1,5 +1,5 @@
 ## PAROLE TOSSICHE
-# Parole chiave: linguaggio, discriminazione, importanza parole, ambiente tossico
+#### Parole chiave: linguaggio, discriminazione, importanza parole, ambiente tossico
 Il saggio “Parole Tossiche. Cronache di ordinario sessismo” scritto da Graziella Priulla ed edito da [_Settenove_](http://www.settenove.it/) nel 2014, sostiene che _le parole sono i sintomi, non le malattie_. Da questo punto non considereremo più le parole come portatrici di odio (come da proposta precedente), ma piuttosto le parole come elementi che descrivono il contesto in cui viviamo; come indici di un vento di violenza nell’aria, segnalato, appunto, dal linguaggio.
 
 La consapevolezza del contesto tossico e l’uso consapevole della lingua come portatrice di significati può essere, in  questo senso, un efficace strumento della lotta alle disuguaglianze e alle discriminazioni.
