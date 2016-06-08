@@ -8,6 +8,7 @@ colore/sensazione/oggettività/energia/onde/luce/vibrazione
 Il colore è l’elemento visibile per eccellenza.  
 Siamo abituati a pensarlo come una qualità intrinseca di ciò che osserviamo, ma in realtà è una sensazione soggettiva, che dipende da molteplici fattori. 
 La sua oggettività risiede nella sua natura fisica di radiazione elettromagnetica, quindi fenomeno ondulatorio.
+L’intento di questo progetto è  fare parcepire il colore al di la della sensazione cromatica, avvicinandolo alla sua oggettività fisica.
 
 
 ### COLORE COME ENERGIA
