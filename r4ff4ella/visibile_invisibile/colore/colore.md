@@ -1,15 +1,15 @@
-## COLORE
+# COLORE
 
 colore/sensazione/oggettività/energia/onde/luce/vibrazione
 
 
-### ABSTRACT
+## ABSTRACT
 
 Il colore è l’elemento visibile per eccellenza.  
 Siamo abituati a pensarlo come una qualità intrinseca di ciò che osserviamo, ma in realtà è una sensazione soggettiva, che dipende da molteplici fattori. 
 La sua oggettività risiede nella sua natura fisica di radiazione elettromagnetica, quindi fenomeno ondulatorio.
 
-###CONCEPT
+##CONCEPT
 
 La realtà fisica di ciò che ci circonda è spesso invisibile.
 Questo ci porta a stime basate solo sulle nostre sensazioni: quello che percepiamo come reale. 
@@ -17,22 +17,22 @@ Ma, come per ogni ambito della nostra esistnza, sarebbe auspicabile riuscire ad 
 Questo è ben rappresentato dal colore, ciò che caratterizza e definisce il mondo che osserviamo, ma di cui non cogliamo la fisicità.
 
 
-###COLORE
+##ANALISI
 
 Il colore non è una grandezza fisica, ma una qualità della sensazione visiva e come tale è un’entità puramente soggettiva ed incomunicabile. Le informazioni che ognuno di noi elabora rispetto ai colori che osserva sono molto personali, mediate da esperienze e riferimenti.
 Il colore percepito dipende infatti da diversi fattori quali la sorgente luminosa, il materiale dell’oggetto di cui si osserva il colore e l’osservatore .
 
-##Fisiologicamente
+###Fisiologicamente
 
 La sensazione di colore è un’esperienza dovuta alla stimolazione dei fotorecettori dell’occhio (coni visione tricromatica) da parte di una radiazione elettromagnetica visibile (la luce);
 
-##Fisicamente
+###Fisicamente
 
 Per radiazione si intende la propagazione di energia tramite onde. Ogni onda è descritta attraverso lunghezza d’onda e frequenza.
 La relazione esistente tra energia di un onda e la sua lunghezza è inversamente proporzionale. Questo vuol dire che maggiore sarà la lunghezza d’onda, minore sarà l’energia condotta dall’onda.
 
 
-###L’INSTALLAZIONE
+##L’INSTALLAZIONE
 
 E’ realizzata in uno spazio essenzialmente vuoto illuminato da lampade Led RGB. La luce colorata sarà elemento invasivo e protagonista dello spazio.
 Al centro sarà posta una corda tesa ancorata dal soffitto ad una base, provvista di sensore piezoelettrico, mentre la parete frontale sarà adibita a proiezioni.
@@ -40,11 +40,14 @@ Il visitatore pizzicherà la corda, che vibrando, più o meno intensamente, prod
 L’intento è  quello di far percepire il colore al di la della sensazione cromatica,  avvicinandolo alla sua oggetività fisica: una certa forza produce un energia misurabile e determina un colore.
 
 
-###DATI E FUNZIONAMENTO
+##DATI E FUNZIONAMENTO
 Per seguire un ragionamento coerente è opportuno trasformare i dati in modo che si arrivi infine al colore (perche ogni lunghezza d’onda dello spettro visibile è rappresentabile come un colore, ma non viceversa).
 I dati necessari all’installazione saranno raccolti real time, attraverso un sensore piezoelettrico, che rileverà l’intensità della vibrazione di una corda; questa potra essere pizzicata più o meno intensamente.  Verranno stimati dei valori minimi e massimi, che questo dato può assumere, in modo da definire un range che verrà mappato, secondo una relazione inversamente proporzionale, su quello dei valori delle lunghezze d’onda dello spettro visibile.
 Quindi ad ogni lunghezza d’onda corrisponderà un colore dello spazio RGB.
 I dati verranno quindi trasformati attraverso un algoritmo, realizzato  a partire da un codice FORTRAN. In linea di massima questo algoritmo trasforma valori di lunghezze d’onda in codici colore CIE XYZ in codici colore RGB.
+
+
+
 
 
 ![](http://i.imgur.com/Vzf0oLg.jpg?1)
