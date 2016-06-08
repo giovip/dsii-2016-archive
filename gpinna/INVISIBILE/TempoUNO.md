@@ -26,18 +26,18 @@ L'idea si basa sul costruire un sistema/installazione per rappresentare/rendere 
 3_ voli cancellati. 
 
 ## 5. DESCRIZIONE.
-Il progetto si concentra sul concetto di tempo, principalmente su quello che Netwon definiva tempo relativo, ovvero la misura sensibile e soggettiva della durata. Attraverso un prodotto installativo verrano evidenziati gli aspetti relati alla ciclicità del tempo, al suo continuo mutare ed evoleversi per tornare a essere se stesso o diventare qualcos'altro.
+Il progetto si concentra sul concetto di tempo, principalmente su quello che Netwon definiva tempo relativo, ovvero la misura sensibile e soggettiva della durata. Attraverso un semplice prodotto installativo verrano evidenziati gli aspetti relati alla ciclicità del tempo, al suo continuo mutare ed evolversi per tornare a essere se stesso o diventare qualcos'altro che in qualche modo nega o annulla ciò che è accaduto in precedenza. 
 L'obiettivo è dunque quello di rendere il tempo tangibile e visibile pur nel suo incessante e incurante fluire. 
 Questo evidenziando, rispetto a un dato flusso di informazioni, il suo rapido e puntuale modificarsi.
 
 ## 6. DETTAGLI TECNICI.
-Si tratterebbe di un rullo di carta che si svolge grazie a (due?) un motore DC.   sul foglio verrà impresso, grazie al movimento angolare di un micro servo motore,  a matita un tratto che rappresenta la variazione delle quotazioni relative al petrolio. Tale segno sarà cancellato, perché considerato non più "valido", da una gomma che si muoverà oscillando sotto/di fianco alla mattita e il suo tracciato.
+Si tratterebbe di un rullo di carta che si svolge grazie a (due?) un motore DC. Sul foglio verrà impresso, grazie al movimento angolare di un micro servo motore, una serie di tratti a matita che rappresenta la variazione delle quotazioni relative al petrolio. Tale segno sarà cancellato, perché considerato non più "valido", da una gomma che si muoverà oscillando sotto al sostegno che indirizza la mattita e il suo tracciato, sempre sfruttando l'oscillazione di un micro servo motore.
 
 ![schemi possibile configurazione1](http://i.imgur.com/WCQ0H38.jpg) ![schemi possibile configurazione2](http://i.imgur.com/Lghm3R6.jpg)
 
 ## 7. COMPOMENTI.
-**N1** MOTORE CHE RUOTA E FA SCORRERE LA CARTA.  
-**N2 + N3** MOTORE CHE PERMETTE CON DEI SEMPLICI MOVIMENTI A ZIG ZAG PERMETTE ALLA MATITA DI SCRIVERE E ALLA GOMMA DI CANCELLARE.
+**N1** MOTORE/I DC CHE RUOTA E FA SCORRERE LA CARTA.  
+**N2 + N3** MICRO SERVOMOTORI CHE PERMETTONO, CON DEI SEMPLICI MOVIMENTI OSCILLATORI(?), ALLA MATITA DI SCRIVERE E ALLA GOMMA DI CANCELLARE (anche se solo in parte).
 
 ## 8. POSSIBILI TECNOLOGIE.
 
