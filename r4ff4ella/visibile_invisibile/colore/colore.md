@@ -8,17 +8,8 @@ colore/sensazione/oggettività/energia/onde/luce/vibrazione
 Il colore è l’elemento visibile per eccellenza.  
 Siamo abituati a pensarlo come una qualità intrinseca di ciò che osserviamo, ma in realtà è una sensazione soggettiva, che dipende da molteplici fattori. 
 La sua oggettività risiede nella sua natura fisica di radiazione elettromagnetica, quindi fenomeno ondulatorio.
-L’intento di questo progetto è  fare parcepire il colore al di la della sensazione cromatica, avvicinandolo alla sua oggettività fisica.
 
-
-### COLORE COME ENERGIA
-
-Il colore non è una grandezza fisica, ma una qualità della sensazione visiva e come tale è un’entità puramente soggettiva ed incomunicabile. Le informazioni che ognuno di noi elabora rispetto ai colori che osserva sono molto personali, mediate da esperienze e riferimenti.
-Il colore percepito dipende infatti da diversi fattori quali la sorgente luminosa, il materiale dell’oggetto di cui si osserva il colore e l’osservatore .
-Fisiologicamente la sensazione di colore è un’esperienza dovuta alla stimolazione dei fotorecettori dell’occhio (coni visione tricromatica) da parte di una radiazione elettromagnetica visibile (la luce);
-Fisicamente per radiazione si intende la propagazione di energia tramite onde. Ogni onda è descritta attraverso lunghezza d’onda e frequenza.
-
-
+###CONCEPT
 
 La realtà fisica di ciò che ci circonda è spesso invisibile.
 Questo ci porta a stime basate solo sulle nostre sensazioni: quello che percepiamo come reale. 
@@ -26,35 +17,35 @@ Ma, come per ogni ambito della nostra esistnza, sarebbe auspicabile riuscire ad 
 Questo è ben rappresentato dal colore, ciò che caratterizza e definisce il mondo che osserviamo, ma di cui non cogliamo la fisicità.
 
 
-Il colore non è una grandezza fisica, ma una qualità della sensazione visiva e come tale è un'entità puramente soggettiva 
-ed incomunicabile. Le informazioni che ognuno di noi elabora rispetto ai colori che osserva sono molto personali, mediate 
-da esperienze e riferimenti.
+###COLORE
 
-La sensazione di colore è un'esperienza dovuta alla stimolazione dei fotorecettori dell'occhio (coni visione tricromatica) 
-da parte di una radiazione elettromagnetica visibile (la luce); 
+Il colore non è una grandezza fisica, ma una qualità della sensazione visiva e come tale è un’entità puramente soggettiva ed incomunicabile. Le informazioni che ognuno di noi elabora rispetto ai colori che osserva sono molto personali, mediate da esperienze e riferimenti.
+Il colore percepito dipende infatti da diversi fattori quali la sorgente luminosa, il materiale dell’oggetto di cui si osserva il colore e l’osservatore .
 
-Il colore percepito dipende da diversi fattori quali la sorgente luminosa, l'osservatore e il materiale dell’oggetto di cui si 
-osserva il colore.
+##Fisiologicamente
 
+La sensazione di colore è un’esperienza dovuta alla stimolazione dei fotorecettori dell’occhio (coni visione tricromatica) da parte di una radiazione elettromagnetica visibile (la luce);
 
-Quello che vorrei proporre è un modo diverso di “sentire” il colore, legato al suo aspetto invisibile, che fa riferimento 
-alla sua natura fisica: l’essere sostanzialmente energia che si propaga come onda elettromagnetica riflessa dagli oggetti.
+##Fisicamente
 
-
+Per radiazione si intende la propagazione di energia tramite onde. Ogni onda è descritta attraverso lunghezza d’onda e frequenza.
+La relazione esistente tra energia di un onda e la sua lunghezza è inversamente proporzionale. Questo vuol dire che maggiore sarà la lunghezza d’onda, minore sarà l’energia condotta dall’onda.
 
 
+###L’INSTALLAZIONE
 
-## DATI : Energia_Onda_Colore
+E’ realizzata in uno spazio essenzialmente vuoto illuminato da lampade Led RGB. La luce colorata sarà elemento invasivo e protagonista dello spazio.
+Al centro sarà posta una corda tesa ancorata dal soffitto ad una base, provvista di sensore piezoelettrico, mentre la parete frontale sarà adibita a proiezioni.
+Il visitatore pizzicherà la corda, che vibrando, più o meno intensamente, produrrà il dato rilevato dal sensore, e simulerà una lunghezza d’onda dello spettro visibile. Tale dato verrà trasformato attraverso un algoritmo in valori RGB che determineranno il colore della luce nella stanza; contemporaneamente verrà proiettata sulla parete frontale la riproduzione in scala d’ingrandimento 1milione :1 dell’onda generata pizzicando la corda che produce il colore della stanza.
+L’intento è  quello di far percepire il colore al di la della sensazione cromatica,  avvicinandolo alla sua oggetività fisica: una certa forza produce un energia misurabile e determina un colore.
 
-In generale per radiazione si intende la propagazione di energia tramite onde. Ogni onda è descritta attraverso lunghezza d'onda e frequenza.
 
-Il concetto di energia a cui faccio riferimento è il più generico: l'attitudine a compiere un lavoro, quindi un azione fisica, che comporti l'uso di una certa forza misurabile attraverso sensori e associabile secondo una relazione inversamente proporzionale _(1)_ al range di valori delle lunghezze d'onda dello spettro visibile (da 380 a 780 nm), a cui associare il colore RGB corrispondente.
+###DATI E FUNZIONAMENTO
+Per seguire un ragionamento coerente è opportuno trasformare i dati in modo che si arrivi infine al colore (perche ogni lunghezza d’onda dello spettro visibile è rappresentabile come un colore, ma non viceversa).
+I dati necessari all’installazione saranno raccolti real time, attraverso un sensore piezoelettrico, che rileverà l’intensità della vibrazione di una corda; questa potra essere pizzicata più o meno intensamente.  Verranno stimati dei valori minimi e massimi, che questo dato può assumere, in modo da definire un range che verrà mappato, secondo una relazione inversamente proporzionale, su quello dei valori delle lunghezze d’onda dello spettro visibile.
+Quindi ad ogni lunghezza d’onda corrisponderà un colore dello spazio RGB.
+I dati verranno quindi trasformati attraverso un algoritmo, realizzato  a partire da un codice FORTRAN. In linea di massima questo algoritmo trasforma valori di lunghezze d’onda in codici colore CIE XYZ in codici colore RGB.
 
-_(1) La relazione esistente tra l'unghezza d'onda e frequenza è inverzamente proporzionale, quella esistente tra frequenza ed energia dell'onda è direttamente proporzionale, quindi la relazione esistente tra energia di un onda e la sua lunghezza è inversamente proporzionale. Questo vuol dire che maggiore sarà la lunghezza d'onda, minore sarà l'energia condotta dall'onda._
-
-Per semplicità lavorerò sui soli colori spettrali o puri, (quelli corrispondenti alle radiazioni monocromatiche dello spettro visibile, quelli cioè riconducibili ad un unica lunghezza d'onda)
-
-Per seguire un ragionamento coerente è opportuno trasformare i dati in modo che si arrivi infine al colore (perche ogni lunghezza d'onda dello spettro visibile è rappresentabile come un colore, ma non viceversa).
 
 ![](http://i.imgur.com/Vzf0oLg.jpg?1)
 
