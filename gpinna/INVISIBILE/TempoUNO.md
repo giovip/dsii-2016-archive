@@ -21,7 +21,7 @@ _fluire
 L'idea si basa sul costruire un sistema/installazione per rappresentare/rendere visibile il tempo, che ne evidenzi lo scorrere in modo più fisico e plasmabile. 
 
 ## 4. POSSIBILI DATI.
-1_ variazioni quotazioni in borsa.  
+1_ variazioni quotazioni in borsa (QUOTAZIONI DEL PETROLIO!)  
 2_ treni partiti quindi persi.  
 3_ voli cancellati. 
 
@@ -31,7 +31,7 @@ L'obiettivo è dunque quello di rendere il tempo tangibile e visibile pur nel su
 Questo evidenziando, rispetto a un dato flusso di informazioni, il suo rapido e puntuale modificarsi.
 
 ## 6. DETTAGLI TECNICI.
-Si tratterebbe di un rullo di carta che si svolge grazie a un piccolo motore, sul foglio verrà impresso a matita un tratto che rappresenta la variazione di un dato ics (?). Tale segno sarà cancellato, perché considerato non più "valido", da una gomma che si muoverà oscillando sotto/di fianco alla mattita e il suo tracciato.
+Si tratterebbe di un rullo di carta che si svolge grazie a (due?) un motore DC.   sul foglio verrà impresso, grazie al movimento angolare di un micro servo motore,  a matita un tratto che rappresenta la variazione delle quotazioni relative al petrolio. Tale segno sarà cancellato, perché considerato non più "valido", da una gomma che si muoverà oscillando sotto/di fianco alla mattita e il suo tracciato.
 
 ![schemi possibile configurazione1](http://i.imgur.com/WCQ0H38.jpg) ![schemi possibile configurazione2](http://i.imgur.com/Lghm3R6.jpg)
 
