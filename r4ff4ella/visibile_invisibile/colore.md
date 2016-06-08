@@ -1,6 +1,29 @@
 ## COLORE
 
-colore/sensazione/oggettività/
+colore/sensazione/oggettività/energia/onde/luce/vibrazione
+
+
+### ABSTRACT
+
+Il colore è l’elemento visibile per eccellenza.  
+Siamo abituati a pensarlo come una qualità intrinseca di ciò che osserviamo, ma in realtà è una sensazione soggettiva, che dipende da molteplici fattori. 
+La sua oggettività risiede nella sua natura fisica di radiazione elettromagnetica, quindi fenomeno ondulatorio.
+
+
+### COLORE COME ENERGIA
+
+Il colore non è una grandezza fisica, ma una qualità della sensazione visiva e come tale è un’entità puramente soggettiva ed incomunicabile. Le informazioni che ognuno di noi elabora rispetto ai colori che osserva sono molto personali, mediate da esperienze e riferimenti.
+Il colore percepito dipende infatti da diversi fattori quali la sorgente luminosa, il materiale dell’oggetto di cui si osserva il colore e l’osservatore .
+Fisiologicamente la sensazione di colore è un’esperienza dovuta alla stimolazione dei fotorecettori dell’occhio (coni visione tricromatica) da parte di una radiazione elettromagnetica visibile (la luce);
+Fisicamente per radiazione si intende la propagazione di energia tramite onde. Ogni onda è descritta attraverso lunghezza d’onda e frequenza.
+
+
+
+La realtà fisica di ciò che ci circonda è spesso invisibile.
+Questo ci porta a stime basate solo sulle nostre sensazioni: quello che percepiamo come reale. 
+Ma, come per ogni ambito della nostra esistnza, sarebbe auspicabile riuscire ad andare oltre ciò che appare e focalizzare l’attenzione sull’ effettività delle cose.
+Questo è ben rappresentato dal colore, ciò che caratterizza e definisce il mondo che osserviamo, ma di cui non cogliamo la fisicità.
+
 
 Il colore non è una grandezza fisica, ma una qualità della sensazione visiva e come tale è un'entità puramente soggettiva 
 ed incomunicabile. Le informazioni che ognuno di noi elabora rispetto ai colori che osserva sono molto personali, mediate 
