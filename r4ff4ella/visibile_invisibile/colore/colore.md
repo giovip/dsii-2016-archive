@@ -55,7 +55,11 @@ Arduino : funzionante ma probabilmente da migliorare.
 
 ###Prototipo Hardware
 
- Arduino 1 + sensore piezoelettrico + Led RGB + circuiti + breadboard
+ Arduino 1 + sensore piezoelettrico + Led RGB 
+ 
+ 
+ ![](http://i.imgur.com/1rBhDnC.png)
+
  
  
 ###Risorse
