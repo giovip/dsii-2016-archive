@@ -12,7 +12,7 @@ PImage p;
 void setup () {
   size(600, 600);
   background(255);
-  String[] lines = loadStrings("data2.txt");  //legge stringhe  direttamente dal file
+  String[] lines = loadStrings("provaDati.txt");  //legge stringhe  direttamente dal file
 
 
   stroke(0);  //linee nere
