@@ -2,11 +2,22 @@
 // © Daniele @ Fupete for the course dsii-2016 @ UnirSM
 // © Alex Alessi
 // github.com/fupete — github.com/dsii-2016-unirsm
-// Made for educational purposes, MIT License, March 2014, San Marino
+// Made for educational purposes, MIT License, March 2016, San Marino
 
 // 
 // —
 // salva immagine e salva PDF > processing
+
+
+//AGGIUNGO IO
+ 
+  int boxSize = 150;
+  boolean overBox = false;
+  boolean locked = false;
+  float xOffset = 0.0; 
+  float yOffset = 0.0;
+
+//AGGIUNGO IO
 
 boolean vediOrbite = true;
 IntList diametri, orbiteX, orbiteY;
@@ -22,15 +33,16 @@ String A_title, B_title, C_title, D_title; // < holders for column titles, first
 
 //*** VALORI COLONNE *** ///
 StringList A_values = new StringList(); // < column A, strings, names 
-IntList B_values = new IntList(); // < column B, integers, interactions
-FloatList C_values = new FloatList(); // < column C, floats, chat-time
+FloatList B_values = new FloatList(); // < column B, integers, interactions
+IntList C_values = new IntList(); // < column C, floats, chat-time
 IntList D_values = new IntList(); // < column D, int, valutazione
 
 //***************************************
 
 void setup() {
   
-  
+  rectMode(RADIUS);  
+
   String url = "https://spreadsheets.google.com/feeds/cells/15BEVns9VaB1pbMuelLiAM7L87BRKUUK_V2XgXDnBmro/od6/public/basic?alt=json"; // < the spreadsheet must be published and available to a public url.
   load_G_Spreadsheet(url);
 
@@ -48,46 +60,46 @@ void setup() {
   
 
   diametri = new IntList();
-  diametri.append(B_values);
-  diametri.append(B_values);
-  diametri.append(B_values);
-  diametri.append(B_values);
-  diametri.append(B_values);
-  diametri.append(B_values);
-  diametri.append(B_values);
-  diametri.append(B_values);
-  diametri.append(B_values);
-  diametri.append(B_values);
-  diametri.append(B_values);
-  diametri.append(B_values);
-  diametri.append(B_values);
-  diametri.append(B_values);
-  diametri.append(B_values);
-  diametri.append(B_values);
-  diametri.append(B_values);
-  diametri.append(B_values);
-  diametri.append(B_values);
-  diametri.append(B_values);
-  diametri.append(B_values);
-  diametri.append(B_values);
-  diametri.append(B_values);
-  diametri.append(B_values);
-  diametri.append(B_values);
-  diametri.append(B_values);
-  diametri.append(B_values);
-  diametri.append(B_values);
-  diametri.append(B_values);
-  diametri.append(B_values);
-  diametri.append(B_values);
-  diametri.append(B_values);
-  diametri.append(B_values);
-  diametri.append(B_values);
-  diametri.append(B_values);
-  diametri.append(B_values);
-  diametri.append(B_values);
-  diametri.append(B_values);
-  diametri.append(B_values);
-  diametri.append(B_values);
+  diametri.append(C_values);
+  diametri.append(C_values);
+  diametri.append(C_values);
+  diametri.append(C_values);
+  diametri.append(C_values);
+  diametri.append(C_values);
+  diametri.append(C_values);
+  diametri.append(C_values);
+  diametri.append(C_values);
+  diametri.append(C_values);
+  diametri.append(C_values);
+  diametri.append(C_values);
+  diametri.append(C_values);
+  diametri.append(C_values);
+  diametri.append(C_values);
+  diametri.append(C_values);
+  diametri.append(C_values);
+  diametri.append(C_values);
+  diametri.append(C_values);
+  diametri.append(C_values);
+  diametri.append(C_values);
+  diametri.append(C_values);
+  diametri.append(C_values);
+  diametri.append(C_values);
+  diametri.append(C_values);
+  diametri.append(C_values);
+  diametri.append(C_values);
+  diametri.append(C_values);
+  diametri.append(C_values);
+  diametri.append(C_values);
+  diametri.append(C_values);
+  diametri.append(C_values);
+  diametri.append(C_values);
+  diametri.append(C_values);
+  diametri.append(C_values);
+  diametri.append(C_values);
+  diametri.append(C_values);
+  diametri.append(C_values);
+  diametri.append(C_values);
+  diametri.append(C_values);
   
   orbiteX = new IntList();
   orbiteX.append(D_values);
@@ -175,66 +187,72 @@ void setup() {
   
   
   vel = new FloatList();
-  vel.append(C_values);
-  vel.append(C_values);
-  vel.append(C_values);
-  vel.append(C_values);
-  vel.append(C_values);
-  vel.append(C_values);
-  vel.append(C_values);
-  vel.append(C_values);
-  vel.append(C_values);
-  vel.append(C_values);
-  vel.append(C_values);
-  vel.append(C_values);
-  vel.append(C_values);
-  vel.append(C_values);
-  vel.append(C_values);
-  vel.append(C_values);
-  vel.append(C_values);
-  vel.append(C_values);
-  vel.append(C_values);
-  vel.append(C_values);
-  vel.append(C_values);
-  vel.append(C_values);
-  vel.append(C_values);
-  vel.append(C_values);
-  vel.append(C_values);
-  vel.append(C_values);
-  vel.append(C_values);
-  vel.append(C_values);
-  vel.append(C_values);
-  vel.append(C_values);
-  vel.append(C_values);
-  vel.append(C_values);
-  vel.append(C_values);
-  vel.append(C_values);
-  vel.append(C_values);
-  vel.append(C_values);
-  vel.append(C_values);
-  vel.append(C_values);
-  vel.append(C_values);
+  vel.append(B_values);
+  vel.append(B_values);
+  vel.append(B_values);
+  vel.append(B_values);
+  vel.append(B_values);
+  vel.append(B_values);
+  vel.append(B_values);
+  vel.append(B_values);
+  vel.append(B_values);
+  vel.append(B_values);
+  vel.append(B_values);
+  vel.append(B_values);
+  vel.append(B_values);
+  vel.append(B_values);
+  vel.append(B_values);
+  vel.append(B_values);
+  vel.append(B_values);
+  vel.append(B_values);
+  vel.append(B_values);
+  vel.append(B_values);
+  vel.append(B_values);
+  vel.append(B_values);
+  vel.append(B_values);
+  vel.append(B_values);
+  vel.append(B_values);
+  vel.append(B_values);
+  vel.append(B_values);
+  vel.append(B_values);
+  vel.append(B_values);
+  vel.append(B_values);
+  vel.append(B_values);
+  vel.append(B_values);
+  vel.append(B_values);
+  vel.append(B_values);
+  vel.append(B_values);
+  vel.append(B_values);
+  vel.append(B_values);
+  vel.append(B_values);
+  vel.append(B_values);
 
 
 
   fullScreen(P3D, 2);
   //size(800,600,P3D);
 
-  // si creano pianeti
+
+
+  
+  
+    // si creano pianeti
   for (int i=0; i<diametri.size(); i++) {
     
     // caratteristiche intrinsiche pianeta
     float rot = random(0,360);
-    int diametro = diametri.get(i);
-    color col = color(random(0,255), random(0,255), random(0,255)); // #123144; ...
-    
-    // generi pianeta
+    float diametro = map(diametri.get(i), 0, diametri.max(), 2, 13);
+    //color col = color(random(0,255), random(0,255), random(0,255)); // #123144; ...
+    color col = color(125, 20, 215);
+    // generi pianeta  
     p.add(new Planet(rot, diametro, col));
-  }
+      
+  }//for
+    
 
 } //setup
 
-
+  
 
 void draw() {
 
@@ -246,19 +264,19 @@ void draw() {
   // girare col mouse
   rotateY(-rotationY); 
   rotateX(rotationX);
-
+  
   // muovere e disegnare i pianeti
   for (int i=0; i<40; i++) {    //i<p.size()
     
-    // parametri di movimento
-    Float velocita = map(vel.get(i),0,vel.max(),0,3);  //vel.max() è il valore massimo nella tabella
+    // parametri di movimen
+    float velocita = map(vel.get(i),0,vel.max(),0,2);  //vel.max() è il valore massimo nella tabella     //map(vel.get(i),0,vel.max(),0,3);
     int oX = (orbiteX.get(i)+3)*10;
     int oY = (orbiteY.get(i)+3)*10;
     
     // allora muovi il pianeta
     p.get(i).orbit(oX,oY,velocita,vediOrbite);
   }
-
+  
 } //draw
 
 
@@ -318,8 +336,6 @@ class Planet {
 }
 
 
-
-
 //***************************************
 
 void load_G_Spreadsheet(String url) {
@@ -369,8 +385,8 @@ void parse_G_Spreadsheet_JSON(JSONObject jdata) {
       if (index.equals("C1") == true) { C_title = value; } else
       if (index.equals("D1") == true) { D_title = value; } else// *** CONTENUTI COLONNE
       if (current_column == 'A') { A_values.append(value); } else // per gli interi
-      if (current_column == 'B') { B_values.append(int(value)); } else
-      if (current_column == 'C') { C_values.append(float(value)); } else// per i valori stringa 
+      if (current_column == 'B') { B_values.append(float(value)); } else
+      if (current_column == 'C') { C_values.append(int(value)); } else// per i valori stringa 
       if (current_column == 'D') { D_values.append(int(value.replaceAll(",", ".")));
       
       } // < per i float
