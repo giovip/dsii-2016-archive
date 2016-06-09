@@ -4,10 +4,10 @@
 // github.com/fupete — github.com/dsii-2016-unirsm
 // Made for educational purposes, MIT License, March 2016, San Marino
 
-// 
-// —
-// salva immagine e salva PDF > processing
 
+
+import processing.pdf.*;
+boolean record;
 
 //AGGIUNGO IO
  
@@ -249,12 +249,18 @@ void setup() {
       
   }//for
     
+ 
 
 } //setup
 
   
 
 void draw() {
+  //EXPORT PDF
+   if (record) {
+    beginRaw(PDF, "output.pdf");
+  }
+  
 
   background(0);
   lights();
@@ -265,6 +271,8 @@ void draw() {
   rotateY(-rotationY); 
   rotateX(rotationX);
   
+  
+
   // muovere e disegnare i pianeti
   for (int i=0; i<40; i++) {    //i<p.size()
     
@@ -275,6 +283,13 @@ void draw() {
     
     // allora muovi il pianeta
     p.get(i).orbit(oX,oY,velocita,vediOrbite);
+  }
+  
+  
+  //FINE EXPORT PDF
+  if (record) {
+    endRaw();
+    record = false;
   }
   
 } //draw
@@ -393,4 +408,13 @@ void parse_G_Spreadsheet_JSON(JSONObject jdata) {
   }
   }
   
-//***************************************
+//**************************************
+
+
+
+// Hit 'r' to record a single frame
+void keyPressed() {
+  if (key == 'r') {
+    record = true;
+  }
+}
