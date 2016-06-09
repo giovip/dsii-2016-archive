@@ -18,7 +18,7 @@ _interrompere
 _fluire  
 
 ## 3. CONCEPT.
-L'idea si basa sul costruire un sistema/installazione per rappresentare/rendere visibile il tempo, che ne evidenzi lo scorrere in modo più fisico e che ne renda visibile la mutevolezza. 
+L'idea si basa sul costruire un sistema/installazione per rappresentare/rendere visibile il tempo, che ne evidenzi lo scorrere in modo più fisico e che ne eidenzi la mutevolezza. 
 
 ## 4. POSSIBILI DATI.
 1_ variazioni quotazioni in borsa (QUOTAZIONI DEL PETROLIO!)  
