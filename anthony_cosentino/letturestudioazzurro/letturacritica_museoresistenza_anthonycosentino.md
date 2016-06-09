@@ -9,7 +9,7 @@ Sul lungo tavolo sono disposti degli elementi(libri, calendari, mappe),in prossi
 
 ###What does it mean
 
-Il museo vuole tenere in vita gli attori e i fatti della storia lunigiana mostrandone le testimonianze di chi la guerra l’ha vissuta ed è riuscito a salvarsi. 
+Il museo vuole tenere in vita gli attori e i fatti della storia lunigiana mostrandone le testimonianze di chi la guerra l’ha vissuta ed è riuscito a salvarsi. L'obiettivo è stato quello di trasformare lo stabile del museo in un monumento alla pace in una zona che è stata teatro di violenti scontri tra partigiani, tedeschi e fascisti e che ha subito distruzioni e stragi di popolazioni inermi. 
 Mira alla conservazione del patrimonio storico del luogo.
 
 ###What if
