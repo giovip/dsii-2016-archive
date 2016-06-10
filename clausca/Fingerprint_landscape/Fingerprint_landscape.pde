@@ -19,10 +19,12 @@
 // key [0,1,2,3,4,5,6,7,8]......change fingerprint
 // Key [r] ... export .OBJ
 // key [s] ... save frame 
+// key [ ] ... stop the dynamic rotation over X, Y, Z axis
 // —
 
 import nervoussystem.obj.*;   //export obj
 boolean record;
+boolean toggle = true;
 
 //SOUND
 import ddf.minim.*;
@@ -41,7 +43,6 @@ ControlP5 gui;
 ControlP5 cp5;
 float altezzaP = 20;            //height pixel
 float move = 20;
-//float background = 0;
 int fill_v1 = 255;              //fingerprint color
 int fill_v2 = 255;  
 int fill_v3 = 255;
@@ -64,7 +65,6 @@ float increment = 0.02;
 float zoff = 0.0;  
 
 
-
 //TERRAIN
 int meshSize = 3;
 int W = 200;                                  //fingerprint grid/terrain width
@@ -72,10 +72,8 @@ int H = 200;                                 //fingerprint grid/terrain height
 float[][] finger = new float[W][H];         //fingerprint grid: two array
 
 
-
 void setup() {
 
-  noSmooth();
   //MUSIC_OPTIONAL
   minim = new Minim(this);
   mySound = minim.loadFile("s.mp3");
@@ -100,10 +98,20 @@ void setup() {
 
   myTextarea.setText("A fingerprint");
 
-  size(1200, 800, P3D);
-  //fullScreen(P3D);
+  //size(1200, 800, P3D);
+  fullScreen(P3D);
   colorMode(RGB, 255, 255, 255);
-  //smooth();
+  noSmooth();
+  
+  // create a toggle //change visualization wireframe_shading
+  cp5.addToggle("toggle")
+    .setPosition(50, 65)
+    .setSize(50, 15)
+    .setCaptionLabel("visualization")
+    .setValue(false)
+    .setMode(ControlP5.SWITCH)
+    ;
+
   a = height - 150; //line scanner
 
   gui = new ControlP5(this);
@@ -121,13 +129,13 @@ void load() {
 void draw() {
   lights();
   background(color(background_v1, background_v2, background_v3));
+  noiseSeed(10);
+  noiseDetail(18, 0.3);
 
   if (record) {
     beginRecord("nervoussystem.obj.OBJExport", "finger.obj");
   }
 
-  noiseSeed(10);
-  noiseDetail(18, 0.3);
   float xoff = 0.0; 
   for (int x = 0; x < W; x++) {
     xoff += increment;   
@@ -147,32 +155,43 @@ void draw() {
   pushMatrix();
 
   translate(width/2, height/2, mouseY); 
-  //scale(1, 1, 1);
-  rotateY(rotationY);
-  rotateX(rotationX);
-  rotateZ(rotationZ);
-  rotateY(frameCount * 0.005);            //dynamic frameCount-based rotation over the Y axis
-  rotateX(radians(60));                  // fixed rotation of 60 degrees over the X axis
-  rotateZ(frameCount*0.005);            // dynamic frameCount-based rotation over the Z axis
+ 
+ if (key == ' ' ) {       //if key pressed is ' ' (space) stop the rotation over X, Y, Z axis
+    rotateY(rotationY);
+    rotateX(rotationX);
+    rotateZ(rotationZ);
+    rotateX(radians(60));
+  } else {                //if I press another key restarts the rotation over X, Y, Z axis
+    rotateY(rotationY);
+    rotateX(rotationX);
+    rotateZ(rotationZ);
+    rotateY(frameCount * 0.005); //dynamic frameCount-based rotation over the Y axis
+    rotateX(radians(60));       // fixed rotation of 60 degrees over the X axis
+    rotateZ(frameCount*0.005); // dynamic frameCount-based rotation over the Z axis
+  }
+  
   translate(-W/2*meshSize, -H/2*meshSize);
 
   for (int x = 0; x < W-1; x++) {
     for (int y = 0; y < H-1; y++) {
 
-      beginShape(); // https://processing.org/reference/beginShape_.html
-      noFill();
-      stroke(color(fill_v1, fill_v2, fill_v3));
-      //fill(color(fill_v1, fill_v2, fill_v3));
-      //stroke(x*meshSize, y*meshSize, finger[x][y]);
-      //fill(x*meshSize, y*meshSize, finger[x][y]);
-      //noStroke();
-      //noFill();
-
+      beginShape(); 
+      
       vertex(x*meshSize, y*meshSize, finger[x][y] );                 //up point vertex (the first) coodinate (x,y,z)
       vertex((x+1)*meshSize, y*meshSize, finger[x+1][y] );          //up point vertex(the second)  coodinate (x+1,y,z)
       vertex((x+1)*meshSize, (y+1)*meshSize, finger[x+1][y+1] );   //down point vertex(the second) coodinate (x+1,y+1,z)
       vertex(x*meshSize, (y+1)*meshSize, finger[x][y+1] );        //down point vertex (the first) coodinate (x,y+1,z) 
       endShape(CLOSE);
+      
+   if (toggle==true) {
+        noStroke();      
+        //fill(finger[x][y] + x*meshSize-50, 0, 255);
+        fill(finger[x][y] + x*meshSize-200, 20, 255);
+      } else {
+        noFill();
+        stroke(color(fill_v1, fill_v2, fill_v3));
+      }
+      
     }
   }
   popMatrix();
@@ -217,7 +236,6 @@ void setupGui() {
     .setHeight(15)
     .setGroup(g1)
     ;
-
 
   gui.addSlider("fill_v1")
     .setPosition(0, 80)
