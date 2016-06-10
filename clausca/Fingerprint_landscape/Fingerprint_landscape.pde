@@ -362,7 +362,7 @@ void keyPressed() {
     record = true;
   }
 
-  switch(key) {       //same frame .tif
+  switch(key) {       //save frame .tif
 
   case 's':
     saveFrame();
