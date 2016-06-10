@@ -72,33 +72,40 @@ I livelli di conoscenza potrebbero essere dettati dal tipo di tempo che spendo c
 | Vocale - Scritto |Vocale - Posizione |
 
 <br>
-
+[Tabella dati](https://docs.google.com/spreadsheets/d/15BEVns9VaB1pbMuelLiAM7L87BRKUUK_V2XgXDnBmro/edit#gid=0)
 
 ![](http://i.imgur.com/DDxTx1N.jpg)
 
 
 Da analizzare: 
 <br>
-The open graph protocol [+] (http://ogp.me/)
+Facebook chat API 
+[+](https://github.com/Schmavery/facebook-chat-api)
+[+](http://www.programmableweb.com/api/facebook)
+[+](https://pypi.python.org/pypi/fbchat/)
 <br>
-How to use API [+](http://www.poynter.org/2011/how-to-use-apis-from-google-facebook-twitter-to-find-data-ideas/141786/)
+[Temboo Facebook library](https://temboo.com/library/Library/Facebook/)
+<br>
+[The open graph protocol] (http://ogp.me/)
+<br>
+[How to use API](http://www.poynter.org/2011/how-to-use-apis-from-google-facebook-twitter-to-find-data-ideas/141786/)
 
 
 <br>
 _REFERENZE_
 
-Best Friends – Casting in wax 451 connections on Facebook [Objects] [+](http://www.creativeapplications.net/objects/best-friends-objects/)
+[Best Friends – Casting in wax 451 connections on Facebook](http://www.creativeapplications.net/objects/best-friends-objects/)
 
-The 2009 Feltron report [+](http://feltron.com/FAR09.html)
+[The 2009 Feltron report](http://feltron.com/FAR09.html)
 
-Listen to Wikipedia [+](http://listen.hatnote.com/#it)
+[Listen to Wikipedia](http://listen.hatnote.com/#it)
 
-Facebook report WolframAlpha [+](http://www.wolframalpha.com/input/?i=facebook+report#_=_)
+[Facebook report WolframAlpha](http://www.wolframalpha.com/input/?i=facebook+report#_=_)
 
-Better friendships through mapping technology [+](https://medium.com/@vtcraghead/better-friendships-through-mapping-technology-294c292f41c5#.smctcdffk)
+[Better friendships through mapping technology](https://medium.com/@vtcraghead/better-friendships-through-mapping-technology-294c292f41c5#.smctcdffk)
 
 <br>
 _WHAT IF_
 
-Potrebbe essere interessante studiare le strutture "molecolari" dei legami "chimici" fra le persone, ma come visto da [questo](http://blog.stephenwolfram.com/2013/04/data-science-of-the-facebook-world/) studio viene fuori che le differenze di età possono provocare una variazione delle strutture-legami tra le persone.
+Potrebbe essere interessante studiare le strutture "molecolari" dei legami "chimici" fra le persone, ma come visto da [questo](http://blog.stephenwolfram.com/2013/04/data-science-of-the-facebook-world/) studio viene fuori che le differenze di età possono provocare una variazione delle strutture-legami tra le persone. [+](http://blog.stephenwolfram.com/2013/04/data-science-of-the-facebook-world/)
 
