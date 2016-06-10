@@ -2,11 +2,13 @@
 
 ###What is 
 
-È un’installazione che mostra il numero di persone uccise nel mondo, avvalendosi di informazioni provenienti da fonti giornalistiche inglesi.
+Monuments è un’installazione dell’artista Caleb Larsen che sfrutta le informazioni provenienti dai quotidiani inglesi relative al numero di omicidi che ogni giorno si consumano nel mondo.
+
 
 ###How it works 
 
-L’installazione consiste in un contenitore (posto sul soffitto di una stanza) pieno di piccole sfere gialle di 6mm, ognuna delle quali rappresenta le vittime di omicidi nel mondo. Un software dedicato acquisisce le informazioni provenienti da oltre 4500 fonti inglesi e attiva un meccanismo che rilascia le sfere in tempo reale facendole precipitare sul pavimento e creando un vero e proprio “monumento dei caduti”. 
+Lo spettatore che fruisce di tale installazione si ritrova in una stanza il cui soffitto presenta un box in plexiglass pieno di piccole palline gialle che vengono di volta in volta rilasciate all’interno della stanza spargendosi sul pavimento. Lo spettatore, incuriosito, rimane in attesa dell’evento sperando che quanto prima succeda qualcosa, non sapendo che ad ogni evento corrisponde la morte di un essere umano. Il sistema, attraverso un webscraping, va alla ricerca di notizie relative ad omicidi che si consumano in tutto il mondo acquisendo i dati da 4500 fonti giornalistiche inglesi; attraverso un algoritmo viene attivato un meccanismo che, ad ogni individuo vittima di omicio, fa corrispondere il rilascio di una pallina, creando sul pavimento un vero e proprio “monumento ai caduti”.
+
 
 ###What does it mean
 
