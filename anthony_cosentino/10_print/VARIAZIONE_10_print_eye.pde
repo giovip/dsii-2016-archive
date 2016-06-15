@@ -1,3 +1,13 @@
+   // Processing variation of 10Print by jamburraska : "EYE"
+// 2016 © jamburraska, Daniele @Fupete and the course DSII2016 @UniRSM  
+// github.com/fupete — github.com/dsii-2016-unirsm
+// Educational purposes, MIT License, 2016, San Marino
+// Istruzioni:
+// Premere "s" per stoppare l'interazione e salvare il frame.
+// Premere "r" per riprendere.
+   
+   
+   
     int w = 16;
     int h = 16;
     int index = 0;
