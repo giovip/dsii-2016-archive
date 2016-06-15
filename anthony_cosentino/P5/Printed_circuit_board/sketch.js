@@ -5,7 +5,8 @@ var g = 50; //dimensioni griglia
 
 function setup() {
   frameRate(50);
-  createCanvas(fullscreen);
+  pixelDensity(displayDensity());
+  createCanvas(windowWidth, windowHeight);
   background(0, 104, 65);
   smooth();
   strokeWeight(2);
@@ -56,6 +57,10 @@ function Circuito () {
   fill(122, 201, 67);
   ellipse(x, y, 8, 8);
   
+}
+
+function windowResized() {
+  resizeCanvas(windowWidth, windowHeight);
 }
 
 function keyPressed() { // se premo 'n' fermo il loop e salvo l'immagine, se premo 'l' riprendo il loop 
