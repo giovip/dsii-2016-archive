@@ -4,7 +4,8 @@
     
 
 function setup() {
-      createCanvas(640, 384);
+      pixelDensity(displayDensity());
+      createCanvas(windowWidth, windowHeight);
       background(0,0,0);
       strokeWeight(3);
       stroke(224);
@@ -27,4 +28,15 @@ function draw() {
         set(0, 0, image);
         index = 0;
 }
+}
+function windowResized() {
+  resizeCanvas(windowWidth, windowHeight);
+}
+
+// se premi "s" salva come immagine
+function keyTyped() {
+  if (key === 's') {
+    saveCanvas();
+  }
+  return false;
 }
