@@ -13,59 +13,42 @@ function setup() {
 
 function draw() {
 
-  /*RigheNere();
-   if (value== 0) {
-   ellipse(x, y, 8, 8);
-   line(x, y+g/2, x + g, y + g/2);  //disegno linea (-)
-   } else {
-   line(x + g, y, x, y+g); //disegno linea (/)
-   //ellipse(x, y, 8, 8);
-   fill(0);
-   stroke(122, 201, 67);
-   }
-   x = x + g;*/
+ 
 
   if (int (random(4)) == 0) {
-    RigheNere();
+    Circuito();
     line(x + g/2, y, x + g/2, y+g);  //disegno linea (|)
-    // ellipse(x, y, 8, 8);
   } 
   if (int (random(4)) == 1) {
-    RigheNere();
+    Circuito();
     line(x, y+g/2, x + g, y + g/2); //disegno linea (-)
   } 
   if (int (random(4)) == 2) {
-    RigheNere();
+    Circuito();
     line(x+g, y, x, y+g); //disegno linea (/)
   } 
   if (int (random(4)) == 3) {
-    RigheNere();
+    Circuito();
     line(x, y, x + g, y + g); //disegno linea (\)
   }
   x = x + g;
 
-
-
-
-
-
-  if (x >= width) {   //se supera la larghezza della pagina, va a capo e ricomincia da zero_va alla riga seguente
+ if (x >= width) {   
     x = 0; 
     y = y + g;
   }
 
-  if (y >= height) {  //se supera l'altezza della pagina, va a capo e ricomincia da zero con griglia e background differente
-
+  if (y >= height) {  
     g=50;
     y = 0; 
-    //Cambio();
+    
   }
 }
 
 
 
 
-function RigheNere () {
+function Circuito () {
   fill(0, 104, 65);
   noStroke();
   rect(x, y, width, g);
