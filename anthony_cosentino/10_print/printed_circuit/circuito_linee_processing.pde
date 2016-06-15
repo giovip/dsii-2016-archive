@@ -1,3 +1,12 @@
+// Processing variation of 10Print by jamburraska : "10 printed circuit board lines"
+// 2016 © jamburraska, Daniele @Fupete and the course DSII2016 @UniRSM  
+// github.com/fupete — github.com/dsii-2016-unirsm
+// Educational purposes, MIT License, 2016, San Marino
+// Istruzioni:
+// Premere "s" per stoppare l'interazione e salvare il frame.
+// Premere "r" per riprendere.
+
+
 int x = 0; 
 int y = 0;  
 int g = 50; //dimensioni griglia
