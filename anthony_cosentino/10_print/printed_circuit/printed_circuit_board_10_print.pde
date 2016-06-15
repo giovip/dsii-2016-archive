@@ -1,3 +1,12 @@
+// Processing variation of 10Print by jamburraska : "Printed circuit board"
+// 2016 © jamburraska, Daniele @Fupete and the course DSII2016 @UniRSM  
+// github.com/fupete — github.com/dsii-2016-unirsm
+// Educational purposes, MIT License, 2016, San Marino
+
+// Disegna un circuito elettronico stampato sul principio di casualità e ripetizione del 10 print
+// La funzionalità dello sketch si basa sull'acquisizione delle immagini presenti nella cartella data lanciate in maniera casuale.
+
+
 int x = 0; 
 int y = 0;  
 int g = 50; //gride size
