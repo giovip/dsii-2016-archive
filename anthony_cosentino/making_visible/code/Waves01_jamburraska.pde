@@ -1,6 +1,6 @@
-// Waves 01 by jamburraska_anthony cosentino 
-// 2016 © Anthony @jamburraska, Daniele @Fupete and the course DSII2016 @UniRSM  
-// github.com/fupete — github.com/dsii-2016-unirsm - github.com/Jamburraska
+// Waves 01 by anthonycosentino [electromagnetics, sound]
+// 2016 © anthonycosentino, Daniele @Fupete and the course DSII2016 @UniRSM  
+// github.com/fupete — github.com/dsii-2016-unirsm 
 // Educational purposes, MIT License, 2016, San Marino
 // —
 
