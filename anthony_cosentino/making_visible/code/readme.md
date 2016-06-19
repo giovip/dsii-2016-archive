@@ -2,9 +2,9 @@
 ####Istruzioni
 N.B. Il sistema viene attivato dal rilevamento delle frequenze elettromagnetiche<b>
 
-1 - scaricare il codice Processing <br>
-2 - scaricare il file "waves01_osc_communication_processing.als (file Ableton live)<br>
-3 - all'interno del file .als sono presenti 2 sole tracce audio in cui andranno inserite rispettivamente: canale 1, un solo clip (traffic), canale 2, quattro clip. <br>
+1 - scaricare il codice Processing; <br>
+2 - scaricare il file "waves01_osc_communication_processing.als (file Ableton live);<br>
+3 - all'interno del file .als sono presenti 2 sole tracce audio in cui andranno inserite rispettivamente: canale 1, un solo clip (traffic), canale 2, quattro clip; <br>
 
 ####Messaggi
 /live/play/clip         (int track, int clip)<br>
