@@ -3,6 +3,8 @@
 // github.com/fupete — github.com/dsii-2016-unirsm 
 // Educational purposes, MIT License, 2016, San Marino
 // —
+// Transforms the electromagnetic frequencies into the equivalent binary value, 
+// and shows the value as a set of black and white lines, like a barcode.
 
 import netP5.*;
 import oscP5.*;
