@@ -1,7 +1,7 @@
 ##Sviluppo del progetto
 #RENDERE VISIBILE L'INVISIBILE
 
-##I-Plants
+##I Plants
 
 ###STUDI
 *Una verità che Charles Darwin aveva già sospettato e che viene confermata dalle ricerche scientifiche dell’Università di Firenze e di Bonn è che le piante non sono diverse dagli altri esseri viventi. Su ogni singola punta delle radici (il nome è apice radicale) c'è un gruppo di cellule che comunica usando neurotrasmettitori, proprio come i nostri neuroni; e queste cellule elaborano e rispondono alle informazioni che arrivano qui da tutta la pianta. Ciascun apice è autonomo, ma può anche coordinarsi con gli altri. Un vero e proprio cervello diffuso il cui funzionamento a rete ricorda quello di internet, e che permette agli alberi non solo di comunicare, ma persino di avere una memoria e un’autocoscienza. Inoltre come gli altri esseri viventi le piante agiscono con il sistema prova-errore procedendo per tentativi fino a trovare la soluzione che poi riescono a riutilizzare in altre situazioni analoghe.Da questi studi è nata la neurobiologia vegetale, portata avanti dalla Society for plant neurobiology e una rivista, Plant signaling & behavior (comunicazione e comportamento delle piante).* 
