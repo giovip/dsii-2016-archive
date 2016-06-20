@@ -1,4 +1,4 @@
-##Progetto 
+##Sviluppo del progetto
 #RENDERE VISIBILE L'INVISIBILE
 
 ##I-Plants
