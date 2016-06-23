@@ -1,11 +1,19 @@
+// -
+// variazioe_10print 0.1 by Raffaella Barone [10Print, casualità]
+// 2016 © Raffaella Barone, Daniele @Fupete and the course DSII2016 @UniRSM  
+// github.com/fupete — github.com/dsii-2016-unirsm
+// Educational purposes, MIT License, 2016, San Marino
+// —
+// La variazione proposta mantiene il tema della generazione del labirinto, costruzione apparentemente casuale e ne accentua 
+//tale caratteristica introducendo l'elemento random nell'ordine in cui il labirinto si compone: non più ordinatamente 
+//riga per riga, ma in modo assolutamente casuale.
+
+
+
 
 var DimQuadrato = 80; //quadrati
 var nQuadratix ;
 var nQuadratiy ;
-
-
-
-
 
 function setup() {
 	
