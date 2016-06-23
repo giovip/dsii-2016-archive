@@ -13,7 +13,7 @@ Il museo vuole tenere in vita gli attori e i fatti della storia lunigiana, mostr
 Mira alla conservazione del patrimonio storico del luogo.
 
 ###What if
-La presenza di visitatori che interagiscono simultaneamente con le diverse componenti dell'installazione, crea, per quanto mi riguarda, un'atmosfera caotica e di distrurbo. L'esperienza vissuta all'interno del museo, mi porta a considerare la possibilità di riprogettare la parte sonora: sarebbe utile integrare degli sdoppiatori e amplificatori per cuffie che consentano a più visitatori di collegarsi, rendendo l'esperienza personale. Questo, in considerazione del fatto che la riproduzione simultanea dei contenuti è elemento di distrazione e rende poco gradevole la fruizione dei contenuti, che rimangono l'elemento centrale dell'installazione.   
+La presenza di visitatori che interagiscono simultaneamente con le diverse componenti dell'installazione, crea, per quanto mi riguarda, un'atmosfera caotica e di distrurbo. L'esperienza vissuta all'interno del museo, mi porta a considerare la possibilità di riprogettare la parte sonora: sarebbe utile integrare degli sdoppiatori e amplificatori per cuffie che consentano a più visitatori di collegarsi, rendendo l'esperienza personale. Questo, in considerazione del fatto che la riproduzione simultanea è elemento di distrazione e rende poco gradevole la fruizione dei contenuti, che rimangono l'elemento centrale dell'installazione.   
 __________________________________________
 
 
