@@ -2,19 +2,21 @@
 
 ###What is 
 
-Monuments è un’installazione dell’artista Caleb Larsen che sfrutta le informazioni provenienti dai quotidiani inglesi relative al numero di omicidi che ogni giorno si consumano nel mondo.
+Monument è un’installazione dell’artista Caleb Larsen esposta nel 2006 al Peacock Visual Arts di Aberdeen (Scozia), che utilizza informazioni, provenienti dai quotidiani inglesi, relative al numero di omicidi che ogni giorno si consumano nel mondo.
 
 
 ###How it works 
 
-Lo spettatore che fruisce di tale installazione si ritrova in una stanza il cui soffitto presenta un box in plexiglass pieno di piccole palline gialle che vengono di volta in volta rilasciate all’interno della stanza spargendosi sul pavimento. Lo spettatore, incuriosito, rimane in attesa dell’evento sperando che quanto prima succeda qualcosa, non sapendo che ad ogni evento corrisponde la morte di un essere umano. Il sistema, attraverso un webscraping, va alla ricerca di notizie relative ad omicidi che si consumano in tutto il mondo acquisendo i dati da 4500 fonti giornalistiche inglesi; attraverso un algoritmo viene attivato un meccanismo che, ad ogni individuo vittima di omicio, fa corrispondere il rilascio di una pallina, creando sul pavimento un vero e proprio “monumento ai caduti”.
+ Il sistema, attraverso un webscraping, va alla ricerca di notizie relative ad omicidi che si consumano in tutto il mondo, acquisendo i dati da 4500 fonti giornalistiche inglesi; attraverso un algoritmo viene attivato un meccanismo che ad ogni individuo vittima di omicio, fa corrispondere il rilascio di una pallina sul pavimento, creando un vero e proprio “monumento ai caduti”.
 
 
 ###What does it mean
 
-L’installazione sembra acquisire maggiore significato nel momento in cui vi è la presenza di un maggior numero di palline sul pavimento, che evoca nello spettatore una forte sensazione di angoscia e sgomento. È interessante, seppur triste, notare la frequenza con cui avvengono nel mondo tali omicidi, ed è forse proprio questo lo scopo principale di questa installazione.
+Il visitatore si ritrova all’interno di una grande stanza, al centro della quale, sul soffitto è sospeso un contenitore trasparente pieno di piccole palline gialle, ognuna delle quali rappresenta un omicidio non ancora compiuto. Gli spettatori, inconsapevoli del significato legato alla caduta delle palline, rimangono in attesa di qualcosa che permetta loro di interagire con l'opera, portandoli a desiderare, inconsciamente, la morte di altre persone. L’utilizzo di ambienti freddi e suoni meccanici è metafora della freddezza con cui, nella disattenzione e disinteressamento dei più, si consumino ogni giorno centinaia di omicidi e riprovevoli gesti. Uno degli aspetti più tristi è sapere che ogni 3/4 mesi il contenitore viene riempito di circa 100.000 palline, morti.
+
+
 
 ###What if
-Sarebbe utile, a mio avviso, lavorare ulteriormente sull’identità visiva e sonora del progetto, mascherando ad esempio il contenitore (elemento di disturbo), inserendolo in un contesto che possa risaltare le palline, rivedendo il colore delle palline stesse (perché gialle e non rosso sangue?) e i suoni, che per quanto meccanici e ripetitivi poco si adeguano alla natura dell’installazione.
+Nella sua semplicità estetica, l'opera racchiude significati seri e profondi che risultano, a mio modo di vedere, non immediati e di difficile comprensione. Il visitatore riesce ad avere una visione più chiara, forse, quando avrà terminato il suo percorso. La scelta dell'autore di far riflettere i visitatori soltanto alla fine, provocando sgomento e tristezza è condivisibile, ma forse sarebbe necessario palesare, anche minimamente, i significati e il contesto, per esempio attribuendo suoni di natura violenta, spari, urla, al contatto delle palline col pavimento, al fine di rievocare la dimensione all'interno della quale si vuole posizionare l'opera. 
 
 Anthony Cosentino
