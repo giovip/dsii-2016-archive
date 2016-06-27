@@ -38,16 +38,16 @@ Due alternative:
 
 ## What is - ipotesi
 
--	A. Lasciare segni – installazione
+-	A. Lasciare segni – Installazione
 Rievocare i segni interiori lasciati dall’utilizzo di parole d’odio. Utilizzare un oggetto medium: una sfera di gesso o una lastra di vetro che rappresenta la persona. Una punta di metallo che, richiamando la tortura cinese della goccia, scalfisce la superficie sempre nello stesso punto. Ogni colpo corrisponde ad una parola rilevata. Quanto velocemente l’oggetto medium viene distrutto?
 
--	B. Amplificare - installazione
+-	B. Amplificare - Installazione
 Utilizzare le parole stesse e farle riecheggiare in una stanza utilizzando un megafono giocattolo (la voce è resa gracchiante). Utilizzare programma text-to-speech o registrare voce attore o attrice.
 Le parole possono essere tradotte in codice binario (ogni lettera corrisponderà quindi a 8 cifre). Considerando che la parola più corta è composta da 5 lettere, sarà composta da 40 cifre. **Il codice binario amplifica il peso della parola aumentandone le parti che la costituiscono** (si passa da 5 caratteri totali a 40 numeri totali). Proiettare, sui muri della stanza, riempendoli, i numeri binari corrispondenti alle parole.
 Tre amplificazioni prodotte da: la voce, il codice binario, le proiezioni.
 
 
--	C. Beeeep - installazione
+-	C. Beeeep - Installazione
 Ragionare sul censurare le parole d’odio. Una voce parla, racconta, elenca aggettivi “positivi”, nel momento in cui viene rilevata una parola d’odio viene riprodotto un “bip” di censura. Quanti “bip” si sentiranno?
 
 
