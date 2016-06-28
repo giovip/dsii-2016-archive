@@ -1,4 +1,4 @@
-# 4 sides 10 print | [launch / open](http://dsii-2016-unirsm.github.io/p5/10print/MCSotgiu)
+# 4 sides 10 print | [launch / open](http://dsii-2016-unirsm.github.io/p5/10print/MCSotgiu/)
 
 
 
