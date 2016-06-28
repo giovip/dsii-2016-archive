@@ -22,4 +22,4 @@ di essere malati psichiatrici. Il percorso proposto all'interno del museo è div
 
 _WHAT IF_
 
-Uno dei problemi riscontranti durante la visita è che se si è primi ad entrare non si potranno osservare "matti" dall'altra parte del muro, potrebbe essere interessante fare entrare il visitatore da qualsiasi parte del museo senza dover indicare perforza la strada da percorrere.
+Uno dei problemi riscontranti durante la visita è che se si è primi ad entrare(senza altre persone all'interno) non si potranno osservare i "matti" dall'altra parte del muro, potrebbe essere interessante fare entrare il visitatore da qualsiasi parte del museo senza dover indicare perforza la strada da percorrere in questo modo si potrà visitare sia da osservatori che da osservati. Per il resto rimane un museo estremamente affascinante, non ha bisogno di tante migliorie, forse uno dei punti deboli rimane l'esterno incurato, ha bisogno di essere sistemato e sarebbe interessante vedere già da fuori ciò che è nascosto al suo interno, sfruttare le finestre come vetrine annesse al museo, l'unica parte visibile quando ancora era ospedale psichiatrico.
