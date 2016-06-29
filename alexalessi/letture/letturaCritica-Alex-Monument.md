@@ -15,5 +15,4 @@ L’installazione dura per circa 3/4 mesi, ogni mese viene riempito il contenito
 
 _WHAT IF_
 
-Non è così semplice capire il senso dell’installazione, sarebbe stato opportuno descriverne il significato, sottile e nascosto anche dopo aver effettuato l’esperienza “palline addosso”.
-
+Non è così semplice capire il senso dell’installazione, sarebbe stato opportuno descriverne il significato, sottile e nascosto anche dopo aver effettuato l’esperienza. Questo tipo di installazione mette a conoscenza la nostra fragilità, l'uomo difronte al cessare della vita non può fare nulla, ma può di certo prevenire azioni di uccisione, forse ciò che manca in Monumental è proprio un parere dell'artista che si limita solo a mostrare un contesto palese. La cosa che mi lascia un po' più perplesso è il fatto di dover caricare la macchina con le stesse palline una volta che il serbatoio è vuoto, forse per il periodo dell'installazione potrebbero rimanere sempre li in terra perchè comunque il valore delle palline è quello di persone uccise e che non potranno morire nuovamente (ovviamente caricando il serbatoio con palline nuove), quelle palline credo sia più corretto che vaghino finchè sia conclusa l'installazione, ogni persona potrà prendere e portare dove vuole quelle palline e magari sottoscrivere una specie di attestato dove si dice che la tal pallina è stata affidata a.
