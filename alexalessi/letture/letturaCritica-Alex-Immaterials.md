@@ -10,10 +10,11 @@ Il progetto ci mostra qualcosa che normalmente non è possibile percepire, ovver
 
 _HOW IT WORKS_
 
-Il progetto è stato realizzato grazie all’uso di una striscia led di 4 metri che, tramite un mini computer(arduino) ed un’antenna router, va ad indicare la forza del segnale della banda wifi. Il light painting è stato possibile utilizzando una macchina fotografica che scatta con tempi di esposizione lunghissimi e che per questo rende possibile il muro di luce, risultato delle fotografie.
+Il progetto è stato realizzato grazie all’uso di una striscia led(circa 80) di 4 metri posta su un'asta di legno che, tramite un mini computer(arduino) ed un’antenna router, va ad indicare la forza del segnale della banda wifi. Il light painting è stato possibile utilizzando una macchina fotografica che scatta a tempi di esposizione lunghissimi e che per questo rende visibile il muro di luce e l'architettura delle reti che ci circondano.
 
 _WHAT IF_
 
 Visto che è un progetto che rende visibile l’invisibile sarebbe stato interessante capire che tipo di reti si stavano vedendo, se pubbliche o private, magari utilizzando diversi colori per i led. Un’altra miglioria potrebbe essere quella di utilizzare 2 camere che se poste adiacenti possano riprendere live la stessa cosa: una con pochi frame per secondo l’altra stabile a 24 frame al secondo in modo che in post produzione possa essere possibile unire le due riprese, ottenendo un live light painting.
+Visto che noi stessi siamo sommersi da questa architettura dei dati invisibile, portrebbe essere interessante mettere noi stessi in rapporto con questo landscape, un maglietta luminosa(con dei led cuciti) potrebbe mostrare i luoghi con più interferenze a reti attraverso la luminosità che proviene da essa, più luminosa maggiore il segnale e viceversa.
 
 
